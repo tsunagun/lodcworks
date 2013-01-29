@@ -43,7 +43,6 @@ class Work
 	end
 
 	def to_rdf
-		return unless @license == "パブリックドメイン"
 		graph = RDF::Graph.new
 		@creators.each do |creator|
 			graph << RDF::Statement.new(RDF::URI.new(@uri), RDF::DC11.creator, RDF::Literal.new(creator)) unless creator.nil?
