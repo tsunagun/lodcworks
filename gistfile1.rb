@@ -6,7 +6,7 @@ require 'linkeddata'
 require 'nokogiri'
 
 class Work
-  attr_accessor :title, :creators, :uri, :another_uri, :description, :related_works, :license, :type
+	attr_accessor :title, :creators, :uri, :another_uri, :description, :related_works, :license, :type
 	def initialize
 		@creators = Array.new
 		@related_works = Array.new
@@ -33,8 +33,8 @@ class Work
 		work.license = license_to_uri(parser.at_xpath("//tr[th/text()='#{work.type}の権利指定']/td//div[@class='title']").text.strip) rescue nil
 		another_license = parser.at_xpath("//tr[th/text()='ライセンス']/td").text.strip rescue ""
 		work.license = another_license unless another_license == ""
-		parser.xpath("//tr[th[starts-with(., '関連する')]]").each do |tr|
-			work.related_work << tr.text.strip rescue next
+		parser.xpath("//tr[th[starts-with(., '関連する')]]//a[text()]/@href").each do |tr|
+			work.related_works << tr.text.strip rescue next
 		end
 		if work.type == "アイデア"
 			work.another_uri = parser.at_xpath("//tr[th/text()='投稿したアイデア']//@href").text.strip rescue nil
@@ -74,7 +74,6 @@ def license_to_uri(string)
 	}
 	licenses[string] || string
 end
-
 
 list_uri = "http://lod.sfc.keio.ac.jp/challenge2011/show_list.php"
 parser = Nokogiri::HTML.parse(open(list_uri).read)
