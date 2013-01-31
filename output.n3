@@ -1,0 +1,1202 @@
+<http://purl.org/net/mdlab/data/lodc/2011/d001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d001> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d001> <http://purl.org/dc/terms/creator> "辻本雅志" .
+<http://purl.org/net/mdlab/data/lodc/2011/d001> <http://purl.org/dc/terms/title> "医薬品データ" .
+<http://purl.org/net/mdlab/data/lodc/2011/d001> <http://purl.org/dc/terms/description> "公開されている診療報酬情報のための医薬品データと適用情報のLOD化" .
+<http://purl.org/net/mdlab/data/lodc/2011/d001> <http://xmlns.com/foaf/0.1/homepage> <http://www.5tec.co.jp/Medicine> .
+<http://purl.org/net/mdlab/data/lodc/2011/d001> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d001> .
+<http://purl.org/net/mdlab/data/lodc/2011/d001> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d002> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d002> <http://purl.org/dc/terms/creator> "山本泰智" .
+<http://purl.org/net/mdlab/data/lodc/2011/d002> <http://purl.org/dc/terms/title> "Allie" .
+<http://purl.org/net/mdlab/data/lodc/2011/d002> <http://purl.org/dc/terms/description> "生命科学分野の略語とその展開形(本来の表現)の関係、およびそれらが含まれる論文の情報、主な研究分野、同じ文献情報（タイトルもしくはアブストラクト）において共起する他の略語、DBpediaへのリンクなどの情報が収められている。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d002> <http://xmlns.com/foaf/0.1/homepage> <http://data.allie.dbcls.jp/> .
+<http://purl.org/net/mdlab/data/lodc/2011/d002> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d002> .
+<http://purl.org/net/mdlab/data/lodc/2011/d002> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d003> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d003> <http://purl.org/dc/terms/creator> "松澤　類" .
+<http://purl.org/net/mdlab/data/lodc/2011/d003> <http://purl.org/dc/terms/title> "anime_cast" .
+<http://purl.org/net/mdlab/data/lodc/2011/d003> <http://purl.org/dc/terms/description> "2011年の秋に放送開始されたアニメと出演声優のデータです。秋アニメ全部の声優を挙げる気力が持たなかったので、自分が見たもの限定です。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d003> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.jp/work/rdf1s68i> .
+<http://purl.org/net/mdlab/data/lodc/2011/d003> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d003> .
+<http://purl.org/net/mdlab/data/lodc/2011/d003> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d004> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d004> <http://purl.org/dc/terms/creator> "小嶋歩" .
+<http://purl.org/net/mdlab/data/lodc/2011/d004> <http://purl.org/dc/terms/title> "１０００日以上続いた歴代総理とその背景" .
+<http://purl.org/net/mdlab/data/lodc/2011/d004> <http://purl.org/dc/terms/description> "１０００日以上続いた日本の総理が行った政策やその時に起きた事件についてまとめてあります。近年総理の任期期間が短くなっているので、長く続けた総理に何か共通点があるのだろうかと思い調べました。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d004> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.jp/work/rdf1s71i> .
+<http://purl.org/net/mdlab/data/lodc/2011/d004> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d004> .
+<http://purl.org/net/mdlab/data/lodc/2011/d004> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d005> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d005> <http://purl.org/dc/terms/creator> "土井裕太" .
+<http://purl.org/net/mdlab/data/lodc/2011/d005> <http://purl.org/dc/terms/title> "お笑い芸人コンビとその事務所および同期関係" .
+<http://purl.org/net/mdlab/data/lodc/2011/d005> <http://purl.org/dc/terms/description> "お笑い芸人のコンビ名とその事務所および同期関係のデータです.人数が多かったので有名どころに絞りました." .
+<http://purl.org/net/mdlab/data/lodc/2011/d005> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.jp/work/rdf1s73i> .
+<http://purl.org/net/mdlab/data/lodc/2011/d005> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d005> .
+<http://purl.org/net/mdlab/data/lodc/2011/d005> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d006> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d006> <http://purl.org/dc/terms/creator> "設樂昌利" .
+<http://purl.org/net/mdlab/data/lodc/2011/d006> <http://purl.org/dc/terms/title> "ポケットモンスターシリーズにおけるジムリーダーと四天王" .
+<http://purl.org/net/mdlab/data/lodc/2011/d006> <http://purl.org/dc/terms/description> "1996年から今に至るまで人気作品として知られるポケットモンスターシリーズにおいて、ストーリー上で重要となる人物についてまとめました。主にゲーム上で使用されたモンスターについてと貰えるお金、住んでいた地方、アニメに登場した場合には声優に関するデータを載せています。人気の背景にどのような構成や難易度を誇っているのかに興味があり調べました。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d006> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.jp/work/rdf1s74i> .
+<http://purl.org/net/mdlab/data/lodc/2011/d006> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d006> .
+<http://purl.org/net/mdlab/data/lodc/2011/d006> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d007> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d007> <http://purl.org/dc/terms/creator> "佐藤翔太郎" .
+<http://purl.org/net/mdlab/data/lodc/2011/d007> <http://purl.org/dc/terms/title> "声優数珠つなぎ" .
+<http://purl.org/net/mdlab/data/lodc/2011/d007> <http://purl.org/dc/terms/description> "声優をアニメの相手役同士で数珠つなぎしました。\r共演者の共演者の…と、しりとりのようにつなげてみました。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d007> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.jp/work/rdf1s86i> .
+<http://purl.org/net/mdlab/data/lodc/2011/d007> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d007> .
+<http://purl.org/net/mdlab/data/lodc/2011/d007> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d008> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d008> <http://purl.org/dc/terms/creator> "ほえほえ" .
+<http://purl.org/net/mdlab/data/lodc/2011/d008> <http://purl.org/dc/terms/title> "Location Site of Japanimation" .
+<http://purl.org/net/mdlab/data/lodc/2011/d008> <http://purl.org/dc/terms/description> "[ Abstract ] \rいまや4000億円市場と推算される日本のサブカルチャー市場（オタク文化）の牽引役として, 毎年, 夏と冬の2回開催されるコミックマーケットの役割は文化, 産業, 技術の面から重要である(近年の参加者数は50万人程度).また今年で82回と同人イベントとしての歴史も長く, 今後, 蓄積されたコンテンツ情報を整理・分類していく必要があるだろう. しかしながら, ただアーカイブ化するのではなく, セマンテックデータ化することで再び同人創作へ利用できる汎用情報基盤を構築する必要があった. 本サークルではこれらのLOD化に取り組んでいる. \r[ Dataset ]\rコミックマーケット81 (C81・3日目, 2011年12月31日東プ20b)にて頒布したアニメ, ゲーム, ライトノベルなどの舞台となった自治体の情報を, DBpedia, DBpedia Light, DBpedia Light JPのIDを用いてリンクしたデータセットの改良版です. 本データセットで用いたスキーマ, 最終的にまとめたRDFの各形式(rdfxml, nt, ttl), および編纂の過程で用いた(CSV, TSV, Excel)を公開しています. SPARQL エンドポイントは準備中です. RDF化前の表形式を見ていただければデータセット全体の雰囲気が分かり易いかと存じます.  \rhttp://cheese-factory.net/download/anime_seichi_120120.html  \rデータセットの個別データはエントリーIDとnt, rdf, ttl, n3, jsonのいずれかの拡張子を付けていただくことで取得することができます.  \rhttp://cheese-factory.net/resource/seichi/(ID.拡張子)" .
+<http://purl.org/net/mdlab/data/lodc/2011/d008> <http://xmlns.com/foaf/0.1/homepage> <http://cheese-factory.net/lod.html> .
+<http://purl.org/net/mdlab/data/lodc/2011/d008> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d008> .
+<http://purl.org/net/mdlab/data/lodc/2011/d008> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d009> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d009> <http://purl.org/dc/terms/creator> "公益財団法人横浜市芸術文化振興財団" .
+<http://purl.org/net/mdlab/data/lodc/2011/d009> <http://purl.org/dc/terms/title> "ヨコハマ・アートLOD" .
+<http://purl.org/net/mdlab/data/lodc/2011/d009> <http://purl.org/dc/terms/description> "公益財団法人横浜市芸術文化振興財団が運営する2つのウェブサイトのデータをLOD化しました。\r横浜の文化芸術系のイベント情報を集めたヨコハマ・アートカレンダー17,000件、同じく横浜のアーティストやクリエイターの情報を集めたアートデータバンク90件。また、同財団が管理する施設情報についてもデータ化しています。アートカレンダー（http://www.yaf.or.jp/m/navi/artcal/index.php）アートデータバンク（http://acy.yafjp.org/artist/index.html）" .
+<http://purl.org/net/mdlab/data/lodc/2011/d009> <http://xmlns.com/foaf/0.1/homepage> <http://archive.yafjp.org/test/inspection.php> .
+<http://purl.org/net/mdlab/data/lodc/2011/d009> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d009> .
+<http://purl.org/net/mdlab/data/lodc/2011/d009> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nd/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d010> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d010> <http://purl.org/dc/terms/creator> "桝屋啓志" .
+<http://purl.org/net/mdlab/data/lodc/2011/d010> <http://purl.org/dc/terms/title> "BRC mouse strain" .
+<http://purl.org/net/mdlab/data/lodc/2011/d010> <http://purl.org/dc/terms/description> "バイオリソースセンターでは、生物遺伝材料の収集、保存、提供事業を行っており、このデータセットは提供されているマウス系統のものです。系統、系統の持つ遺伝子の変異、生物学的な特性が、公共データやオントロジーにリンクされています。リンクの仕方は上位オントロジーに従っています。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d010> <http://xmlns.com/foaf/0.1/homepage> <http://biolod.org/class/cria315s1i/BRC_Mouse_Strain> .
+<http://purl.org/net/mdlab/data/lodc/2011/d010> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d010> .
+<http://purl.org/net/mdlab/data/lodc/2011/d010> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d011> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d011> <http://purl.org/dc/terms/creator> "高月照江" .
+<http://purl.org/net/mdlab/data/lodc/2011/d011> <http://purl.org/dc/terms/title> "エッセンシャルオイルについて" .
+<http://purl.org/net/mdlab/data/lodc/2011/d011> <http://purl.org/dc/terms/description> "主要なエッセンシャルオイルについて、香りの種類や、精神的効能、使用上の注意事項等をまとめてみました。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d011> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.jp/work/rdf1s89i> .
+<http://purl.org/net/mdlab/data/lodc/2011/d011> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d011> .
+<http://purl.org/net/mdlab/data/lodc/2011/d011> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d012> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d012> <http://purl.org/dc/terms/creator> "鯖江市情報統計課" .
+<http://purl.org/net/mdlab/data/lodc/2011/d012> <http://purl.org/dc/terms/title> "公園トイレ情報" .
+<http://purl.org/net/mdlab/data/lodc/2011/d012> <http://purl.org/dc/terms/description> "鯖江市内の公園トイレの位置、男女の別、バリアーフリー情報です。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d012> <http://xmlns.com/foaf/0.1/homepage> <http://003will.sakura.ne.jp/isabae/> .
+<http://purl.org/net/mdlab/data/lodc/2011/d012> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d012> .
+<http://purl.org/net/mdlab/data/lodc/2011/d012> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d013> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d013> <http://purl.org/dc/terms/creator> "清水　昇" .
+<http://purl.org/net/mdlab/data/lodc/2011/d013> <http://purl.org/dc/terms/title> "ライフサイエンス辞書のLOD" .
+<http://purl.org/net/mdlab/data/lodc/2011/d013> <http://purl.org/dc/terms/description> "ライフサイエンス辞書の情報を㈱サイバーエッヂが、LOD Generatorを用いて、OWLとトリプルとに変換し、LODとして公開しています。\rライフサイエンス辞書のLODには、次の4種類のデータがあります。\r(1).ライフサイエンス辞書の用語階層情報〔\r(2).ライフサイエンス辞書の同義語情報\r(3).ライフサイエンス辞書の統制語(Descriptor)情報\r(4).ライフサイエンス辞書に於ける共起情報\r　　　　量が多いので次の二つに分割しています。\r　　　　　・共起情報パート１\r　　　　　・共起情報パート２\rライフサイエンス辞書のLODでは、次の三種類の記述方法を用いています。\r①概念階層(包摂関係)記述\r②ia-a 関係記述\r③owl:intersectionOfを用いた複合概念記述" .
+<http://purl.org/net/mdlab/data/lodc/2011/d013> <http://xmlns.com/foaf/0.1/homepage> <http://www.semanticweb.jp/lod/LodOfLsd.html> .
+<http://purl.org/net/mdlab/data/lodc/2011/d013> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d013> .
+<http://purl.org/net/mdlab/data/lodc/2011/d013> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nd/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d014> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d014> <http://purl.org/dc/terms/creator> "込山悠介" .
+<http://purl.org/net/mdlab/data/lodc/2011/d014> <http://purl.org/dc/terms/title> "Biomasspedia" .
+<http://purl.org/net/mdlab/data/lodc/2011/d014> <http://purl.org/dc/terms/description> "[要旨]\r農学生命科学分野にとって喫緊の課題である『バイオマス(生物由来資源)』を 対象に, 生命情報科学領域でも研究が盛んなセマンテックテクノロジーを用い, 生命科学の研究論文, データ資源, 政府統計情報および地理的情報のLOD化およびスキーマ設計を行った.\r[使用したデータ元]\rNEDO『バイオマス賦存量及び利用可能量の全国市町村別推計とマッピングデータの公開に向けたシステム開発に関する調査』, JARUS『バイオマス利活用技術情報データベース』, e-STAT『市町村コード』, PubMed (TogoWS via DBCLS), CiNii (Nii), DBpedia, DBpedia Lite, DBpedia Lite JP, LinkData (my data) および Location Site of Japanimation." .
+<http://purl.org/net/mdlab/data/lodc/2011/d014> <http://xmlns.com/foaf/0.1/homepage> <http://biomasspedia.net/> .
+<http://purl.org/net/mdlab/data/lodc/2011/d014> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d014> .
+<http://purl.org/net/mdlab/data/lodc/2011/d014> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2011/d008> .
+<http://purl.org/net/mdlab/data/lodc/2011/d014> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d015> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d015> <http://purl.org/dc/terms/creator> "加藤文彦" .
+<http://purl.org/net/mdlab/data/lodc/2011/d015> <http://purl.org/dc/terms/title> "saveMLAK" .
+<http://purl.org/net/mdlab/data/lodc/2011/d015> <http://purl.org/dc/terms/description> "saveMLAKは博物館・美術館，図書館，文書館，公民館及び類縁施設の被災・救援情報サイトです．東日本大地震の被災地域にある各施設の被災情報を集め，必要とされている情報を発信しています．saveMLAKの情報全体はCC-BY-SA，施設の基本データはCC0として公開しています．" .
+<http://purl.org/net/mdlab/data/lodc/2011/d015> <http://xmlns.com/foaf/0.1/homepage> <http://savemlak.jp/wiki/saveMLAK:データセット> .
+<http://purl.org/net/mdlab/data/lodc/2011/d015> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d015> .
+<http://purl.org/net/mdlab/data/lodc/2011/d015> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://purl.org/dc/terms/creator> "玉川奨" .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://purl.org/dc/terms/creator> "森田武史" .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://purl.org/dc/terms/creator> "山口高平" .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://purl.org/dc/terms/title> "日本語Wikipediaオントロジー" .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://purl.org/dc/terms/description> "Wikipediaは語彙網羅性および即時更新性に優れており，半構造情報資源であることからフリーテキストと比べてオントロジーとのギャップが小さいです．そのため，Wikipediaからのオントロジー学習研究が近年，盛んに行われています．しかしながら，Wikipedia はユーザ参加型という性質上，厳密な体系化が行われていないため，Wikipediaからのオントロジー学習には，多くの課題が存在しています．DBpediaはInfoboxの構造に着目し，Wikipediaから大量のトリプルを抽出しました．我々の日本語WikipediaオントロジーはInfoboxだけでなく，Wikipediaの様々な構造を利用し，半自動的に日本語に特化したオントロジーです．\r検索APIのURL:http://www.yamaguti.comp.ae.keio.ac.jp/wikipedia_ontology/" .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://xmlns.com/foaf/0.1/homepage> <http://www.wikipediaontology.org> .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d016> .
+<http://purl.org/net/mdlab/data/lodc/2011/d016> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d017> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d017> <http://purl.org/dc/terms/creator> "MicrobeDB.jpプロジェクトチーム" .
+<http://purl.org/net/mdlab/data/lodc/2011/d017> <http://purl.org/dc/terms/title> "MEO" .
+<http://purl.org/net/mdlab/data/lodc/2011/d017> <http://purl.org/dc/terms/description> "メンバー: 森宙史、岡本忍、川島秀一、竹原潤一、吉野弘二、MicrobeDB.jpプロジェクトチーム。\r　地球上のさまざまな場所から採取された微生物の遺伝子情報データから、生息環境を記述したメタデータのLOD化を行いました。\r微生物は陸地・海洋・動植物の体内など、地球上のあらゆる場所に生息しており、酸素の発生、窒素の代謝、光合成、腸内細菌など、地球や生物の物質循環で重要な役割を担っています。\rここ数年で、生物のもつすべての遺伝子セット（ゲノム）を超高速に解読する技術が急速に進歩しました。\rそれらの技術をつかって、環境中の土や海水などのサンプルから直接ゲノムを解読し、その環境に、どのような微生物がどれくらい生息していて、どんな遺伝子をもって何をしているのかを解明する「メタゲノム解析」が可能になりました。\rこの解析手法は、病気の治療、農業の改善、エネルギー生産など多くの応用が期待されています。現在までに多数のメタゲノム解析の結果が国際データベースに登録され、公開されています。\r　しかし、現状の公開されているメタゲノムデータでは、サンプルがどのような環境や場所から採取されたかというメタデータに関して、用語や記述方法などが統一されていないため、再利用が困難です。\rそこで、今回われわれは、データベースの利用者に、より高度な検索を提供するために、微生物の生息環境を記述するためのオントロジーである、MEO (Metagenome/Microbes Environment Ontology)を開発し、公開されているメタゲノム解析データのマッピングと整理を行ないました。\r応募したデータは、メタゲノム解析由来の微生物の生息環境に関する公開メタデータを、サンプルごとにMEOにより整理することでメタゲノムデータと環境情報をリンクさせたLODファイルと、MEOのOWLファイルの2つから構成されています。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d017> <http://xmlns.com/foaf/0.1/homepage> <http://mdb.bio.titech.ac.jp/meo/> .
+<http://purl.org/net/mdlab/data/lodc/2011/d017> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d017> .
+<http://purl.org/net/mdlab/data/lodc/2011/d017> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d018> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d018> <http://purl.org/dc/terms/creator> "白松俊" .
+<http://purl.org/net/mdlab/data/lodc/2011/d018> <http://purl.org/dc/terms/title> "SOCIA (Social Opinions and Concerns for Ideal Argumentation)" .
+<http://purl.org/net/mdlab/data/lodc/2011/d018> <http://purl.org/dc/terms/description> "地域の社会問題に係わったり議論に参加しようと思っても， その社会問題についての情報が不足していると参加することが難しくなり， 意欲も失われてしまいます． そこで，様々な社会問題の理解を助けるニュース記事や，「議論の種」として使える意見をWeb上から収集し，出来事ごとに構造化しました．それが，本データセットSOCIAです．さらに，構造化された関連情報を参考にしてユーザが設定した議題データも含んでいます．\rなお，本データセットは総務省SCOPEの支援を受けて開発されたものです．" .
+<http://purl.org/net/mdlab/data/lodc/2011/d018> <http://xmlns.com/foaf/0.1/homepage> <http://data.open-opinion.org/> .
+<http://purl.org/net/mdlab/data/lodc/2011/d018> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d018> .
+<http://purl.org/net/mdlab/data/lodc/2011/d018> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d019> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d019> <http://purl.org/dc/terms/creator> "加藤文彦" .
+<http://purl.org/net/mdlab/data/lodc/2011/d019> <http://purl.org/dc/terms/title> "LODAC BDLS" .
+<http://purl.org/net/mdlab/data/lodc/2011/d019> <http://purl.org/dc/terms/description> "生物学辞書 (BDLS: Building Dictionary for Life Science) は，生命科学分野における全ての日本語用語を英語やラテン語等の外部用語オントロジーと対応づける手掛かりとともに，収集することを目指しています．生物学辞書には，大きく分けて生物種名と学術用語の二種類があります．各用語は学名，和名，英名，慣用名といった様々な呼び方がなされますが，それら全てを収集して活用できるようにしています．\rLODAC BDLSでは，BDLSをLinked Dataとして構築しなおすことで，生物種名や学術用語のグラフを形成します．これによって，和名と学名と英名の関係や和名同士の関係などを辿ることが容易となります．また，BDLSの特徴として，種名や用語の関係の出典情報も明示されています．これは出典によって使われているラベルや関係等が異なるということが良く発生するために，出典を基準に判断できる必要があるためです．この出典情報もグラフで表現することにより，出典自体の関係や，どの関係がどの出典由来であるかということを辿ることが可能となります．" .
+<http://purl.org/net/mdlab/data/lodc/2011/d019> <http://xmlns.com/foaf/0.1/homepage> <http://lod.ac/bdls/> .
+<http://purl.org/net/mdlab/data/lodc/2011/d019> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d019> .
+<http://purl.org/net/mdlab/data/lodc/2011/d019> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d020> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d020> <http://purl.org/dc/terms/creator> "吉本龍司" .
+<http://purl.org/net/mdlab/data/lodc/2011/d020> <http://purl.org/dc/terms/title> "図書館の施設情報を横断的に結合するデータセット" .
+<http://purl.org/net/mdlab/data/lodc/2011/d020> <http://purl.org/dc/terms/description> "図書館の施設に関する情報源としてはカーリル、WikipediaやSaveMLAKなどのウェブサイトや、国立国会図書館が運用するISILや国立情報学研究所のNACSIS参加組織コードなどの各種コードに紐づいたデータがあります。また、カーリルではシステムの特性上、図書館システム単位のシステムコードと図書館単位のLIBIDを付番しており、所蔵情報の問い合せにはこれらのコードが必要となります。\r日本国内にある図書館についての施設情報・コードを結合し、相互運用性を高めるために施設情報を横断的に結合するためデータセットを提供します。\rこのデータを活用することによりそれぞれの情報源とカーリルとの連携を強化するだけではなく、相互の連携可能性も提供します。" .
+<http://purl.org/net/mdlab/data/lodc/2011/d020> <http://xmlns.com/foaf/0.1/homepage> <http://lab.calil.jp/lod/> .
+<http://purl.org/net/mdlab/data/lodc/2011/d020> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d020> .
+<http://purl.org/net/mdlab/data/lodc/2011/d020> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/d021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2011/d021> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/d021> <http://purl.org/dc/terms/creator> "溝手　竜" .
+<http://purl.org/net/mdlab/data/lodc/2011/d021> <http://purl.org/dc/terms/title> "横浜観光スポット施設情報" .
+<http://purl.org/net/mdlab/data/lodc/2011/d021> <http://purl.org/dc/terms/description> "横浜観光コンベンションビューローがウェブサイトで公開しているデータをLOD化してみました。横浜はみどころがたくさんある街です。このデータを通じて横浜の魅力を広く伝えられれば幸いです。\r横浜観光コンベンションビューローHP\rhttp://www.welcome.city.yokohama.jp/ja/" .
+<http://purl.org/net/mdlab/data/lodc/2011/d021> <http://xmlns.com/foaf/0.1/homepage> <http://storage.info-lounge.jp/lod/spot_all.rdf> .
+<http://purl.org/net/mdlab/data/lodc/2011/d021> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=d021> .
+<http://purl.org/net/mdlab/data/lodc/2011/d021> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2011/a006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2011/a006> <http://purl.org/dc/terms/available> "2011" .
+<http://purl.org/net/mdlab/data/lodc/2011/a006> <http://purl.org/dc/terms/creator> "yoneken" .
+<http://purl.org/net/mdlab/data/lodc/2011/a006> <http://purl.org/dc/terms/title> "NumCi" .
+<http://purl.org/net/mdlab/data/lodc/2011/a006> <http://purl.org/dc/terms/description> "CiNiiデータベースでキーワードに一致する文献数の経年変化をグラフ化するWebアプリです．\r気になるキーワードの，年ごとの盛り上がりや盛り下がりをチェックしてみましょう♪\r検索結果のURLはメールやBBSに貼付けたり，1クリックでTwitterに投稿したりして共有できます．\rこのアプリケーションはパブリックドメインです．中のコードはどうぞ好き勝手いじってください．" .
+<http://purl.org/net/mdlab/data/lodc/2011/a006> <http://xmlns.com/foaf/0.1/homepage> <http://j.mp/NumCiNii> .
+<http://purl.org/net/mdlab/data/lodc/2011/a006> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2011/show_status.php?id=a006> .
+<http://purl.org/net/mdlab/data/lodc/2011/a006> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d001> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d001> <http://purl.org/dc/terms/creator> "リッツ総合研究所　岩場" .
+<http://purl.org/net/mdlab/data/lodc/2012/d001> <http://purl.org/dc/terms/title> "DATA MAP 住所・駅・寺神社・学校等座標情報（横浜市・京都市）" .
+<http://purl.org/net/mdlab/data/lodc/2012/d001> <http://purl.org/dc/terms/description> "ＧＩＳマーケティング用データとして、住所・駅・寺社・学校等\r各データの名称およびそれに対応する緯度・経度の座標情報\r提供エリア：横浜市・京都市\r※　ただし、データ利用に際しましては、非営利利用を前提にデータをご活用ください。なお、その場合でも「データ：ＲＩＴＳ総合研究所提供」とクレジットをご明記ください。また、有償でのビジネスに本データをご活用の場合、別途弊社にご連絡願います。（tel 006-4706-6644）" .
+<http://purl.org/net/mdlab/data/lodc/2012/d001> <http://xmlns.com/foaf/0.1/homepage> <http://www.rits-ri.net/gis/index.html> .
+<http://purl.org/net/mdlab/data/lodc/2012/d001> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d001> .
+<http://purl.org/net/mdlab/data/lodc/2012/d001> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-nd/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d002> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d002> <http://purl.org/dc/terms/creator> "河原　翔" .
+<http://purl.org/net/mdlab/data/lodc/2012/d002> <http://purl.org/dc/terms/title> "青空文庫 形態素解析データ集" .
+<http://purl.org/net/mdlab/data/lodc/2012/d002> <http://purl.org/dc/terms/description> "2012年12月時点で青空文庫で公開されている作品中で、作品著作権フラグがない作品のうち11,176件分のデータを形態素解析し、その解析結果を公開しています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d002> <http://xmlns.com/foaf/0.1/homepage> <http://aozora-word.digiweb.jp/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d002> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d002> .
+<http://purl.org/net/mdlab/data/lodc/2012/d002> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d003> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d003> <http://purl.org/dc/terms/creator> "L" .
+<http://purl.org/net/mdlab/data/lodc/2012/d003> <http://purl.org/dc/terms/title> "relation_table" .
+<http://purl.org/net/mdlab/data/lodc/2012/d003> <http://purl.org/dc/terms/description> "友人関係を表現しました" .
+<http://purl.org/net/mdlab/data/lodc/2012/d003> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s489i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d003> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d003> .
+<http://purl.org/net/mdlab/data/lodc/2012/d003> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d004> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d004> <http://purl.org/dc/terms/creator> "木村勇気" .
+<http://purl.org/net/mdlab/data/lodc/2012/d004> <http://purl.org/dc/terms/title> "jojo" .
+<http://purl.org/net/mdlab/data/lodc/2012/d004> <http://purl.org/dc/terms/description> "ジョジョについての図を示した" .
+<http://purl.org/net/mdlab/data/lodc/2012/d004> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s491i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d004> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d004> .
+<http://purl.org/net/mdlab/data/lodc/2012/d004> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d005> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d005> <http://purl.org/dc/terms/creator> "田中　太郎" .
+<http://purl.org/net/mdlab/data/lodc/2012/d005> <http://purl.org/dc/terms/title> "声優関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d005> <http://purl.org/dc/terms/description> "課題です" .
+<http://purl.org/net/mdlab/data/lodc/2012/d005> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s492i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d005> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d005> .
+<http://purl.org/net/mdlab/data/lodc/2012/d005> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d006> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d006> <http://purl.org/dc/terms/creator> "五十嵐団十郎" .
+<http://purl.org/net/mdlab/data/lodc/2012/d006> <http://purl.org/dc/terms/title> "firiend_list" .
+<http://purl.org/net/mdlab/data/lodc/2012/d006> <http://purl.org/dc/terms/description> "友人関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d006> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s499i?key=372476cbaa11fc9e1874dffd4363b55ee16b1c187ec8469dd2e54ce4d99904a73d1a2314a559fd85> .
+<http://purl.org/net/mdlab/data/lodc/2012/d006> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d006> .
+<http://purl.org/net/mdlab/data/lodc/2012/d006> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d007> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d007> <http://purl.org/dc/terms/creator> "高橋孝彦" .
+<http://purl.org/net/mdlab/data/lodc/2012/d007> <http://purl.org/dc/terms/title> "people_list" .
+<http://purl.org/net/mdlab/data/lodc/2012/d007> <http://purl.org/dc/terms/description> "周りの人々との人間関係を示した。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d007> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s498i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d007> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d007> .
+<http://purl.org/net/mdlab/data/lodc/2012/d007> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d008> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d008> <http://purl.org/dc/terms/creator> "松崎しげる" .
+<http://purl.org/net/mdlab/data/lodc/2012/d008> <http://purl.org/dc/terms/title> "チームメイト" .
+<http://purl.org/net/mdlab/data/lodc/2012/d008> <http://purl.org/dc/terms/description> "人間関係を表している" .
+<http://purl.org/net/mdlab/data/lodc/2012/d008> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s501i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d008> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d008> .
+<http://purl.org/net/mdlab/data/lodc/2012/d008> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d009> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d009> <http://purl.org/dc/terms/creator> "名無しさん" .
+<http://purl.org/net/mdlab/data/lodc/2012/d009> <http://purl.org/dc/terms/title> "別名義でのキャラ名" .
+<http://purl.org/net/mdlab/data/lodc/2012/d009> <http://purl.org/dc/terms/description> "同年での別名義でのキャラをあげてみました" .
+<http://purl.org/net/mdlab/data/lodc/2012/d009> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s507i/apps> .
+<http://purl.org/net/mdlab/data/lodc/2012/d009> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d009> .
+<http://purl.org/net/mdlab/data/lodc/2012/d009> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d010> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d010> <http://purl.org/dc/terms/creator> "稲葉凌太" .
+<http://purl.org/net/mdlab/data/lodc/2012/d010> <http://purl.org/dc/terms/title> "教師と生徒の関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d010> <http://purl.org/dc/terms/description> "教師と生徒の関係をRDFで作成しました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d010> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s514i?key=9c479f68394f752f1874dffd4363b55ee16b1c187ec8469dd2e54ce4d99904a73d1a2314a559fd85> .
+<http://purl.org/net/mdlab/data/lodc/2012/d010> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d010> .
+<http://purl.org/net/mdlab/data/lodc/2012/d010> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d011> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d011> <http://purl.org/dc/terms/creator> "ふーま" .
+<http://purl.org/net/mdlab/data/lodc/2012/d011> <http://purl.org/dc/terms/title> "プレミアリーグ得点ランキング上位の関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d011> <http://purl.org/dc/terms/description> "2013年1月19日現在のプレミアリーグの得点ランキング上位者の所属チームと過去の所属していたチームの人間関係を繋いだ。得点ランキング上位層の現在と過去に所属していたチームメイトを結ぶことでそのチームの強さや現在の順位と関係があるかわかるのではないかと思い、このデータセットを作成した" .
+<http://purl.org/net/mdlab/data/lodc/2012/d011> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/download/rdf1s516i/ttl/xls_ttl.txt> .
+<http://purl.org/net/mdlab/data/lodc/2012/d011> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d011> .
+<http://purl.org/net/mdlab/data/lodc/2012/d011> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d012> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d012> <http://purl.org/dc/terms/creator> "松田翔平" .
+<http://purl.org/net/mdlab/data/lodc/2012/d012> <http://purl.org/dc/terms/title> "MGS_CV" .
+<http://purl.org/net/mdlab/data/lodc/2012/d012> <http://purl.org/dc/terms/description> "とあるゲームの声優" .
+<http://purl.org/net/mdlab/data/lodc/2012/d012> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/property/rdf1s517i#voiceAct> .
+<http://purl.org/net/mdlab/data/lodc/2012/d012> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d012> .
+<http://purl.org/net/mdlab/data/lodc/2012/d012> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d013> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d013> <http://purl.org/dc/terms/creator> "仲田　翔" .
+<http://purl.org/net/mdlab/data/lodc/2012/d013> <http://purl.org/dc/terms/title> "family" .
+<http://purl.org/net/mdlab/data/lodc/2012/d013> <http://purl.org/dc/terms/description> "家族構成について" .
+<http://purl.org/net/mdlab/data/lodc/2012/d013> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s518i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d013> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d013> .
+<http://purl.org/net/mdlab/data/lodc/2012/d013> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d014> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d014> <http://purl.org/dc/terms/creator> "qurail" .
+<http://purl.org/net/mdlab/data/lodc/2012/d014> <http://purl.org/dc/terms/title> "seiyu_list" .
+<http://purl.org/net/mdlab/data/lodc/2012/d014> <http://purl.org/dc/terms/description> "女性声優の交友関係をまとめたもの" .
+<http://purl.org/net/mdlab/data/lodc/2012/d014> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s523i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d014> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d014> .
+<http://purl.org/net/mdlab/data/lodc/2012/d014> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d015> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d015> <http://purl.org/dc/terms/creator> "菊池 尚也" .
+<http://purl.org/net/mdlab/data/lodc/2012/d015> <http://purl.org/dc/terms/title> "ライトノベル作家一覧と作品・イラストレーター・レーベル" .
+<http://purl.org/net/mdlab/data/lodc/2012/d015> <http://purl.org/dc/terms/description> "ライトノベル作家の代表作、その代表作のイラストレーター、主に活躍するレーベルをまとめた。 作家と作品はfoaf:publications関係、作家とイラストレーターはfoaf:knows関係。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d015> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s530i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d015> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d015> .
+<http://purl.org/net/mdlab/data/lodc/2012/d015> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d016> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d016> <http://purl.org/dc/terms/creator> "taka" .
+<http://purl.org/net/mdlab/data/lodc/2012/d016> <http://purl.org/dc/terms/title> "2012年サッカー日本代表選手同士の所属関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d016> <http://purl.org/dc/terms/description> "2012年にサッカー日本代表に招集された全50名と同じクラブチームに所属している もしくは 所属していた選手（2012年に招集された他の49選手の中から選出）をfoaf:knowsで関連付けました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d016> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s521i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d016> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d016> .
+<http://purl.org/net/mdlab/data/lodc/2012/d016> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d017> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d017> <http://purl.org/dc/terms/creator> "大家 史裕" .
+<http://purl.org/net/mdlab/data/lodc/2012/d017> <http://purl.org/dc/terms/title> "犬神家の一族 （1977年）・主要登場人物と俳優の関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d017> <http://purl.org/dc/terms/description> "1977年に放送された古谷一行主演、横溝正史シリーズ・犬神家の一族を関連付けた" .
+<http://purl.org/net/mdlab/data/lodc/2012/d017> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s520i#work_information> .
+<http://purl.org/net/mdlab/data/lodc/2012/d017> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d017> .
+<http://purl.org/net/mdlab/data/lodc/2012/d017> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d018> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d018> <http://purl.org/dc/terms/creator> "江上周作" .
+<http://purl.org/net/mdlab/data/lodc/2012/d018> <http://purl.org/dc/terms/title> "ソクラテス以前の哲学者の人間関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d018> <http://purl.org/dc/terms/description> "ソクラテス以前の哲学者の師弟関係や知人関係を表現しました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d018> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s531i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d018> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d018> .
+<http://purl.org/net/mdlab/data/lodc/2012/d018> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d019> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d019> <http://purl.org/dc/terms/creator> "tatsuya_hs" .
+<http://purl.org/net/mdlab/data/lodc/2012/d019> <http://purl.org/dc/terms/title> "ゲーム開発会社と有名ゲーム" .
+<http://purl.org/net/mdlab/data/lodc/2012/d019> <http://purl.org/dc/terms/description> "ゲーム開発会社と有名ゲームの関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d019> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s535i#work_information> .
+<http://purl.org/net/mdlab/data/lodc/2012/d019> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d019> .
+<http://purl.org/net/mdlab/data/lodc/2012/d019> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://purl.org/dc/terms/creator> "ほえほえ" .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://purl.org/dc/terms/title> "LSJ2013" .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://purl.org/dc/terms/description> "【LOD作品の目的】LSJ（Location Site of Japanimation）はサブカル作品（アニメ, ゲーム, 漫画）舞台の情報データベースです. これまで同人ソフトウェア開発者間でのデータ流通, 共有化による生産性の向上, LODを利用したクロスオーバー作品の創発などを目的にLSJのLOD化を進めてきました.【LSJ2012からのアップデート情報】本年は舞台探訪アプリに必要なデータの追加・修正を行いました. 特にNTTレゾナント様の『おでかけルートナビ PinQA』のLOD API を活用し, より高精度な舞台探訪データを従来のLSJ2012とリンクしたところが新しいです.また, 二次利用しやすいようLSJ2013 LOD中で使用した語彙のオントロジーを整備. データのダウンロードに加えSPARQLエンドポイントの提供. 開発ノウハウを共有するためのドキュメント整備を行いました.\r【データ特性】サブカル（アニメ・ゲーム・漫画）作品の登場舞台をDBpediaやPinQAとリンク. 昨年度の投稿作品LSJ2012からデータの追加・修正. 表形式/TSV/RDFデータ, オントロジー（OWL）, SPARQL endpoint, アプリケーションの提供. LSJ2013は下記サイトからご利用いただけます.http://cheese-factory.info" .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://xmlns.com/foaf/0.1/homepage> <http://cheese-factory.info> .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d020> .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d008> .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i012> .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i021> .
+<http://purl.org/net/mdlab/data/lodc/2012/d020> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d021> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d021> <http://purl.org/dc/terms/creator> "yuki" .
+<http://purl.org/net/mdlab/data/lodc/2012/d021> <http://purl.org/dc/terms/title> "ツタンカーメンの一族" .
+<http://purl.org/net/mdlab/data/lodc/2012/d021> <http://purl.org/dc/terms/description> "DNA鑑定で明らかになった、ツタンカーメンの一族の関係を示しました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d021> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s533i?key=ababd13bae86ea8f1874dffd4363b55ee16b1c187ec8469dd2e54ce4d99904a73d1a2314a559fd85> .
+<http://purl.org/net/mdlab/data/lodc/2012/d021> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d021> .
+<http://purl.org/net/mdlab/data/lodc/2012/d021> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d022> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d022> <http://purl.org/dc/terms/creator> "白土寛之" .
+<http://purl.org/net/mdlab/data/lodc/2012/d022> <http://purl.org/dc/terms/title> "ゲーム作品Fateに登場するキャラの主従関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d022> <http://purl.org/dc/terms/description> "ゲーム作品Fateに登場するマスターとサーヴァントの関連を記述した。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d022> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s537i/apps> .
+<http://purl.org/net/mdlab/data/lodc/2012/d022> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d022> .
+<http://purl.org/net/mdlab/data/lodc/2012/d022> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d023> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d023> <http://purl.org/dc/terms/creator> "奥田　裕樹" .
+<http://purl.org/net/mdlab/data/lodc/2012/d023> <http://purl.org/dc/terms/title> "ドラえもんの主要人物の人間関係" .
+<http://purl.org/net/mdlab/data/lodc/2012/d023> <http://purl.org/dc/terms/description> "ドラえもんに登場する主要キャラクターの人間関係を表現しました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d023> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s538i/apps> .
+<http://purl.org/net/mdlab/data/lodc/2012/d023> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d023> .
+<http://purl.org/net/mdlab/data/lodc/2012/d023> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d024> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d024> <http://purl.org/dc/terms/creator> "itumono" .
+<http://purl.org/net/mdlab/data/lodc/2012/d024> <http://purl.org/dc/terms/title> "YukariTamura_CharacterList" .
+<http://purl.org/net/mdlab/data/lodc/2012/d024> <http://purl.org/dc/terms/description> "田村ゆかりさんが演じたアニメキャラクターをまとめたもの" .
+<http://purl.org/net/mdlab/data/lodc/2012/d024> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s539i/apps> .
+<http://purl.org/net/mdlab/data/lodc/2012/d024> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d024> .
+<http://purl.org/net/mdlab/data/lodc/2012/d024> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d025> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d025> <http://purl.org/dc/terms/creator> "takashi muramatsu" .
+<http://purl.org/net/mdlab/data/lodc/2012/d025> <http://purl.org/dc/terms/title> "NTTの系列会社" .
+<http://purl.org/net/mdlab/data/lodc/2012/d025> <http://purl.org/dc/terms/description> "NTTの系列会社をまとめました" .
+<http://purl.org/net/mdlab/data/lodc/2012/d025> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/download/rdf1s542i/ttl/knows_ttl.txt> .
+<http://purl.org/net/mdlab/data/lodc/2012/d025> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d025> .
+<http://purl.org/net/mdlab/data/lodc/2012/d025> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d026> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d026> <http://purl.org/dc/terms/creator> "遠藤稜典" .
+<http://purl.org/net/mdlab/data/lodc/2012/d026> <http://purl.org/dc/terms/title> "スタジオジブリ劇場公開作品一覧" .
+<http://purl.org/net/mdlab/data/lodc/2012/d026> <http://purl.org/dc/terms/description> "スタジオジブリ劇場公開作品一覧とその監督" .
+<http://purl.org/net/mdlab/data/lodc/2012/d026> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s545i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d026> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d026> .
+<http://purl.org/net/mdlab/data/lodc/2012/d026> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d027> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d027> <http://purl.org/dc/terms/creator> "MASAKI.S" .
+<http://purl.org/net/mdlab/data/lodc/2012/d027> <http://purl.org/dc/terms/title> "名探偵コナンの登場人物リスト" .
+<http://purl.org/net/mdlab/data/lodc/2012/d027> <http://purl.org/dc/terms/description> "人気コミック「名探偵コナン」に登場する主な人物のリストです。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d027> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s548i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d027> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d027> .
+<http://purl.org/net/mdlab/data/lodc/2012/d027> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d028> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d028> <http://purl.org/dc/terms/creator> "KATSUTOSHI IWAI" .
+<http://purl.org/net/mdlab/data/lodc/2012/d028> <http://purl.org/dc/terms/title> "Boeing_list" .
+<http://purl.org/net/mdlab/data/lodc/2012/d028> <http://purl.org/dc/terms/description> "ボーイング航空機とその初飛行年" .
+<http://purl.org/net/mdlab/data/lodc/2012/d028> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s549i/Boeing_list.html#work_information> .
+<http://purl.org/net/mdlab/data/lodc/2012/d028> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d028> .
+<http://purl.org/net/mdlab/data/lodc/2012/d028> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d029> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d029> <http://purl.org/dc/terms/creator> "Yudai" .
+<http://purl.org/net/mdlab/data/lodc/2012/d029> <http://purl.org/dc/terms/title> "Amagasaki_Serial_Killer_Suspected" .
+<http://purl.org/net/mdlab/data/lodc/2012/d029> <http://purl.org/dc/terms/description> "尼崎コンクリート事件の主要人物（名前の掲載されている人物のみ）を取り上げ、角田美代子との関係・年齢・生死について記述しました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d029> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s550i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d029> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d029> .
+<http://purl.org/net/mdlab/data/lodc/2012/d029> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-nd/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d030> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d030> <http://purl.org/dc/terms/creator> "吉田光男" .
+<http://purl.org/net/mdlab/data/lodc/2012/d030> <http://purl.org/dc/terms/title> "２ちゃんねる掲示板のスレッドデータ" .
+<http://purl.org/net/mdlab/data/lodc/2012/d030> <http://purl.org/dc/terms/description> "2006年以降に投稿された「２ちゃんねる掲示板」のスレッドデータです。3500万件以上のスレッドタイトルと700件以上の掲示板とを関連づけています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d030> <http://xmlns.com/foaf/0.1/homepage> <http://open.ceek.jp/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d030> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d030> .
+<http://purl.org/net/mdlab/data/lodc/2012/d030> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d031> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d031> <http://purl.org/dc/terms/creator> "鯖江市役所情報統計課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d031> <http://purl.org/dc/terms/title> "市内避難所" .
+<http://purl.org/net/mdlab/data/lodc/2012/d031> <http://purl.org/dc/terms/description> "鯖江市内の避難所の施設名、位置情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d031> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s307i?key=#work_information> .
+<http://purl.org/net/mdlab/data/lodc/2012/d031> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d031> .
+<http://purl.org/net/mdlab/data/lodc/2012/d031> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d032> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d032> <http://purl.org/dc/terms/creator> "鯖江市役所情報統計課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d032> <http://purl.org/dc/terms/title> "消火栓情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d032> <http://purl.org/dc/terms/description> "鯖江市内の消火栓の名称と位置情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d032> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s416i?key=#work_information> .
+<http://purl.org/net/mdlab/data/lodc/2012/d032> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d032> .
+<http://purl.org/net/mdlab/data/lodc/2012/d032> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d031> .
+<http://purl.org/net/mdlab/data/lodc/2012/d032> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d033> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d033> <http://purl.org/dc/terms/creator> "鯖江市役所情報統計課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d033> <http://purl.org/dc/terms/title> "コミュニティバスの位置情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d033> <http://purl.org/dc/terms/description> "鯖江市が運営するコミュティバス”つつじバス”の運行情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d033> <http://xmlns.com/foaf/0.1/homepage> <http://www.city.sabae.fukui.jp/users/tutujibus/web-api/web-api.html> .
+<http://purl.org/net/mdlab/data/lodc/2012/d033> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d033> .
+<http://purl.org/net/mdlab/data/lodc/2012/d033> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d034> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d034> <http://purl.org/dc/terms/creator> "菊池 尚也" .
+<http://purl.org/net/mdlab/data/lodc/2012/d034> <http://purl.org/dc/terms/title> "日本さくら名所100選" .
+<http://purl.org/net/mdlab/data/lodc/2012/d034> <http://purl.org/dc/terms/description> "財団法人日本さくらの会が1990年（平成2年）に、全国各地の桜の名所から100か所を選定したものです。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d034> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s544i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d034> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d034> .
+<http://purl.org/net/mdlab/data/lodc/2012/d034> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d035> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d035> <http://purl.org/dc/terms/creator> "落合香織" .
+<http://purl.org/net/mdlab/data/lodc/2012/d035> <http://purl.org/dc/terms/title> "青空文庫 Linked Open Data" .
+<http://purl.org/net/mdlab/data/lodc/2012/d035> <http://purl.org/dc/terms/description> "青空文庫で公開されている作品の書誌情報を新たにRDFの形式に変換を行いました。また、国立国会図書館が提供する国立国会図書館サーチ、典拠データ検索・提供サービスであるWeb NDL Authorities、Wikipediaのデータを持つDBPedia（Japanese）と連携を行いました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d035> <http://xmlns.com/foaf/0.1/homepage> <http://mdlab.slis.tsukuba.ac.jp/lodc2012/aozoralod/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d035> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d035> .
+<http://purl.org/net/mdlab/data/lodc/2012/d035> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d036> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d036> <http://purl.org/dc/terms/creator> "中村聡史" .
+<http://purl.org/net/mdlab/data/lodc/2012/d036> <http://purl.org/dc/terms/title> "国会会議録データセット（対話コーパス）" .
+<http://purl.org/net/mdlab/data/lodc/2012/d036> <http://purl.org/dc/terms/description> "国会会議録システム（http://kokkai.ndl.go.jp/SENTAKU/index.htm）から衆議院，参議院，両院協議会の1947年から2012年末日まで65年にわたる会議録から，\r・発言日\r・会議録上の発言者名\r・名寄せした発言者名\r・名寄せした発言者の役職名\r・発言内容（句点までを1区切りの発言として扱っています）\r・会議録のURL\rをタブ区切りで整形したデータです．総発言数は約4840万（総発言長は約35億文字．展開後のファイルサイズは16GB程度）になります．\r会議録上の発言者名は略記されるうえ，元データはまったく構造化されていないベタ書きのHTMLデータ（空白や改行によりなんとなく構造化されています）であり，国会会議録は議事録作成者にかなり左右されることがあるため，名寄せでかなり工夫しています．\r実際には，会議録上の発言者名をもとに，会議録内で参加者一覧と思われる場所を発見し，会議録上の発言者名の部分一致で最適合する名前らしき部分を人物名として抜き出すようにしております．（元データ（特に参加者一覧）はかなり作成者依存なので一度ご覧になる事をおすすめします）．\rなお，一部会議録作成者のタイプミスなどによって正常に名寄せできていないものもあります．ただ，その数は総量から考えるととても少ないので，分析上無視出来るレベルであると考えています．" .
+<http://purl.org/net/mdlab/data/lodc/2012/d036> <http://xmlns.com/foaf/0.1/homepage> <http://www.dl.kuis.kyoto-u.ac.jp/~nakamura/gijiroku_20130122.tsv.gz> .
+<http://purl.org/net/mdlab/data/lodc/2012/d036> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d036> .
+<http://purl.org/net/mdlab/data/lodc/2012/d036> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d037> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d037> <http://purl.org/dc/terms/creator> "横浜歴史フィールド・ミュージアムAR" .
+<http://purl.org/net/mdlab/data/lodc/2012/d037> <http://purl.org/dc/terms/title> "横浜歴史フィールド・ミュージアムAR" .
+<http://purl.org/net/mdlab/data/lodc/2012/d037> <http://purl.org/dc/terms/description> "＜メンバー＞\r上野直樹、関口昌幸、秋元慶太、 谷杉歩音、大崎 敬志朗、\r朝香貴裕、藤川恵一、嘉門保夫、杉浦裕樹、生島高裕\r＜作成データ＞\r　「横浜歴史フィールド・ミュージアムAR」データ\r　DBpediaからデータをSPARQL検索して作成する。\r＜元データ＞\r歴史関連データ\r(1) 歴史的建造物、サンプル、当時の絵葉書から\r   横浜道のオーバーレイしたjunaioサンプル\r(2) 歴史的建造物\rhttp://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E5%B8%82%E8%AA%8D%E5%AE%9A%E6%AD%B4%E5%8F%B2%E7%9A%84%E5%BB%BA%E9%80%A0%E7%89%A9\r(3) 発祥地\r前田サイト、wikipediaの馬車道の項目にあるリスト\r前田サイト\rhttp://yokohamamap.blogspot.jp/\rwikipediaの馬車道の項目\rhttp://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E9%81%93\r(4) 開港前後\r・1854 日米和親条約、開港資料館のあたり、横浜市中区日本大通（横浜港開港広場）\r現横浜開港資料館所在地）に応接所\rhttp://ja.wikipedia.org/wiki/%E6%97%A5%E7%B1%B3%E5%92%8C%E8%A6%AA%E6%9D%A1%E7%B4%84\r・1863 海岸通り（バンド）\r・1859 横浜道\rhttp://ja.wikipedia.org/wiki/%E6%A8%AA%E6%B5%9C%E9%81%93\r・吉田橋、前田橋、関所、1959\r・馬車道　1967前後\r下岡蓮杖　吉田橋わきに成駒屋という乗合馬車を作る。\rhttp://ja.wikipedia.org/wiki/%E9%A6%AC%E8%BB%8A%E9%81%93_(%E6%A8%AA%E6%B5%9C%E5%B8%82)\r日本初が多い。\r歴史的建造物も多い。\r・港崎遊郭、横浜公園\rhttp://ja.wikipedia.org/wiki/%E6%B8%AF%E5%B4%8E%E9%81%8A%E9%83%AD\r・日本大通り　大火\r・英一番館\r・イギリス波止場、フランス波止場\r・大さん橋、象の鼻\rhttp://ja.wikipedia.org/wiki/%E5%A4%A7%E3%81%95%E3%82%93%E6%A9%8B\r・神奈川運上所　wikipediaなし\rその西側を日本人町、東側を居留地とした。\rマップ\rhttp://www.timeslip-y.jp/kannai/unzyo-map.html\rhttp://www.timeslip-y.jp/kannai/unzyosyo.html" .
+<http://purl.org/net/mdlab/data/lodc/2012/d037> <http://xmlns.com/foaf/0.1/homepage> <http://ueno-lab.com/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d037> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d037> .
+<http://purl.org/net/mdlab/data/lodc/2012/d037> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/creator> "玉川奨" .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/creator> "香川宏介" .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/creator> "森田武史" .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/creator> "山口高平" .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/title> "日本語Wikipediaオントロジー" .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/description> "Wikipediaは語彙網羅性および即時更新性に優れており，半構造情報資源であることからオントロジー構築のための情報資源として非常に優れています．DBpediaもWikipediaのInfoboxと呼ばれる構造からLODを構築していますが，Infoboxは記事全体の3分の1程度しか存在していません．私たちはこれまで，日本語版Wikipediaの様々な構造を利用し，日本語に特化した大規模で汎用的なオントロジーを構築する手法の研究を行ってきました．\r本年度はLODとしての利便性の向上を図り，様々な標準語彙とプロパティの対応付けや他のLODとのリンクを追加しています．関係数も1500万を超え，非常に大規模なオントロジーとなっています．\r下記サンプルを参照すると，WikipediaやDBpediaだけでなく，LODAC(http://lod.ac/)，saveMLAK(http://savemlak.jp/wiki/saveMLAK)，青空文庫(http://www.aozora.gr.jp/)と対応付けされていることがわかります．\r福澤諭吉:http://www.wikipediaontology.org/instance/福澤諭吉\r吾輩は猫である:http://www.wikipediaontology.org/instance/吾輩は猫である\rギアナウズラ:http://www.wikipediaontology.org/instance/ギアナウズラ\r慶應義塾普通部:http://www.wikipediaontology.org/instance/慶應義塾普通部\rさらに，いくつかのプロパティについてはschema.org，GoodRelationsといった有名な標準語彙と対応付けされていることがわかります．\r周辺情報プロパティ:http://www.wikipediaontology.org/property/周辺情報\r国籍プロパティ:http://www.wikipediaontology.org/property/国籍\r下記URLから検索が可能です．\r検索:http://www.wikipediaontology.org/search.html\rエンドポイント:http://www.wikipediaontology.org/query/" .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://xmlns.com/foaf/0.1/homepage> <http://www.wikipediaontology.org> .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d038> .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d015> .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d016> .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d019> .
+<http://purl.org/net/mdlab/data/lodc/2012/d038> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d040> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d040> <http://purl.org/dc/terms/creator> "東　富彦" .
+<http://purl.org/net/mdlab/data/lodc/2012/d040> <http://purl.org/dc/terms/title> "オープンデータ活用事例" .
+<http://purl.org/net/mdlab/data/lodc/2012/d040> <http://purl.org/dc/terms/description> "オープンデータ活用した事例を集めたデータセットです。オープンデータとは、公的機関が保有するデータを民間に開放し、社会的課題解決からビジネスまで幅広く活用することによって、より良い社会の実現を目指す世界的な運動です。本事例集には、32ヶ国401事例について、事例の詳細、開発者、ビジネスモデルなどのデータが収録されています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d040> <http://xmlns.com/foaf/0.1/homepage> <https://docs.google.com/file/d/0B_XTTqI7i6p5Q1NXb2pGQ3ZZTUk/edit> .
+<http://purl.org/net/mdlab/data/lodc/2012/d040> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d040> .
+<http://purl.org/net/mdlab/data/lodc/2012/d040> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d041> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d041> <http://purl.org/dc/terms/creator> "本間維" .
+<http://purl.org/net/mdlab/data/lodc/2012/d041> <http://purl.org/dc/terms/title> "Namespaces and Vocabularies" .
+<http://purl.org/net/mdlab/data/lodc/2012/d041> <http://purl.org/dc/terms/description> "prefix.ccで公開されている名前空間リストと，実際の語彙定義ファイルとを関連付けたデータです．\rメタデータ記述語彙を調べるためのSPARQLエンドポイントを構築したい場合などに，語彙定義ファイル収集先の一覧として利用できます．\r詳細は http://mdlab.slis.tsukuba.ac.jp/lodc2012/vocab/ と https://github.com/tsunagun/vocab を参照してください．" .
+<http://purl.org/net/mdlab/data/lodc/2012/d041> <http://xmlns.com/foaf/0.1/homepage> <http://mdlab.slis.tsukuba.ac.jp/lodc2012/vocab/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d041> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d041> .
+<http://purl.org/net/mdlab/data/lodc/2012/d041> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d042> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d042> <http://purl.org/dc/terms/creator> "竹内久知" .
+<http://purl.org/net/mdlab/data/lodc/2012/d042> <http://purl.org/dc/terms/title> "「SmartTown」実現のための自治会町内会予算分類基準COFOT" .
+<http://purl.org/net/mdlab/data/lodc/2012/d042> <http://purl.org/dc/terms/description> "データセット部門 「SmartTown」実現のための自治会町内会予算分類基準COFOT\r(Classification of the functions of town)\rデータセットの名称のURL  http://linkdata.org/work/rdf1s570i\rその他のデータセット\rcofot.xlsx http://goo.gl/GG134\rhodogaya.xlsx http://goo.gl/uo4Df\ryosan_kanren.xlsx http://goo.gl/YmNnL\ryosan_kesan.xlsx http://goo.gl/fdcQw\rdataset.csv http://goo.gl/6TO3p\rデータセットの解説http://goo.gl/vBM1d\r「SmartTown」では、予算関連データをよりよく理解するための手始めとして、自治会町内会予算の分類コード体系と自治会町内会収入・支出科目分類表を組み合わせ、全国地域の自治会町内会の標準としての自治会町内会予算分類基準COFOT(Classification of the functions of town)原案を策定し、トライアル後に完成版に仕上げていく計画で作業を進めています。このCOFOT分類基準は国連の策定したグローバルスタンダード政府決算統計用国際標準COFOG(Classification of the functions of government)の３階層構造を解析し、集約して、準拠させています。COFOT原案策定と同時に、地方自治体予算に関して約3,000事業を超える横浜市事業計画書のデジタル化を終え、解析・データマイニングによりデファクト・スタンダードを目指した国際自治体予算比較基準COFOLG(local government)の原案作りを始めており、COFOTはCOFOL等への上位互換性を備えた体系となっています。\r「SmartTown」では、財政的な基盤の充実のために、地方自治体(横浜市)と地域(自治会町内会)の財政に関するデータのオープンデータ化を進め、予算関連データの可視化により地域住民がより解りやすく、学習し、理解し、地方自治体、自治会町内会、地域住民が対話するための手段としてICTを活用し、地方自治体予算の意義・意味(どのように市民に有効か)と効果(一人ひとりが実感できること)が市民に理解できるようにする手段と、さらに市政の広報活動を担っている自治会町内会単位でその地域で予算がどのように使われ、市民がそれらをどのように評価しているかを知る手段の提供により、行政に対して社会を良くすること、私達の町も良くするための地域(自治会町内会)財源充実のための提言を行えるソリューションを提供します。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d042> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s570i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d042> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d042> .
+<http://purl.org/net/mdlab/data/lodc/2012/d042> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i010> .
+<http://purl.org/net/mdlab/data/lodc/2012/d042> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d043> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d043> <http://purl.org/dc/terms/creator> "三宅明日香" .
+<http://purl.org/net/mdlab/data/lodc/2012/d043> <http://purl.org/dc/terms/title> "Linked Paper" .
+<http://purl.org/net/mdlab/data/lodc/2012/d043> <http://purl.org/dc/terms/description> "「Linked Paper」は論文間の内容の類似度を分析することで、関連性の高い論文を表示させるシステムです。\r研究を行うためには、ある研究テーマを設定し、それに関連する論文を探し続ける必要があります。通常はCiNiiなどを使ってキーワード検索を行いますが、それだけでは関連する論文を探し出すのは難しいと考えられます。そこで、論文の内容に基づいて論文をリンクさせ、内容が近いものをランキングで表示し、たどっていけるシステムを提案しました。これによって、関連性の高い論文を探し出すのが簡単になります。また自分が検索してきたキーワードでは出てこなかった、意外な関連論文も読むことができるので、考えも膨らむのではないかと考えられます。このシステムは、研究を行う学生や学者にとって有用なものになるだろうと考えています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d043> <http://xmlns.com/foaf/0.1/homepage> <http://exp.symbiotic.jp/paperlod/contents01.html> .
+<http://purl.org/net/mdlab/data/lodc/2012/d043> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d043> .
+<http://purl.org/net/mdlab/data/lodc/2012/d043> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i021> .
+<http://purl.org/net/mdlab/data/lodc/2012/d043> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d044> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d044> <http://purl.org/dc/terms/creator> "日吉健人" .
+<http://purl.org/net/mdlab/data/lodc/2012/d044> <http://purl.org/dc/terms/title> "ご当地グルメ" .
+<http://purl.org/net/mdlab/data/lodc/2012/d044> <http://purl.org/dc/terms/description> "各地域のご当地グルメの概要、味覚、温度、主成分と地域名をまとめたもの。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d044> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s382i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d044> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d044> .
+<http://purl.org/net/mdlab/data/lodc/2012/d044> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d045> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d045> <http://purl.org/dc/terms/creator> "データ利用環境整備チーム(U-USE)" .
+<http://purl.org/net/mdlab/data/lodc/2012/d045> <http://purl.org/dc/terms/title> "JAXA宇宙航空データリスト" .
+<http://purl.org/net/mdlab/data/lodc/2012/d045> <http://purl.org/dc/terms/description> "宇宙航空研究開発機構(JAXA)が所有する宇宙および航空に関連するデータのうち、地球観測衛星を中心として外部機関と何らかの形で共有しているデータの一部をリスト化し公開します。（2013年1月時点）。今後宇宙航空データのオープン化を促進するきっかけにしていきたいと思います。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d045> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s472i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d045> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d045> .
+<http://purl.org/net/mdlab/data/lodc/2012/d045> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d046> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d046> <http://purl.org/dc/terms/creator> "梶浦美咲" .
+<http://purl.org/net/mdlab/data/lodc/2012/d046> <http://purl.org/dc/terms/title> "Ranking of Author and Journal" .
+<http://purl.org/net/mdlab/data/lodc/2012/d046> <http://purl.org/dc/terms/description> "【概要】\r「Ranking of Author and Journal」はCiNiiでの論文検索結果から、その検索キーワードと関連性の高い重要な著者・刊行物のランキングを生成するシステムです。\r【研究における問題点】\r本来、自分の研究における重要なキーワードが分かったとしても、そのキーワードにおける重要な著者や刊行物が分からず、研究に関連しそうな重要な論文を読むことは困難です。\rCiNiiでの現状として、関連著者・関連刊行物を示すカラムが既に存在しますが、そこからは関連性の高いものでのランキングは行われていません。\r【解決策】\rそこで、キーワードによって検索されたものの中から、そのキーワードに関連性の高い重要な著者・刊行物のランキングを生成するシステムを提案します。関連性の高い著者や刊行物が分かれば、自分の研究に関係しそうな他の論文も読むことが可能になります。\rそれにより、自分の研究分野に対する理解を更に深めることができると考えられます。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d046> <http://xmlns.com/foaf/0.1/homepage> <http://exp.symbiotic.jp/paperlod/contents02.html> .
+<http://purl.org/net/mdlab/data/lodc/2012/d046> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d046> .
+<http://purl.org/net/mdlab/data/lodc/2012/d046> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i027> .
+<http://purl.org/net/mdlab/data/lodc/2012/d046> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d047> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d047> <http://purl.org/dc/terms/creator> "白山英一" .
+<http://purl.org/net/mdlab/data/lodc/2012/d047> <http://purl.org/dc/terms/title> "2010年度 国勢調査" .
+<http://purl.org/net/mdlab/data/lodc/2012/d047> <http://purl.org/dc/terms/description> "平成22年国勢調査から、人口等基本集計（男女・年齢・配偶関係，世帯の構成、外国人（地域別総数、男性数、女性数、世帯人員(7区分)，65歳以上世帯員の有無別一般世帯数，一般世帯人員及び65歳以上世帯人員 ）、また、都道府県別医療施設数、都道府県別医療関係者数、都道府県別地域保健活動状況、都道府県別生活保護法による被保護実世帯数と実人員、都道府県別農家数と農家人口（販売農家）、都道府県別主要家畜・鶏の飼養戸数，飼養頭羽数と生乳・鶏卵生産量　等々。\r平成22年度の国勢調査の調査結果データを自由に簡単に２次利用を可能にすることが目的。　境域年次は2010年のものを抽出した。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d047> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s448i/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d047> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d047> .
+<http://purl.org/net/mdlab/data/lodc/2012/d047> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d048> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d048> <http://purl.org/dc/terms/creator> "山口貴弘" .
+<http://purl.org/net/mdlab/data/lodc/2012/d048> <http://purl.org/dc/terms/title> "CiNii 拡張プロジェクト" .
+<http://purl.org/net/mdlab/data/lodc/2012/d048> <http://purl.org/dc/terms/description> "論文検索サイト CiNii の機能を拡張し、利便性を高めることを提案します。 \r・CiNii に登録されている論文を、予め分類しておき、国会図書館のように検索できるようにする。 \r・CiNii の RDF データを利用して論文同士の関連性を可視化する。 \r・他の論文ベースとの接続し、LOD として拡張する。 \r・(ユーザーが) OpenSearch の結果を 4store などの RDF ストレージに蓄積して再利用する。 \r・論文検索結果から関連した論文をレコメンドするサービスを行う。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d048> <http://xmlns.com/foaf/0.1/homepage> <http://exp.symbiotic.jp/paperlod/contents03.html> .
+<http://purl.org/net/mdlab/data/lodc/2012/d048> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d048> .
+<http://purl.org/net/mdlab/data/lodc/2012/d048> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i031> .
+<http://purl.org/net/mdlab/data/lodc/2012/d048> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d049> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d049> <http://purl.org/dc/terms/creator> "山口貴弘" .
+<http://purl.org/net/mdlab/data/lodc/2012/d049> <http://purl.org/dc/terms/title> "Astro Database" .
+<http://purl.org/net/mdlab/data/lodc/2012/d049> <http://purl.org/dc/terms/description> "オープンになっている天体観測結果のデータベースを RDF 化したもの。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d049> <http://xmlns.com/foaf/0.1/homepage> <http://exp.symbiotic.jp/paperlod/contents04.html> .
+<http://purl.org/net/mdlab/data/lodc/2012/d049> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d049> .
+<http://purl.org/net/mdlab/data/lodc/2012/d049> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d050> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d050> <http://purl.org/dc/terms/creator> "重光 俊亮" .
+<http://purl.org/net/mdlab/data/lodc/2012/d050> <http://purl.org/dc/terms/title> "SUBA RDF" .
+<http://purl.org/net/mdlab/data/lodc/2012/d050> <http://purl.org/dc/terms/description> "シロイヌナズナのタンパク質の細胞内局在化部位をまとめたデータベースであるSUBAをRDF化しました。また、SUBAとBioLODなどへのリンクも作成しました。引用文献：Tanz, S. K. et al. SUBA3: a database for integrating experimentation and prediction to define the SUBcellular location of proteins in Arabidopsis. Nucleic Acids Research 41, D1185–91 (2012)." .
+<http://purl.org/net/mdlab/data/lodc/2012/d050> <http://xmlns.com/foaf/0.1/homepage> <http://choge.net/?p=170> .
+<http://purl.org/net/mdlab/data/lodc/2012/d050> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d050> .
+<http://purl.org/net/mdlab/data/lodc/2012/d050> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i032> .
+<http://purl.org/net/mdlab/data/lodc/2012/d050> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://purl.org/dc/terms/creator> "松澤有三" .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://purl.org/dc/terms/title> "depicts.azurewebsites.net" .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://purl.org/dc/terms/description> "既存の地理ポリゴンデータをオープンデータとして使いやすいように加工・配信する試みです。\r【データセット】\r加工成果として地球観測ポリゴン (14), 国ポリゴン（238), 都道府県ポリゴン(47) を CC-BY で公開します。市区町村ポリゴン(1,907) は元著作の利用規約に従い、All Rights Reserved として参考公開します。\rhttp://depicts.azurewebsites.net/\r【課題】\r地理データは Shape や KML といったフォーマットのファイルとして、オープン\rライセンスで公開されることも多くなってきました。\rしかしこのようなファイルはデスクトップアプリでの利用を前提としたり、特定のオンラインサービスで使ったり、といった使用方法が一般的です。それ自体の URL が顧みられることは少ないのではないでしょうか？\r「リンクして使うデータ」としては心もとなく、FiveStar の評価は 2～3 あたりでしょうか。もったいない。\r【データ】\r地理データのポリゴンデータを小さな単位の SVG 形式に加工して配信します。SVG には以下のメタデータが含まれます\r・加工元への参照\r・ライセンス\r・GeoNames への参照\r・地球観測ボキャブラリを使ったトピックの記述\rまた、データとしての再利用性を重視して、SVG の構造は単純化しています。ルート svg 要素の直下に polygon 要素がおかれ、座標値として経度緯度が無加工で設定されています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://xmlns.com/foaf/0.1/homepage> <http://depicts.azurewebsites.net/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d051> .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i012> .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i016> .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i017> .
+<http://purl.org/net/mdlab/data/lodc/2012/d051> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d052> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d052> <http://purl.org/dc/terms/creator> "「税金はどこへ行った？」チームメンバ" .
+<http://purl.org/net/mdlab/data/lodc/2012/d052> <http://purl.org/dc/terms/title> "平成24年度横浜市予算【部局別主要事業明細】データ" .
+<http://purl.org/net/mdlab/data/lodc/2012/d052> <http://purl.org/dc/terms/description> "Where Does My Money Go? 日本語版プロジェクトで構築したWebサイト http://spending.jp/ で利用している横浜市の主要事業の予算データを Linked Open Data (LOD) にしたものです。\r主要事業に対応した横浜市の部局の情報もLOD化し、主要事業の部局とspending.jpの予算カテゴリ(分野)とをリンクさせています。\rhttp://linkdata.org/work/rdf1s187i/apps (投稿データとは別のデータです。)\rデータモデルについては以下のスライド(p.4)をご覧ください。\rhttp://www.slideshare.net/HiroyukiSato1/lod-for-yokohama-city-budget-plan" .
+<http://purl.org/net/mdlab/data/lodc/2012/d052> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s185i/apps> .
+<http://purl.org/net/mdlab/data/lodc/2012/d052> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d052> .
+<http://purl.org/net/mdlab/data/lodc/2012/d052> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d053> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d053> <http://purl.org/dc/terms/creator> "藤澤伸" .
+<http://purl.org/net/mdlab/data/lodc/2012/d053> <http://purl.org/dc/terms/title> "藤沢市のオープンデータLOD" .
+<http://purl.org/net/mdlab/data/lodc/2012/d053> <http://purl.org/dc/terms/description> "藤沢市に関する情報、現在は主に施設・スポットの情報をLOD化しています。具体的には、藤沢市のグルメスポット情報・避難場所の情報・幼稚園の情報が、RDFファイルおよびsparql検索で取得可能です。 (sparql end point: http://data.sfc.keio.ac.jp/sparql )" .
+<http://purl.org/net/mdlab/data/lodc/2012/d053> <http://xmlns.com/foaf/0.1/homepage> <http://data.tom.sfc.keio.ac.jp/rdf> .
+<http://purl.org/net/mdlab/data/lodc/2012/d053> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d053> .
+<http://purl.org/net/mdlab/data/lodc/2012/d053> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d054> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d054> <http://purl.org/dc/terms/creator> "黒川奈桜子" .
+<http://purl.org/net/mdlab/data/lodc/2012/d054> <http://purl.org/dc/terms/title> "参議院議員リスト" .
+<http://purl.org/net/mdlab/data/lodc/2012/d054> <http://purl.org/dc/terms/description> "2013/1/29現在の参議院議員情報をCSV形式でまとめたファイルです。\rhttp://www.sangiin.go.jp/japanese/joho1/kousei/giin/183/giin.htm　以下にある情報を元にしました。\r以下の項目が含まれています。\r・ID No.（参議院による議員紹介ページのURLから抽出したものです。ユニークですが連番ではありません）\r・氏名（苗字と名前の間を半角スペースで区切ってあります）\r・出馬エリア（都道府県名もしくは比例）\r・次回選挙日程（H28.7.25もしくはH25.7.28）\r・所属政党\r・当選した年度（複数回当選の場合には\\" .
+<http://purl.org/net/mdlab/data/lodc/2012/d054> <http://xmlns.com/foaf/0.1/homepage> <http://www.nak.ics.keio.ac.jp/~kurokawa/sangi_list.csv> .
+<http://purl.org/net/mdlab/data/lodc/2012/d054> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d054> .
+<http://purl.org/net/mdlab/data/lodc/2012/d054> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d036> .
+<http://purl.org/net/mdlab/data/lodc/2012/d054> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://purl.org/dc/terms/creator> "公立はこだて未来大学 高度ICT演習観光系プロジェクト" .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://purl.org/dc/terms/title> "函館まちあるきルート情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://purl.org/dc/terms/description> "高度ICT演習観光系プロジェクト\rM1：高橋正輝、坂井麻里恵\rB3：岸野亜理沙、佐藤正徳、武田泰典、似内勇太、前田実優、松田隼士、山田亜美\rB2：安藤大岳、伊林謙太、小野美郁、工藤卓也、西本光司、兵藤允彦\rアドバイザー M2：永峰和弘　指導教員：奥野拓\r函館まちあるきルート情報\r函館市が提供している「函館まちあるきマップ」（http://www.city.hakodate.hokkaido.jp/kankou/hako_machi/）のRDFデータを作成しました。「函館まちあるきマップ」とは、 函館の街並みを歩きながら楽しむことできるルートを掲載した紙媒体の地図です。このRDFデータには、「函館まちあるきマップ」全22コース分の、それぞれのコース名、所要時間、距離、消費カロリー、ルート上にある観光スポット名を含めました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://xmlns.com/foaf/0.1/homepage> <http://210.226.0.93/status/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d055> .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d056> .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d058> .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i033> .
+<http://purl.org/net/mdlab/data/lodc/2012/d055> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nd/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://purl.org/dc/terms/creator> "公立はこだて未来大学 高度ICT演習観光系プロジェクト" .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://purl.org/dc/terms/title> "函館映画ロケ地情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://purl.org/dc/terms/description> "高度ICT演習観光系プロジェクト\rM1：高橋正輝、坂井麻里恵\rB3：岸野亜理沙、佐藤正徳、武田泰典、似内勇太、前田実優、松田隼士、山田亜美\rB2：安藤大岳、伊林謙太、小野美郁、工藤卓也、西本光司、兵藤允彦\rアドバイザー M2：永峰和弘　指導教員：奥野拓\r函館映画ロケ地情報\r函館市が提供している「はこだてフィルムコミッション」（http://www.hakodate-fc.com/）のRDFデータを作成しました。「はこだてフィルムコミッション」とは、函館で撮影された映画のロケ地情報を掲載したWebサイトです。このRDFデータには、映画タイトル、監督、主演、ロケ地となったスポット名、ロケ地で撮影されたシーンの内容を含めました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://xmlns.com/foaf/0.1/homepage> <http://210.226.0.93/status/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d056> .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d055> .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d058> .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i033> .
+<http://purl.org/net/mdlab/data/lodc/2012/d056> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nd/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d057> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d057> <http://purl.org/dc/terms/creator> "黒川奈桜子" .
+<http://purl.org/net/mdlab/data/lodc/2012/d057> <http://purl.org/dc/terms/title> "2009年～2012年に刊行されたライトノベル一覧" .
+<http://purl.org/net/mdlab/data/lodc/2012/d057> <http://purl.org/dc/terms/description> "「ラノベの杜」http://ranobe-mori.net/に掲載された情報を元に2009年1月から2012年12月までに刊行されたライトノベルをCSV形式でまとめたファイルです。以下の情報が含まれています。\r・発売日（yyyy/(m)m/(d)d）\r・レーベル\r・書名\r・著者\r・イラストレーター\r・価格\r・ISBN" .
+<http://purl.org/net/mdlab/data/lodc/2012/d057> <http://xmlns.com/foaf/0.1/homepage> <http://www.nak.ics.keio.ac.jp/~kurokawa/ranobe_list2009-2012.csv> .
+<http://purl.org/net/mdlab/data/lodc/2012/d057> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d057> .
+<http://purl.org/net/mdlab/data/lodc/2012/d057> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://purl.org/dc/terms/creator> "公立はこだて未来大学 高度ICT演習観光系プロジェクト" .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://purl.org/dc/terms/title> "函館土木遺産情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://purl.org/dc/terms/description> "高度ICT演習観光系プロジェクト\rM1：高橋正輝、坂井麻里恵\rB3：岸野亜理沙、佐藤正徳、武田泰典、似内勇太、前田実優、松田隼士、山田亜美\rB2：安藤大岳、伊林謙太、小野美郁、工藤卓也、西本光司、兵藤允彦\rアドバイザー M2：永峰和弘　指導教員：奥野拓\r函館土木遺産情報\r「函館近代化遺産ポータルサイト」（http://hnct-pbl.jimdo.com/ ）のRDFデータを作成しました。「函館近代化遺産ポータルサイト」とは、函館の歴史ある土木建築物(ダムや堤防など)の情報を掲載したWebサイトです。このWebサイトは函館工業高等専門学校のPBLで株式会社ノース技研の指導の下に作成されました。このRDFデータには、土木建築物の名前、概要、住所、緯度・経度、施工者、竣工年を含めました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://xmlns.com/foaf/0.1/homepage> <http://210.226.0.93/status/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d058> .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d055> .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d056> .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i033> .
+<http://purl.org/net/mdlab/data/lodc/2012/d058> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nd/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d059> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d059> <http://purl.org/dc/terms/creator> "会津若松市 情報政策課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d059> <http://purl.org/dc/terms/title> "公共施設マップ、年齢・大字別人口" .
+<http://purl.org/net/mdlab/data/lodc/2012/d059> <http://purl.org/dc/terms/description> "①市及び公共的な施設の連絡先及び地図データ\r②住基人口の年齢毎、大字毎の男女別の人数" .
+<http://purl.org/net/mdlab/data/lodc/2012/d059> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/user/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82%E6%83%85%E5%A0%B1%E6%94%BF%E7%AD%96%E8%AA%B2> .
+<http://purl.org/net/mdlab/data/lodc/2012/d059> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d059> .
+<http://purl.org/net/mdlab/data/lodc/2012/d059> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d060> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d060> <http://purl.org/dc/terms/creator> "理研BRC マウス表現型知識化ユニット" .
+<http://purl.org/net/mdlab/data/lodc/2012/d060> <http://purl.org/dc/terms/title> "マウス・フェノーム" .
+<http://purl.org/net/mdlab/data/lodc/2012/d060> <http://purl.org/dc/terms/description> "生物の表現型を、生命科学分野のオントロジーを用いて、網羅的に表現するRDFの形式を策定しました。これを用いて、バイオリソースセンターに寄託されているマウスの表現型をまとめています。このデータは、https://database.riken.jp/sw/ja/表現型アノテーション/cria315s5i/　において、表形式でブラウズできる他、前回投稿したマウス系統そのものと組み合わせて、https://database.riken.jp/sw/ja/C57BL_6-KitW-v__/cria315s1ria315u100000000142i/　のように、同じ表現型のマウス情報を収集することにも役立っています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d060> <http://xmlns.com/foaf/0.1/homepage> <https://database.riken.jp/sw/data/ja/cria315s5i~archives~semantics~semantic_web.owl-rdf.xml#_download> .
+<http://purl.org/net/mdlab/data/lodc/2012/d060> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d060> .
+<http://purl.org/net/mdlab/data/lodc/2012/d060> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d017> .
+<http://purl.org/net/mdlab/data/lodc/2012/d060> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d061> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d061> <http://purl.org/dc/terms/creator> "庄司昌彦" .
+<http://purl.org/net/mdlab/data/lodc/2012/d061> <http://purl.org/dc/terms/title> "地方自治体Facebookページ" .
+<http://purl.org/net/mdlab/data/lodc/2012/d061> <http://purl.org/dc/terms/description> "国際大学GLOCOM地域SNS研究会として、庄司昌彦、林雅之、菊地映輝が作成した２０１３年１月時点の日本国内の地方自治体Facebookページのリストです。都道府県、政令指定都市、県庁所在地＋αをカバーしています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d061> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s576i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d061> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d061> .
+<http://purl.org/net/mdlab/data/lodc/2012/d061> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d062> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d062> <http://purl.org/dc/terms/creator> "藤澤貴智,清水たくみ,小林巌生" .
+<http://purl.org/net/mdlab/data/lodc/2012/d062> <http://purl.org/dc/terms/title> "横浜市ごみ分別情報LOD" .
+<http://purl.org/net/mdlab/data/lodc/2012/d062> <http://purl.org/dc/terms/description> "ゴミ分別は地方自治体毎に独自のルールがあり、引越をするたびに学習必要がありますが、横浜では他の地域と比較しても複雑です。横浜市のごみと資源の分別情報を整理し、回収区分、回収日情報とともにLOD化を実施しました。今回、ごみ品目の情報や分別ルールをLOD化することでよりこれまで出来なかった柔軟な問い合わせが可能になりました。\r出典元は横浜市資源循環局です。本データ作成にあたり使用許可を頂き作成しました。また、ごみ品目の例外的な出し方の情報の抽出などの編集については、藤澤貴智（横浜市在住）によって行なわれました。\rエンドポイントにはSPARQLEPCUを使わせてもらいました。\rhttp://lodcu.cs.chubu.ac.jp/SparqlEPCU/project.jsp?projectID=gomi_yokohama" .
+<http://purl.org/net/mdlab/data/lodc/2012/d062> <http://xmlns.com/foaf/0.1/homepage> <http://data.linkedopendata.jp/dataset/yokohama-gomi> .
+<http://purl.org/net/mdlab/data/lodc/2012/d062> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d062> .
+<http://purl.org/net/mdlab/data/lodc/2012/d062> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d063> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d063> <http://purl.org/dc/terms/creator> "カ ブンリン" .
+<http://purl.org/net/mdlab/data/lodc/2012/d063> <http://purl.org/dc/terms/title> "京都国際マンガミュージアム書誌情報LOD" .
+<http://purl.org/net/mdlab/data/lodc/2012/d063> <http://purl.org/dc/terms/description> "京都国際マンガミュージアムから提供いただいた所蔵マンガの書誌データをLOD化し、一冊一冊のマンガの本のデータから作品シリーズのデータとして利用できるように再構成しました。また作品シリーズをDBpedia Japaneseと紐付けしました。\r協力：京都精華大学 国際マンガ研究センター http://imrc.jp/" .
+<http://purl.org/net/mdlab/data/lodc/2012/d063> <http://xmlns.com/foaf/0.1/homepage> <http://mdlab.slis.tsukuba.ac.jp/lodc2012/kmm/> .
+<http://purl.org/net/mdlab/data/lodc/2012/d063> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d063> .
+<http://purl.org/net/mdlab/data/lodc/2012/d063> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://purl.org/dc/terms/creator> "肥田野正輝" .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://purl.org/dc/terms/creator> "伊藤宗太" .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://purl.org/dc/terms/creator> "荒木泰介" .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://purl.org/dc/terms/creator> "小林巌生" .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://purl.org/dc/terms/title> "横濱写真アルバムLOD" .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://purl.org/dc/terms/description> "横浜開港150周年 みんなでつくる 横濱写真アルバム（http://www.yokohama-album.jp）は横浜商工会議所の横浜開港150周年事業として公開されました。地元の企業や市民より1万枚を超える写真が投稿されており、中には横浜の歴史を映した古写真も多く、興味深いコンテンツを数多く有しています。ウェブサイト自体に検索APIも備わっていますが、今回、横濱写真アルバムの存在を広く知ってもらい、また、写真を活用してもらうためにLOD化にチャレンジしました。横浜オープンデータハッカソンの場を借り、Linkdata.orgを活用することで、短時間でデータの作成を終えることができました。\r＜データの内容＞\rクリエイティブ・コモンズ　ライセンスが指定してあるもののみ、2756枚をLOD化しました。\rメタ情報としてタイトルや説明文の他、緯度経度、撮影日時、なども含まれます。\r＜ライセンス＞\rデータのライセンスはCC-BYとしますが、写真自体のライセンスは個々にCCライセンスが設定されています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s577i?key=05bb370cc796012c1874dffd4363b55ee16b1c187ec8469dd2e54ce4d99904a73d1a2314a559fd85> .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d064> .
+<http://purl.org/net/mdlab/data/lodc/2012/d064> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d065> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d065> <http://purl.org/dc/terms/creator> "会津若松市 情報政策課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d065> <http://purl.org/dc/terms/title> "公共施設マップ" .
+<http://purl.org/net/mdlab/data/lodc/2012/d065> <http://purl.org/dc/terms/description> "市及び公共的な施設の連絡先及び地図データ" .
+<http://purl.org/net/mdlab/data/lodc/2012/d065> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/user/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82%E6%83%85%E5%A0%B1%E6%94%BF%E7%AD%96%E8%AA%B2> .
+<http://purl.org/net/mdlab/data/lodc/2012/d065> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d065> .
+<http://purl.org/net/mdlab/data/lodc/2012/d065> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d066> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d066> <http://purl.org/dc/terms/creator> "会津若松市 情報政策課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d066> <http://purl.org/dc/terms/title> "毎月1歳毎年齢別人口" .
+<http://purl.org/net/mdlab/data/lodc/2012/d066> <http://purl.org/dc/terms/description> "住基人口の月毎の年齢別、男女別の人数" .
+<http://purl.org/net/mdlab/data/lodc/2012/d066> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/user/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82%E6%83%85%E5%A0%B1%E6%94%BF%E7%AD%96%E8%AA%B2> .
+<http://purl.org/net/mdlab/data/lodc/2012/d066> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d066> .
+<http://purl.org/net/mdlab/data/lodc/2012/d066> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d067> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d067> <http://purl.org/dc/terms/creator> "会津若松市 情報政策課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d067> <http://purl.org/dc/terms/title> "毎月大字別人口" .
+<http://purl.org/net/mdlab/data/lodc/2012/d067> <http://purl.org/dc/terms/description> "住基人口の年齢毎、大字毎の男女別の人数" .
+<http://purl.org/net/mdlab/data/lodc/2012/d067> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/user/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82%E6%83%85%E5%A0%B1%E6%94%BF%E7%AD%96%E8%AA%B2> .
+<http://purl.org/net/mdlab/data/lodc/2012/d067> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d067> .
+<http://purl.org/net/mdlab/data/lodc/2012/d067> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d068> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d068> <http://purl.org/dc/terms/creator> "Ayami Dobuchi" .
+<http://purl.org/net/mdlab/data/lodc/2012/d068> <http://purl.org/dc/terms/creator> "Kyoko NAKAO" .
+<http://purl.org/net/mdlab/data/lodc/2012/d068> <http://purl.org/dc/terms/title> "Girls Fashion" .
+<http://purl.org/net/mdlab/data/lodc/2012/d068> <http://purl.org/dc/terms/description> "Girls Fashion" .
+<http://purl.org/net/mdlab/data/lodc/2012/d068> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s575i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d068> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d068> .
+<http://purl.org/net/mdlab/data/lodc/2012/d068> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d069> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d069> <http://purl.org/dc/terms/creator> "鯖江市役所情報統計課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d069> <http://purl.org/dc/terms/title> "西山動物園の動物情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d069> <http://purl.org/dc/terms/description> "西山動物園の動物一覧です。鯖江市生まれのレッサーパンダは全国の動物園にいます。これらの動物の戸籍につながるような個体情報を目指しています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d069> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s273i?key=#work_information> .
+<http://purl.org/net/mdlab/data/lodc/2012/d069> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d069> .
+<http://purl.org/net/mdlab/data/lodc/2012/d069> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d070> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d070> <http://purl.org/dc/terms/creator> "鯖江市役所情報統計課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d070> <http://purl.org/dc/terms/title> "鯖江市文化財情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d070> <http://purl.org/dc/terms/description> "鯖江市内の文化財の写真、説明などの情報です。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d070> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s294i?key=#work_information> .
+<http://purl.org/net/mdlab/data/lodc/2012/d070> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d070> .
+<http://purl.org/net/mdlab/data/lodc/2012/d070> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://purl.org/dc/terms/creator> "金進東" .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://purl.org/dc/terms/creator> "王悦" .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://purl.org/dc/terms/creator> "山本泰智" .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://purl.org/dc/terms/title> "Genia Event Extraction Task Set 2013" .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://purl.org/dc/terms/description> "本データセットはアプリケーション部門に応募しているPubAnnotationシステムを使って開発された論文アノテーションのデータセットである。下記の背景は、アプリケーション部門に応募している a037、PubAnnotationについての記述と同じ内容である。\r【背景】 \r・論文に書かれた膨大な生命科学知識 \r生命科学分野では、研究の成果は主に自然言語で書かれた論文という形で出版されるが、そこに記述されている様々な知識の量は膨大で、特定の分野の専門家ですら関連する全ての論文を読み、把握することは非常に困難な状況である。そこで、機械的な処理により、論文中から、生命科学において重要な概念である遺伝子やたんぱく質に関する記述を自動的に抽出する技術が開発されている。 \r・機械を用いた解決策 \rより良い精度を得るために、まず最初に領域の専門家が、それらの概念を表す語(領域固有語)を特定し、機械はそれを手本として同じ結果を出すべく動作するようプログラムされる、という手法が取られている。この、領域固有語を特定する作業をここではアノテーションと呼ぶが、これは、航空写真に写る駅やレストランなどの建物にラベル付けしていく作業と似ている。現在、世界各地の様々な研究機関がアノテーションを行い、独自の形式で公開しているため、複数のアノテーションデータを集めて統合し、利用することが困難であるという問題点がある。また、アノテーションおよびそれに必要な準備の双方ともに非常に手間ひまのかかる作業である。 \r・アノテーションデータの構築\r人間の免疫機能に深く関係するたんぱく質であるNFkBの制御に関する最新の論文を集め、領域の専門家が、論文中に書かれているたんぱく質名とその他の物質名を特定し、それらの物質間で起こる様々な生物的現象(たんぱく質の相互作用や遺伝子発現の制御等)を細かく構造化した形式で記述した。\r本データセットはそれ自体でLODセットとして公開されており、また、同様のアノテーションを自動化するシステム開発の国際チャレンジ会議であるBioNLP Shared Taskの一つのべンチマークデータとしても使われている。今後は、上記の分野以外の論文に対しても同様のアノテーションデータが様々な組織で構築され、公開されることを期待している。\r・統計\r論文数：20本\rアノテーションされたデータの量：128,776 triples" .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://xmlns.com/foaf/0.1/homepage> <http://pubannotation.org/annsets/bionlp-st-ge-2013> .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d071> .
+<http://purl.org/net/mdlab/data/lodc/2012/d071> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d072> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d072> <http://purl.org/dc/terms/creator> "菊地 映輝" .
+<http://purl.org/net/mdlab/data/lodc/2012/d072> <http://purl.org/dc/terms/title> "地域SNS参考文献リスト" .
+<http://purl.org/net/mdlab/data/lodc/2012/d072> <http://purl.org/dc/terms/description> "国際大学GLOCOM地域SNS研究会として、庄司昌彦、菊地映輝が作成した２０１1年１2月末時点での地域SNS参考文献リストです。" .
+<http://purl.org/net/mdlab/data/lodc/2012/d072> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s578i> .
+<http://purl.org/net/mdlab/data/lodc/2012/d072> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d072> .
+<http://purl.org/net/mdlab/data/lodc/2012/d072> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d074> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d074> <http://purl.org/dc/terms/creator> "鯖江市役所情報統計課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d074> <http://purl.org/dc/terms/title> "鯖江市農産物直売所" .
+<http://purl.org/net/mdlab/data/lodc/2012/d074> <http://purl.org/dc/terms/description> "市内の農産物直売所" .
+<http://purl.org/net/mdlab/data/lodc/2012/d074> <http://xmlns.com/foaf/0.1/homepage> <http://www.city.sabae.fukui.jp/pageview.html?id=1608> .
+<http://purl.org/net/mdlab/data/lodc/2012/d074> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d074> .
+<http://purl.org/net/mdlab/data/lodc/2012/d074> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/d075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Dataset> .
+<http://purl.org/net/mdlab/data/lodc/2012/d075> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/d075> <http://purl.org/dc/terms/creator> "鯖江市役所情報統計課" .
+<http://purl.org/net/mdlab/data/lodc/2012/d075> <http://purl.org/dc/terms/title> "鯖江市議会議員情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d075> <http://purl.org/dc/terms/description> "鯖江市議会議員の情報" .
+<http://purl.org/net/mdlab/data/lodc/2012/d075> <http://xmlns.com/foaf/0.1/homepage> <http://linkdata.org/work/rdf1s280i?key=#work_information> .
+<http://purl.org/net/mdlab/data/lodc/2012/d075> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d075> .
+<http://purl.org/net/mdlab/data/lodc/2012/d075> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://purl.org/dc/terms/creator> "年岡晃一" .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://purl.org/dc/terms/creator> "藤本椋也（学生）" .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://purl.org/dc/terms/creator> "安江翔平（学生）" .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://purl.org/dc/terms/title> "SparqlEPCU" .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://purl.org/dc/terms/description> "SparqlEPCUはLODアプリケーションサイトの構築支援を行うフレームワークであり、クラウドとしてのRDF格納サイトとなります。\rLODアプリケーションサイトの作成時に、RDFを格納するデータベースを用意する必要がなくなります。\rRDF格納サイトへアクセスするJavaScriptライブラリを使うことで、LODアプリケーションの開発がJavaScriptのみで実現できます。\rこのサイトに登録されたデータには検索・更新・削除それぞれの実行権限が設定できます。\rSPARQL検索ページ、アプリ開発のチュートリアル、サンプルコード、デモサイトへのリンクを含みます。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://xmlns.com/foaf/0.1/homepage> <http://lodcu.cs.chubu.ac.jp/SparqlEPCU/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a001> .
+<http://purl.org/net/mdlab/data/lodc/2012/a001> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://purl.org/dc/terms/creator> "藤本椋也（学生）" .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://purl.org/dc/terms/creator> "安江翔平（学生）" .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://purl.org/dc/terms/creator> "年岡晃一" .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://purl.org/dc/terms/title> "WebDocManager" .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://purl.org/dc/terms/description> "一般のweb文書をエンドユーザが好みに応じてカテゴリツリーの形でまとめられるツールです。\rカテゴリの上下関係を含むメタデータが、リアルタイムでRDFStoreに反映される他、\rドラッグ&ドロップでツリーの関係をいつでも自由に変更できます。\rこれらの機能をSparqlEPCUを使い、全てJavaScriptのコードで実現しています。サーバー機の都合上同一ドメインとなっていますが、別ドメインでも動作します。\rこのツールで使用しているRDFは、SparqlEPCUの「WEB文書管理LOD」というタイトルで公開しています。\rサンプルとしてRDFの解説ページなどを登録してあります。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://xmlns.com/foaf/0.1/homepage> <http://lodcu.cs.chubu.ac.jp/WebDocManager/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a002> .
+<http://purl.org/net/mdlab/data/lodc/2012/a002> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://purl.org/dc/terms/creator> "ほえほえ" .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://purl.org/dc/terms/title> "もっと残念な日本地図β - LSJ2013を使った舞台探訪アプリの高制度化 -" .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://purl.org/dc/terms/description> "【概要】LSJ（Location Site of Japanimation）はサブカル作品（アニメ, ゲーム, 漫画）舞台の情報データベースです. これまでにLSJ2012（昨年度の投稿作品）のLODデータを使った, 舞台探訪の地図アプリ『残念な日本地図』を公開してきました. しかしながら, 作品登場舞台を市町村レベルでマッピングしたものであったため, 真のロケ地とは離れた役場を指している問題がありました.\rLSJ2013ではNTTレゾナント様のPinQA LODの舞台探訪データをリンクすることで, いくつかのタイトルについて高精度なマッピングを実現しました. このWebアプリケーションを『残念な日本地図』（全国版）に対して『もっと残念な日本地図β』（作品別・高精度版）として公開します. 作品中のInfoboxのTitle, Cityの情報はDBpedia, SpotはPinQAへリンクしています.\rWebアプリケーションは下記サイトからご利用いただけます.http://cheese-factory.info" .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://xmlns.com/foaf/0.1/homepage> <http://cheese-factory.info> .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a005> .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d020> .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d008> .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i012> .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i021> .
+<http://purl.org/net/mdlab/data/lodc/2012/a005> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://purl.org/dc/terms/creator> "大友翔一" .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://purl.org/dc/terms/title> "LINKAGE" .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://purl.org/dc/terms/description> "現状ではJAXA/ISAS,JSpecで公開されている月のデータを加工、可視化して一般の方が月惑星を身近に感じられるようなwebサービスとして構築されている。\rKMLを選択することでselene(かぐや)の軌道や、ある時点における位置情報、撮影した写真、写真が撮影されたエリアが閲覧できる。\rさらに、論文と動画を検索するをクリックすると、関連するCiNii上の論文とYoutubeの動画をtimeline形式で表示する。\rだが、将来的にはこの他に太陽・地球・惑星・衛星などに関しての画像やX線、dem、等各種データをデータ公開元認可の下で横断的に包括する大規模データーベース、及びそれらから簡便に各種データを検索することを可能とするシステムにしたい。\rまた、データを動的に生成する機能や、公官庁や研究機関の公開データを横断的に検索結果として表示にするだけではなく、一般の天文愛好家等からの投稿動画や画像のアップロード機能を持ち、観測データ以外にも検索対象に関連する論文等を紐づけられたデータとして扱い検索結果として表示することを目標としたい。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://xmlns.com/foaf/0.1/homepage> <http://geojackass.org/linkage/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a007> .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i014> .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/v008> .
+<http://purl.org/net/mdlab/data/lodc/2012/a007> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://purl.org/dc/terms/creator> "竹内久知" .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://purl.org/dc/terms/title> "「SmartTown」にLOD連結する「ModelHouse3D」アプリケーション" .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://purl.org/dc/terms/description> "アプリケーション部門 「SmartTown」にLOD連結する「ModelHouse3D」アプリケーション\r竹内久知 「俺のゼニはどこへ行った」プロジェクト所属\r応募作品の内訳\rアプリケーションの名称 「SmartTown」にLOD連結する「ModelHouse3D」アプリケーション\rアプリケーションのURL http://goo.gl/ckYHX\rアプリケーションの解説http://goo.gl/PTKNp\r参考資料.pdf http://goo.gl/FRVrh\rModelHouse3DによるLOD活用事例.wmv http://youtu.be/5hnD3P6RQvs\r詳細はアプリケーションの解説と参考資料を参照\r「SmartTown」は地方自治体(横浜市)と地域(自治会町内会)と地域住民とが連携して、予算情報、行政サービス情報、地域情報、所帯・個人情報、天気情報等の住みよい町造りに必要なLODデータを市民行政参画情報ハブ(地域メッシュ)に連結させ活用し、「オープンデータ活用ビジネスにより市民が行政に参画し、社会を良くすること、私達の町も良くすること、予算の効果を身近なところで実感してもらうこと」を目的とし、地域から始め、地方自治体へ、さらに全国規模へと市民参画ネットワークを広めていくトータル・ソリューションです。\r「SmartTown」では市民行政参画情報ハブの基にLOD【自治体予算】【地域】【自治会予算】【行政】【気象】【ソーシャルネットワーク】【住宅】【産業】を連結します。\r【地域】にLOD【ライフスタイル】[ライフブラン]、その下層に[家族構成][収入][生活費][貯蓄][住まい][子供][リタイアメント]を連結します。\r[ライフプラン]のなかで高額、長期ローン、候補地選択等で一番負担が大きく、プランも難しく、重要なのが【住まい】LODです。\r【住まい】LODの下層として[今住んでいる家][賃貸家賃][住宅ローン金額][住宅ローン期間][購入予定][購入時期][購入時予算]が連結しています。\rこの【住まい】LODに取り組むのが、総務省 産業分類 [D建設業]分野に属し、建築工事に係る全建築工程写真LOD、全使用建築資材・設備器機写真LOD、建築関連書類LODとその活用方法の具体例を示した「ModelHouse3D」アプリケーションです。\r「ModelHouse3D」の【住まい】LODの全建築工程写真LODは工程毎の建物3Dモデル全面にテクスチャとして貼り付けられる写真アルバムで、最少限の工事現場での直接施工管理で、どんな工事瑕疵も発見可能で欠陥・手抜き・過剰工事を起さない安心と安全な住宅建築を提供できます。\r建築工事の工事工程、建築資材、設備機器、２Ｄ及び３Ｄのデジタル写真及び動画データ、撮影時の画像情報、付加情報、コード体系を標準化することにより、中小建設業者のコスト削減を可能とし、施工者の熟練度を高め、工事発注者(施主)、設計者、建築施工業者、施工管理者が共に、プランから設計、建築施工、施工管理までに参加し、希望どうりの家の建築を可能とします。\r「ModelHouse3D」は建設業でのLOD活用方法の具体例を示したアプリケーションす。この具体例を参考に建設業、不動産業、その他さまざまな分野用途に応用し、さまざまなソリューション開発に役立ててもらうためのAndroid tabletアプリケーションです。\r「ModelHouse3D」の活用方法の具体例は以下のメニューのように構成されており、詳細は詳細はアプリケーションの解説を参照。\r[Web3Dモデルハウス建築工事][部屋毎立体模型3D(ExpandPanorama)][建物立体構造調査3D][Webアルバムから3Dアルバムへ][設備機器設置シュミレーション][鉄筋配筋施工AR検証][設計図整合性AR検証][建物納め指図AR納め][建築基準法3D解説][3Dワイヤーフレームワーク][終了]" .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://xmlns.com/foaf/0.1/homepage> <http://goo.gl/ckYHX> .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a008> .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d042> .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i010> .
+<http://purl.org/net/mdlab/data/lodc/2012/a008> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a009> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a009> <http://purl.org/dc/terms/creator> "望月正弘" .
+<http://purl.org/net/mdlab/data/lodc/2012/a009> <http://purl.org/dc/terms/title> "LOD年表による歴史圧縮カレンダー" .
+<http://purl.org/net/mdlab/data/lodc/2012/a009> <http://purl.org/dc/terms/description> "　本アプリは、LinkData.org上のLOD年表データを読み込み、その時代を1年間に圧縮して『歴史圧縮カレンダー』として表現します。地質学的・天文学的なタイムスケールで進行する長大な歴史であっても、『歴史圧縮カレンダー』に落としこむことで、スケジュール帳感覚で全体像を把握できるようになります。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a009> <http://xmlns.com/foaf/0.1/homepage> <http://app.linkdata.org/run/app1s131i> .
+<http://purl.org/net/mdlab/data/lodc/2012/a009> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a009> .
+<http://purl.org/net/mdlab/data/lodc/2012/a009> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a011> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a011> <http://purl.org/dc/terms/creator> "福野泰介" .
+<http://purl.org/net/mdlab/data/lodc/2012/a011> <http://purl.org/dc/terms/title> "トイレこんしぇる鯖江版" .
+<http://purl.org/net/mdlab/data/lodc/2012/a011> <http://purl.org/dc/terms/description> "データシティ鯖江のトイレ情報を使って、かわいく、すばやく、トイレを探せます。\rDesigned by Miho Yamamori" .
+<http://purl.org/net/mdlab/data/lodc/2012/a011> <http://xmlns.com/foaf/0.1/homepage> <http://fukuno.jig.jp/2012/wcconcierge> .
+<http://purl.org/net/mdlab/data/lodc/2012/a011> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a011> .
+<http://purl.org/net/mdlab/data/lodc/2012/a011> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d012> .
+<http://purl.org/net/mdlab/data/lodc/2012/a011> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a012> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a012> <http://purl.org/dc/terms/creator> "横浜歴史フィールド・ミュージアムAR" .
+<http://purl.org/net/mdlab/data/lodc/2012/a012> <http://purl.org/dc/terms/title> "横浜歴史フィールド・ミュージアムAR" .
+<http://purl.org/net/mdlab/data/lodc/2012/a012> <http://purl.org/dc/terms/description> "＜メンバー＞ \r上野直樹、関口昌幸、秋元慶太、 谷杉歩音、大崎 敬志朗、 \r朝香貴裕、藤川恵一、嘉門保夫、杉浦裕樹、生島高裕 \r＜コンセプト＞\r横浜文化観光というテーマで、DBpediaからデータをSPARQL検索する。\rjunaioというARプラットフォーム（ARブラウザー）でAR的に表示する。\r＜具体的テーマ＞\r「横浜歴史フィールド・ミュージアムAR」\r4つのテーマ＝4つのARチャンネル\r・横浜浮世絵と現在の場所の見えのオーバーレイ\r・歴史的建造物\r　　DBpedia、wikipedia\r・横浜が発祥の地\r　　DBpedia、wikipedia、一部自作\r・開港前後の横浜の歴史的な場所\r　　DBpedia、wikipedia、一部自作\r＜今後＞\r浮世絵に著作権はないが、開港資料館、市や県の図書館の了解を得る作業を行いたい。\r例えば、県立図書館の以下のサイト\r開港前後の豊富な浮世絵のデータある。\rhttp://www.klnet.pref.kanagawa.jp/digital_archives/yokohamae.htm\r第一段階として、独自サイト作り、そこにいくつかのテーマでコンテンツ載せる。\r第二段階としてwikipediaにアップする。\rwikipediaの各項目は、必ずしも、開港前後の横浜の歴史、その場所というテーマで\rまとめられていないので、現状、手作業で項目探す。\r＜長期的展望＞\r・横浜の歴史のコンテンツの充実ということに関して、ネットワーク、コラボの形成\r　　横浜シティガイド協会\r　　客船とみなとの遺産の会\r　　開港資料館\r　　市立、県立図書館など\r内容を深める、データのオープン化へのコラボ" .
+<http://purl.org/net/mdlab/data/lodc/2012/a012> <http://xmlns.com/foaf/0.1/homepage> <http://ueno-lab.com/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a012> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a012> .
+<http://purl.org/net/mdlab/data/lodc/2012/a012> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d037> .
+<http://purl.org/net/mdlab/data/lodc/2012/a012> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a016> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a016> <http://purl.org/dc/terms/creator> "library labs" .
+<http://purl.org/net/mdlab/data/lodc/2012/a016> <http://purl.org/dc/terms/title> "ANii" .
+<http://purl.org/net/mdlab/data/lodc/2012/a016> <http://purl.org/dc/terms/description> "「ANii」は日本語論文検索サイトです。論文情報は「CiNii API」から取得しています。\r*****  基本的な機能  *****\r* 結果一覧ページ \r　・検索キーワードに関連した言葉を「Web NDL Authoritie」と「Google suggestions」から取得して表示させています。\r　・Yahoo! JAPANの校正支援APIを使って文字の入力ミスをチェックする機能を付けました。\r　・詳細ページに行かずに、論文情報を文献管理ツールにエクスポートしたり、SNSで情報を共有したりできます。\r* 論文詳細ページ\r　・同じ巻号の論文リスト、その著者が同雑誌に執筆した他の論文が表示されます。\r　・論文を収録している雑誌の所蔵図書館リストをページ遷移することなく見ることができます。\r　・論文に付けられたコメント（はてなブックマーク）を読むことができます。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a016> <http://xmlns.com/foaf/0.1/homepage> <http://kyoto-city.net/anii/index.php> .
+<http://purl.org/net/mdlab/data/lodc/2012/a016> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a016> .
+<http://purl.org/net/mdlab/data/lodc/2012/a016> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://purl.org/dc/terms/creator> "安江翔平（学生）" .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://purl.org/dc/terms/creator> "藤本椋也（学生）" .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://purl.org/dc/terms/creator> "年岡晃一" .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://purl.org/dc/terms/title> "LOD Browser" .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://purl.org/dc/terms/description> "SparqlEPCU上に格納されている緯度経度情報が付加されたRDFをGoogleマップ上にマッピングして表示します。\rこのサイトを利用することでLODやRDFに関する知識がなくとも簡単にRDFを編集することができます。\r右上のセレクトボックスからクラスを指定すると左メニューにデータが展開、Googleマップが表示され、メニューから個別のデータを確認できます。\rまた登録された内容の編集機能、新規登録機能も用意してあります。緯度、経度は位置情報を用いて簡単に登録可能です。\rスマートフォン向けページも用意してあり、PC版サイトと同様閲覧登録編集が可能です。\rhttp://lodcu.cs.chubu.ac.jp/lod_browser/sp/\rこのサイトはSparqlEPCUのAPIであるRDFmgrを用い、HTMLとJavaScriptで構築されています。\r以下機能一覧\r・クラスを指定して検索\r・各データを地図にマッピングして表示\r・各データの編集\r・プロパティの追加\r・新規データ登録\r・スマートフォン向けページ\rこのサイトを作成するにあたりデータ提供パートナーの鯖江市役所様が公開されておりますLODおよびLINKDATAにて公開されておりますLODを利用させていただきました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://xmlns.com/foaf/0.1/homepage> <http://lodcu.cs.chubu.ac.jp/lod_browser/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a018> .
+<http://purl.org/net/mdlab/data/lodc/2012/a018> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://purl.org/dc/terms/creator> "猪飼大志" .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://purl.org/dc/terms/creator> "塙幾惠" .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://purl.org/dc/terms/creator> "日向野優輔" .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://purl.org/dc/terms/creator> "三浦学夫" .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://purl.org/dc/terms/title> "藤沢市幼稚園検索" .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://purl.org/dc/terms/description> "藤沢市の幼稚園を条件別に検索してマッピングされます。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://xmlns.com/foaf/0.1/homepage> <http://data.tom.sfc.keio.ac.jp/fujisawa_youchien/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a020> .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d053> .
+<http://purl.org/net/mdlab/data/lodc/2012/a020> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a022> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a022> <http://purl.org/dc/terms/creator> "松澤有三" .
+<http://purl.org/net/mdlab/data/lodc/2012/a022> <http://purl.org/dc/terms/title> "depicts.azurewebsites.net" .
+<http://purl.org/net/mdlab/data/lodc/2012/a022> <http://purl.org/dc/terms/description> "d051 のデータセットを使ったとてもとても簡単なオンライン GIS アプリです。\rd051 のデータセットは RDF を含んだ SVG ファイルですが、人間向けの見栄えは考慮されていません。SVG に対応した Web ブラウザで表示したときに、いくつかの機能を追加しています。\r・操作機能\rマウスによるドラッグ、ホイールによるズームに対応します。SVG ならではの劣化のない表示で、細部を劣化なく表示できます\r・投影機能\rURL パラメータの設定で、投影方法を変更します。通常は世界全体を表示しますが、南極・北極を中心とした正距方位図法も選択可能です。極圏の地球観測データの表示に適しています。\r・マッシュアップ機能\rURL パラメータの設定で、別のポリゴンを指定の色で追加することができます。\r具体的なアプリケーションの事例として http://depicts.azurewebsites.net/ にていくつかのサンプルを公開しています。\r・南極を中心とした陸地と凍結地域\r・世界地図上での国家の図示\r・都道府県別統計データによる塗り分け\rこれらの表示は iframe を使って Web ページに直接埋め込んで使用することを想定しています。統計データや検索アプリケーションと連動した図示などのフロントエンドとしてご利用ください。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a022> <http://xmlns.com/foaf/0.1/homepage> <http://depicts.azurewebsites.net/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a022> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a022> .
+<http://purl.org/net/mdlab/data/lodc/2012/a022> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d051> .
+<http://purl.org/net/mdlab/data/lodc/2012/a022> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a024> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a024> <http://purl.org/dc/terms/creator> "藤澤伸" .
+<http://purl.org/net/mdlab/data/lodc/2012/a024> <http://purl.org/dc/terms/title> "tomrdf" .
+<http://purl.org/net/mdlab/data/lodc/2012/a024> <http://purl.org/dc/terms/description> "node.jsによるrdf storeサーバー実装です。\rサーバーにRDFファイル(.rdf | .ttl)をアップロードするだけで、そのファイル自体の公開・sparqlエンドポイントの提供ができます。\rバックエンドにデータベースを使っていないので、シンプルにデータの管理・修正・バックアップが可能です\rまた、npmモジュールとして公開しているので、比較的簡単に導入できるような気がします。\rまだ頑張って開発しています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a024> <http://xmlns.com/foaf/0.1/homepage> <http://github.com/data-tom/tomrdf> .
+<http://purl.org/net/mdlab/data/lodc/2012/a024> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a024> .
+<http://purl.org/net/mdlab/data/lodc/2012/a024> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a025> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a025> <http://purl.org/dc/terms/creator> "藤澤伸" .
+<http://purl.org/net/mdlab/data/lodc/2012/a025> <http://purl.org/dc/terms/title> "fujisawa holiday" .
+<http://purl.org/net/mdlab/data/lodc/2012/a025> <http://purl.org/dc/terms/description> "藤沢市のグルメデータのLODを検索して、食べ歩きマップを作成してくれます。\r左側のチェックボックスで、食べたいジャンルにチェックを入れて「Search」を押すと、そのジャンルの中から3件のお店を提案して、地図上で場所も表示してくれます。\rまた左下の「Nearest 3 Restaurant」にチェックを入れると、現在の位置から近い3件の店を提案してくれるので、いま藤沢市にいる方はぜひ使ってみて下さい。\r【利用しているデータのスキーマ】\r名前: http://www.w3.org/2000/01/rdf-schema#label\r夜の予算: http://data.tom.sfc.keio.ac.jp/property/gourmet_dinner_budget\r昼の予算: http://data.tom.sfc.keio.ac.jp/property/gourmet_lunch_budget\r緯度: http://www.w3.org/2003/01/geo/wgs84_pos#lat\r経度: http://www.w3.org/2003/01/geo/wgs84_pos#long\rジャンル http://data.tom.sfc.keio.ac.jp/property/gourmet_genre" .
+<http://purl.org/net/mdlab/data/lodc/2012/a025> <http://xmlns.com/foaf/0.1/homepage> <http://data.tom.sfc.keio.ac.jp/LODCulture> .
+<http://purl.org/net/mdlab/data/lodc/2012/a025> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a025> .
+<http://purl.org/net/mdlab/data/lodc/2012/a025> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d053> .
+<http://purl.org/net/mdlab/data/lodc/2012/a025> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a027> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a027> <http://purl.org/dc/terms/creator> "福野泰介" .
+<http://purl.org/net/mdlab/data/lodc/2012/a027> <http://purl.org/dc/terms/title> "消火栓レスキュー鯖江編" .
+<http://purl.org/net/mdlab/data/lodc/2012/a027> <http://purl.org/dc/terms/description> "雪に埋まった消火栓は一刻を争う消火活動の大きな障害です。\r近所の消火栓をスマホのGPSなどを使って見つけ、掘り出しにいこう！\rデータシティ鯖江、消火栓XMLデータを使用しています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a027> <http://xmlns.com/foaf/0.1/homepage> <http://fukuno.jig.jp/2012/syokasen> .
+<http://purl.org/net/mdlab/data/lodc/2012/a027> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a027> .
+<http://purl.org/net/mdlab/data/lodc/2012/a027> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d032> .
+<http://purl.org/net/mdlab/data/lodc/2012/a027> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://purl.org/dc/terms/creator> "公立はこだて未来大学 高度ICT演習観光系プロジェクト" .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://purl.org/dc/terms/title> "はこだてMap+" .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://purl.org/dc/terms/description> "高度ICT演習観光系プロジェクト\rM1：高橋正輝、坂井麻里恵\rB3：岸野亜理沙、佐藤正徳、武田泰典、似内勇太、前田実優、松田隼士、山田亜美\rB2：安藤大岳、伊林謙太、小野美郁、工藤卓也、西本光司、兵藤允彦\rアドバイザー：M2 永峰和弘　指導教員：奥野拓\rはこだてMap+\rはこだてMap+は、函館を訪れる観光客のまちあるきを支援するWebアプリケーションです。このアプリは、地図上に観光ルートや観光スポットの情報を表示します。住所や電話番号などの基本的な観光情報はもちろん、他の観光アプリにはない+αな情報（映画ロケ地情報、土木遺産情報）を得ることで新たな発見が生まれます。観光前にこのアプリを利用すると、効率的に観光プランをたてることができます。アイデア部門には、観光中に利用するiPhoneアプリ版のはこだてMap+もエントリーしました。\r【機能】\r画面左の選択バーからコースを選択すると、観光ルートが表示されます。緑色のピンはコース内の観光スポット、赤色のピンはコース外の観光スポットです。ピンをクリックすると観光スポットの詳細情報を見ることができます。タブを切り替えることで、映画ロケ地の情報や、土木遺産情報が表示されます。画面右にあるチェックボックスで、カテゴリ（食べる・遊ぶ・見るなど）からスポットの絞り込みができます。\r【使用するLODデータ】\r(1)函館まちあるきルート情報\r・函館まちあるきマップ(http://www.city.hakodate.hokkaido.jp/kankou/hako_machi/)\r函館市が提供している、函館の街並みを歩きながら楽しむことができるルートを掲載した地図です。この地図から、まちあるきのルート情報を取得しています。\r(2)映画ロケ地情報\r・はこだてフィルムコミッション(http://www.hakodate-fc.com/)\r函館市が運営している、函館で撮影された映画のロケ地情報を掲載したWebサイトです。このサイトから、ロケ地となったスポット名、その映画タイトル、ロケ地で撮影されたシーンの内容を取得しています。\r(3)土木遺産情報\r・函館近代化遺産ポータルサイト(http://hnct-pbl.jimdo.com/)\r函館の歴史ある土木建築物(ダムや堤防など)の情報を掲載したWebサイトです。このWebサイトは函館工業高等専門学校のPBLで株式会社ノース技研の指導の下に作成されました。このサイトから、土木建築物の概要を取得しています。\r【その他のデータ】\r観光スポット情報\r・函館市公式観光情報サイトはこぶら(http://www.hakobura.jp/)\r函館市が運営している、函館の観光スポット情報を掲載したWebサイトです。Web APIから観光地の住所、電話番号、詳細情報を取得してます。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://xmlns.com/foaf/0.1/homepage> <http://210.226.0.93:8080/kanko/main.php> .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a029> .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d055> .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d056> .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d058> .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i033> .
+<http://purl.org/net/mdlab/data/lodc/2012/a029> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nd/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/creator> "藤原哲" .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/creator> "大場みち子" .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/creator> "山口琢" .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/creator> "山形巧哉" .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/creator> "山本康伸" .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/creator> "小野寺豊" .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/title> "あれ？れこ" .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/description> "あれ？れこは、ユーザーが検索している情報と関連する別の情報を推薦するアプリです。\rユーザーは、たくさんの情報発信者から情報を集めて作られた様々な知識や経験から新たな発見をさせてもらいます。\r情報発信者は、アプリに参加することで、自身の知識が誰かとリンクし、ユーザーに情報を与えるきっかけを増やすことができます。\r本アプリでは、推薦対象の情報としてWordpressの記事を扱っています。\r[機能]\r1.記事検索\rユーザーは、キーワードを含む記事とその記事を書いた情報発信者が薦める関連キーワードを含む記事を検索することができます。\r2.記事登録\r情報発信者は、自身のWordpressブログをアプリに登録することで、記事を推薦対象にします。\r3.タグ関連登録\r情報発信者は、各々の記事についているタグ同士を関連させることで、別な発見をユーザーに提供します。\r[データセット]\r(1)推薦対象の情報として:Wordpressブログの記事RDF;\r(2)関連情報として:Wordpress記事から抽出した記事同士の関連を記述したRDF;\rを利用しています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://xmlns.com/foaf/0.1/homepage> <http://mit-www.c.fun.ac.jp/arereco/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a030> .
+<http://purl.org/net/mdlab/data/lodc/2012/a030> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a031> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a031> <http://purl.org/dc/terms/creator> "落合香織" .
+<http://purl.org/net/mdlab/data/lodc/2012/a031> <http://purl.org/dc/terms/title> "ほんのまくらー青空文庫ー" .
+<http://purl.org/net/mdlab/data/lodc/2012/a031> <http://purl.org/dc/terms/description> "青空文庫で公開されているデータを使って、紀伊国屋書店が今年の夏に行った「ほんのまくら」フェアをWeb上で真似たアプリケーションを作成しました。\r青空文庫のデータを、既にデータセット部門に登録している青空文庫LODのスキーマに従って、JSON-LDの形に変換して利用しています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a031> <http://xmlns.com/foaf/0.1/homepage> <http://mdlab.slis.tsukuba.ac.jp/lodc2012/honnomakura/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a031> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a031> .
+<http://purl.org/net/mdlab/data/lodc/2012/a031> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d035> .
+<http://purl.org/net/mdlab/data/lodc/2012/a031> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a032> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a032> <http://purl.org/dc/terms/creator> "古崎晃司" .
+<http://purl.org/net/mdlab/data/lodc/2012/a032> <http://purl.org/dc/terms/creator> "加藤敦丈" .
+<http://purl.org/net/mdlab/data/lodc/2012/a032> <http://purl.org/dc/terms/title> "法造：LOD Viewer 2　～簡単SPARQLテスト～" .
+<http://purl.org/net/mdlab/data/lodc/2012/a032> <http://purl.org/dc/terms/description> "RDFファイルを指定して，簡単に「SPARQLクエリ」のテストができるWebベースのLOD Viewerです．\rSPAROLをよく知らない人でも，簡単にクエリが試せる「SPARQLクエリの入力支援機能」，「RDFトリプルが可視化」し，リソース間の「つながり」を簡単に辿って確認できる機能もあります．\rLinkData.orgなどでLOD（RDF）を簡単に作ることができるようになりましたが，SPARQLクエリを簡単に試せる環境がなかなかないために開発しました．" .
+<http://purl.org/net/mdlab/data/lodc/2012/a032> <http://xmlns.com/foaf/0.1/homepage> <http://www.hozo.jp/lod2/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a032> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a032> .
+<http://purl.org/net/mdlab/data/lodc/2012/a032> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a033> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a033> <http://purl.org/dc/terms/creator> "八幡政浩" .
+<http://purl.org/net/mdlab/data/lodc/2012/a033> <http://purl.org/dc/terms/creator> " 加藤寛士" .
+<http://purl.org/net/mdlab/data/lodc/2012/a033> <http://purl.org/dc/terms/title> "年齢検索4w" .
+<http://purl.org/net/mdlab/data/lodc/2012/a033> <http://purl.org/dc/terms/description> "年齢検索 4wでは年齢情報をキーとして関連した歴史上の出来事を一覧することができます。\r30才のとき… \r英雄ナポレオン・ボナパルトはクーデターを起こして実質的な独裁権を握り、 \rアニメ監督庵野秀明はTVアニメ「不思議の海のナディア」を監督し、 \rプロテニスプレーヤー松岡修造は結婚、 \r大リーガーのイチローはオールスターファン投票で3年連続1位を獲得しています。\r自分と同い年のとき、あの人は何をしていたのでしょうか？ \r年齢検索4wを探検してみてください。 \r何かを夢見て頑張っている人を見ると、自分も頑張ってみたくなる。\r世界的な偉人にも人間的な一面が垣間見える。\r人々に勇気を与える。\r世界が愛おしく見えてくる。\rそんなアプリケーションを目指しています。\r※ 現在もテスト運用及び改良を継続しています。\r応募締め切り後も、細かな変更や改善は継続中です。\r−−−− \r１．RDF データソース\r【各種LODデータソースとの連携による高い拡張性】\r年齢検索4wのコンテンツである、　　　\r「出来事に紐付いたwho when where what」情報\rはそれぞれ個別に単位化されて扱われます。\rよってRDFを用いたデーターソースの運用や公開、\r LOD連携による応用や拡張が容易かつ迅速に実現できます。 \r２．CGMとの親和性\r【小学生でも編纂に参加できるシステムを目指して】\rCGM によって知識を集積しコンテンツとした事例は既に数多く見られます。\rしかし、集められた情報が「構成された文章」となると、ユーザにとって、\r『ちょっとしたコトだけどこういうことも知っているんだけどなぁ』\rから\r『ちょっと編集してみようか』　\rまでの心理的なハードルが高くなりがちです。\r年齢検索4wでは、ユーザに提示されるコンテンツそのものが、\rフォー マット化された編集可能な箇条書きやタグをメイン構成されているので、\rちょっとした編集作業に対する心理的なハードルは引く保たれています。\r老若男女広く編纂に参加し、CGMによって\rデータソースのRDFが成長するシステムを目指します。\r３．年齢は最初の切り口\r【派生するアプリケーション】\r 『年齢』はそのキャッチーさを理由に4wの基軸の切り口として採用していますが、\r年齢とひも付く出来事情報からは、他の応用アプリケーションへの派生も見込めます。\r以下に一例を示します。\r観光分野で…\r「いつ 誰が どこで 何をした」という情報はそのまま、\r観光や地域振興支援のアプリケーションへと応用が可能です。\rCGMとの親和性を高めることで、マニアックかつローカルな\r歴史上の出来事についても、観光情報として拾い上げることが可能となります。\r教育分野で…　\r「 who when where whatのうちいくつかを隠す → ユーザによる回答 」\rという方針で学習アプリケーションの構築が可能です。\rWEBアプリケーションの特性を活かした、学習データの共有と\rパーソナライズされた抽出を実現することでマニアックな要望にも答える\rシステムに仕上げることが可能です。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a033> <http://xmlns.com/foaf/0.1/homepage> <http://knskc.net/4w/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a033> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a033> .
+<http://purl.org/net/mdlab/data/lodc/2012/a033> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/creator> "石塚清香" .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/creator> "下山紗代子" .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/creator> "須永博行" .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/creator> "高次和樹" .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/creator> "松本冬子" .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/creator> "藤本椋也" .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/title> "横浜検定" .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/description> "2013年1月26-27日に行われた横浜オープンデータハッカソン / LODチャレンジデー in 横浜で作成したアプリです。4択形式で全12問に回答すると、あなたの「横浜力」を知ることができます。\rこの横浜検定アプリによって、皆さんに横浜についてより深く知って頂き、横浜をもっと好きになってもらえたら嬉しいです。\rまた、このような活動によって横浜のデータ公開を進めていくきっかけを作り、地域活性化へとつなげていけたらと考えています。\r本アプリのJavaScriptプログラムは再利用可能となっており、\r入力データはアプリから独立しているため、\r入力データを入れ替えることで新しい検定・クイズアプリを簡単に作れるようになっています。\r本アプリを再利用して、是非オリジナルのご当地検定アプリを作ってみて下さい。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://xmlns.com/foaf/0.1/homepage> <http://app.linkdata.org/run/app1s192i> .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a035> .
+<http://purl.org/net/mdlab/data/lodc/2012/a035> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/creator> "生島 高裕,米村卓,山口 貴弘,梶浦 美咲,三宅 明日香" .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/title> "PaperLOD" .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/description> "PaperLODはCiNiiのRDFデータを解析し、先行研究のリサーチ、国内の学会の活動状況、参照関係、関係著者の関係を可視化するシステムです。\rPaperLodでは以下のことができます。\r1.CiNiiのデータベースをバックエンドとしたフリーワード検索で論文の検索。\r検索結果は論文単位でキャッシュされ、解析されます。\r2.検索結果に応じ、解析結果からランキングを表示します。\rア.学会のランキング\rイ.関係著者のランキング\r3.検索結果から論文を選択するとその論文と関連性が強い論文が分かります。\r4.一覧から論文を選んでお気に入りに入れておき、論文と論文の関連を調べられます。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://xmlns.com/foaf/0.1/homepage> <http://exp.symbiotic.jp/paperlod/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a036> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d043> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d046> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d048> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i021> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i027> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i031> .
+<http://purl.org/net/mdlab/data/lodc/2012/a036> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://purl.org/dc/terms/creator> "金進東" .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://purl.org/dc/terms/creator> "山本泰智" .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://purl.org/dc/terms/creator> "王悦" .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://purl.org/dc/terms/title> "PubAnnotation - 論文アノテーション構築・公開システム" .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://purl.org/dc/terms/description> "【PubAnnotationとは】\rPubAnnotationは生命科学分野の学術論文情報が収められているPubMed (タイトル及びアブストラクト) 及びPubMed Central (論文全文) に対して、人手でたんぱく質名などの専門用語を特定するアノテーション作業を誰でも簡単に行うことができ、そしてその結果をLODとして公開、共有できるアプリケーションである。機械による自動アノテーション結果も同じ形式のLODとして公開できる。これにより利用者は論文中に自然言語で書かれている知識を、より構造化したLODに対する検索という形でアクセスできるようになる。\r【背景】\r・論文に書かれた膨大な生命科学知識\r生命科学分野では、研究の成果は主に自然言語で書かれた論文という形で出版されるが、そこに記述されている様々な知識の量は膨大で、特定の分野の専門家ですら関連する全ての論文を読み、把握することは非常に困難な状況である。そこで、機械的な処理により、論文中から、生命科学において重要な概念である遺伝子やたんぱく質に関する記述を自動的に抽出する技術が開発されている。\r・機械を用いた解決策\rより良い精度を得るために、まず最初に領域の専門家が、それらの概念を表す語(領域固有語)を特定し、機械はそれを手本として同じ結果を出すべく動作するようプログラムされる、という手法が取られている。この、領域固有語を特定する作業をここではアノテーションと呼ぶが、これは、航空写真に写る駅やレストランなどの建物にラベル付けしていく作業と似ている。現在、世界各地の様々な研究機関がアノテーションを行い、独自の形式で公開しているため、複数のアノテーションデータを集めて統合し、利用することが困難であるという問題点がある。また、アノテーションおよびそれに必要な準備の双方ともに非常に手間ひまのかかる作業である。\r・PubAnnotationの開発\rそこで、1. 頻繁にアノテーションの対象となる論文情報が収められているPubMed及びPubMed Centralのテキストデータについて、予めアノテーション作業がすぐに始められるような処理を施し、2. 誰でも容易にアノテーションが行えるインターフェースを構築した上で、3. 全てのアノテーション結果を標準的なLODの形式で公開できるアプリケーション、PubAnnotationを開発した。データはRESTful HTTP経由でテーブル、JSON、RDFの各形式で取得出来るほか、Visual Editorと自動アノテーションツールとの連携も可能である。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://xmlns.com/foaf/0.1/homepage> <http://pubannotation.org/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a037> .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d071> .
+<http://purl.org/net/mdlab/data/lodc/2012/a037> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a038> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a038> <http://purl.org/dc/terms/creator> "「税金はどこへ行った？」チームメンバ" .
+<http://purl.org/net/mdlab/data/lodc/2012/a038> <http://purl.org/dc/terms/title> "横浜市の予算を入力しよう" .
+<http://purl.org/net/mdlab/data/lodc/2012/a038> <http://purl.org/dc/terms/description> "既存データのLOD化の大きな壁の一つである、紙のビジュアル化に挑戦します。このサービスは、横浜市の平成24年度予算の目次の一部を皆で入力・閲覧し、オープンデータ化を目指すものです。横浜市の予算は、現在完全に紙の形で提供されています。このため、手で入力しないとデータとして扱い、統計をとることなどができません。 それを、だれでもわかりやすく入力できるようにするというのが趣旨です。JSONで既に入力されたデータセットのダウンロードも可能です。" .
+<http://purl.org/net/mdlab/data/lodc/2012/a038> <http://xmlns.com/foaf/0.1/homepage> <http://serene-earth-9665.herokuapp.com/> .
+<http://purl.org/net/mdlab/data/lodc/2012/a038> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a038> .
+<http://purl.org/net/mdlab/data/lodc/2012/a038> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Application> .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://purl.org/dc/terms/creator> "洞渕彩未　中尾京子" .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://purl.org/dc/terms/title> "GIRLS FASHION LINK App" .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://purl.org/dc/terms/description> "女性ファッションは種類も多く好みも分かれるため，おしゃれしたいと思っても情報が混在しており，情報を得るのが困難です。そこで，簡単におしゃれの情報を得るためのアプリケーションを開発しました。女性がファッションを選択する際に役立つことを願っています。 \rアプリの概略は，まず写真の中から好きなファッションスタイルを選びます。すると，近いスタイルが掲載された雑誌の一覧が表示されます。その雑誌の中から見たいと思うWebサイトと掲載ブランドリストを参照することができます。結果から，雑誌は違うけれど，同じブランドが掲載されたり，スタイルごとに内容が重なっている雑誌が違うといった曖昧な部分に対応できると考えています。 \r※full screenでの実行を推奨します" .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://xmlns.com/foaf/0.1/homepage> <http://app.linkdata.org/run/app1s214i> .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=a039> .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d073> .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i037> .
+<http://purl.org/net/mdlab/data/lodc/2012/a039> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v001> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v001> <http://purl.org/dc/terms/creator> "渡邉英徳" .
+<http://purl.org/net/mdlab/data/lodc/2012/v001> <http://purl.org/dc/terms/title> "東日本大震災アーカイブ" .
+<http://purl.org/net/mdlab/data/lodc/2012/v001> <http://purl.org/dc/terms/description> "「東日本大震災アーカイブ」は，震災の被害状況を可視化し，災害の実相を世界につたえる多元的デジタルアーカイブズです．個別に存在していた，被災地の写真，パノラマ画像，被災者の証言，TV報道映像，ジオタグ付きツイート等のデータを一元化し，デジタル地球儀Google Earthの三次元地形に重ね，俯瞰的に閲覧することができます．さらにタイムスライダー機能を備えており，震災発生後の時間経過に沿って，資料を閲覧することも可能です．また，データをiPhoneのARビューで閲覧できるアプリもリリースしています．" .
+<http://purl.org/net/mdlab/data/lodc/2012/v001> <http://xmlns.com/foaf/0.1/homepage> <http://nagasaki.mapping.jp/p/japan-earthquake.html> .
+<http://purl.org/net/mdlab/data/lodc/2012/v001> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v001> .
+<http://purl.org/net/mdlab/data/lodc/2012/v001> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v002> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v002> <http://purl.org/dc/terms/creator> "渡邉英徳" .
+<http://purl.org/net/mdlab/data/lodc/2012/v002> <http://purl.org/dc/terms/title> "ヒロシマ・アーカイブ" .
+<http://purl.org/net/mdlab/data/lodc/2012/v002> <http://purl.org/dc/terms/description> "「ヒロシマ・アーカイブ」は、広島平和記念資料館、広島女学院同窓会、八王子被爆者の会をはじめとする提供元から得られたすべての資料を、デジタル地球儀「Google Earth」上に重層表示した「多元的デジタル・アーカイブズ」です。1945年当時の体験談、写真、地図、その他の資料を、2010年の航空写真、立体地形、そして建物モデルと重ねあわせ、時空を越えて俯瞰的に閲覧することができます。このことにより、被爆の実相に対する多面的・総合的な理解を促すことを企図しています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v002> <http://xmlns.com/foaf/0.1/homepage> <http://hiroshima.mapping.jp/> .
+<http://purl.org/net/mdlab/data/lodc/2012/v002> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v002> .
+<http://purl.org/net/mdlab/data/lodc/2012/v002> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v003> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v003> <http://purl.org/dc/terms/creator> "渡邉英徳" .
+<http://purl.org/net/mdlab/data/lodc/2012/v003> <http://purl.org/dc/terms/title> "ナガサキ・アーカイブ" .
+<http://purl.org/net/mdlab/data/lodc/2012/v003> <http://purl.org/dc/terms/description> "Nagasaki Archiveでは、デジタル地球儀Google Earthを用いて、長崎の地形を立体的に俯瞰しながら、被爆者の写真と体験談を、1945年8月9日に実際に被爆した場所と関連付けて閲覧できます。また、被爆直後に撮影された写真と2010年現在の写真を重層表示し、被害のようす、その後復興を遂げた長崎のようすを時空を越えて体感することができます。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v003> <http://xmlns.com/foaf/0.1/homepage> <http://nagasaki.mapping.jp> .
+<http://purl.org/net/mdlab/data/lodc/2012/v003> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v003> .
+<http://purl.org/net/mdlab/data/lodc/2012/v003> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v004> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v004> <http://purl.org/dc/terms/creator> "渡邉英徳" .
+<http://purl.org/net/mdlab/data/lodc/2012/v004> <http://purl.org/dc/terms/title> "Project Hayano:放射性ヨウ素拡散シミュレーションのマッシュアップ" .
+<http://purl.org/net/mdlab/data/lodc/2012/v004> <http://purl.org/dc/terms/description> "本コンテンツは「東日本大震災ビッグデータワークショップ」にて行われた「Project Hayano」（リーダー：早野龍五（東京大学））で収集された，放射性ヨウ素拡散シミュレーションとその他のデータとの関連性をわかりやすく伝えるために，デジタル地球儀Google Earthを応用したマッシュアップとして公開したものです．現在，国立環境研究所，JAMSTEC，SPEEDIによる放射性ヨウ素拡散シミュレーションデータと，ゼンリンデータコムの混雑情報等が重層され，タイムスライダーをもちいて，2011年3月15日〜3月16日の状況の推移を閲覧することが可能です．" .
+<http://purl.org/net/mdlab/data/lodc/2012/v004> <http://xmlns.com/foaf/0.1/homepage> <http://speedi.mapping.jp/> .
+<http://purl.org/net/mdlab/data/lodc/2012/v004> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v004> .
+<http://purl.org/net/mdlab/data/lodc/2012/v004> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v006> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v006> <http://purl.org/dc/terms/creator> "河原　翔" .
+<http://purl.org/net/mdlab/data/lodc/2012/v006> <http://purl.org/dc/terms/title> "ヨコハマ・アート・オープンストリートマップ" .
+<http://purl.org/net/mdlab/data/lodc/2012/v006> <http://purl.org/dc/terms/description> "データ提供パートナー様が公開されている「オープンストリートマップ」と「ヨコハマ・アート・LOD」を組み合わせました。\rジャンルと開催期間を組み合わせた検索が可能です。\rデータさえご提供いただければ極めて短期間でシステムを構築可能であることの一例となればと考えております。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v006> <http://xmlns.com/foaf/0.1/homepage> <http://yokohama-art-osm.digiweb.jp> .
+<http://purl.org/net/mdlab/data/lodc/2012/v006> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v006> .
+<http://purl.org/net/mdlab/data/lodc/2012/v006> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v007> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v007> <http://purl.org/dc/terms/creator> "秋山梓" .
+<http://purl.org/net/mdlab/data/lodc/2012/v007> <http://purl.org/dc/terms/title> "BOOK NETWORK" .
+<http://purl.org/net/mdlab/data/lodc/2012/v007> <http://purl.org/dc/terms/description> "複数の本から引用される本、芸術作品、時代、地名がある。相関を視覚化することで、本同士の関連や、複数の本から参照されているものの発見、つながりを把握することができる。\r・●上に、マウスを重ねることでタイトルが表示されます。\r・マウスホイールで拡大、縮小ができます。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v007> <http://xmlns.com/foaf/0.1/homepage> <http://gloria.ciao.jp/book/sample_sigma_grey3.html> .
+<http://purl.org/net/mdlab/data/lodc/2012/v007> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v007> .
+<http://purl.org/net/mdlab/data/lodc/2012/v007> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i011> .
+<http://purl.org/net/mdlab/data/lodc/2012/v007> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v008> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v008> <http://purl.org/dc/terms/creator> "大友翔一" .
+<http://purl.org/net/mdlab/data/lodc/2012/v008> <http://purl.org/dc/terms/title> "LINKAGE" .
+<http://purl.org/net/mdlab/data/lodc/2012/v008> <http://purl.org/dc/terms/description> "JAXA/ISAS,JSpecで公開されている月のデータを加工してGoogleMoon上に貼り付けられるようにした。\rKMLを選択することで一般の方でも立体的に月、及び観測衛星SELENE(かぐや)の軌道や、ある時点における位置情報、撮影した写真、写真が撮影されたエリアが閲覧できる。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v008> <http://xmlns.com/foaf/0.1/homepage> <http://geojackass.org/linkage/> .
+<http://purl.org/net/mdlab/data/lodc/2012/v008> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v008> .
+<http://purl.org/net/mdlab/data/lodc/2012/v008> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/i014> .
+<http://purl.org/net/mdlab/data/lodc/2012/v008> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v009> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v009> <http://purl.org/dc/terms/creator> "Mito Memel" .
+<http://purl.org/net/mdlab/data/lodc/2012/v009> <http://purl.org/dc/terms/title> "国会ちゃん" .
+<http://purl.org/net/mdlab/data/lodc/2012/v009> <http://purl.org/dc/terms/description> "過去約10年分の国会会議録の中から議員の発言をランダムでツイートします。普段国会中継などを見ない人が国政に興味を持つきっかけになればと思い作成しました。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v009> <http://xmlns.com/foaf/0.1/homepage> <http://twitter.com/kokkaichan> .
+<http://purl.org/net/mdlab/data/lodc/2012/v009> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v009> .
+<http://purl.org/net/mdlab/data/lodc/2012/v009> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d036> .
+<http://purl.org/net/mdlab/data/lodc/2012/v009> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://purl.org/dc/terms/creator> "田中 恵子" .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://purl.org/dc/terms/creator> "尾崎 康次郎" .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://purl.org/dc/terms/creator> "下垣 祐貴" .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://purl.org/dc/terms/title> "Trendipity (トレンディピティ)" .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://purl.org/dc/terms/description> "Trendipity (トレンディピティ)は，ツイッターのつぶやきデータからトレンドを俯瞰し，偶然の発見(セレンディピティ)を見える化するビジュアライゼーションツールです．\rたこつぼ化しやすいと言われるソーシャルメディア上のデータを，ユーザの誰もが主体的に，視覚的に解析できるようにするためにつくりました．\rサービスページにアクセスすると，自動的に今話題のキーワードを取得し，その単語を含むツイッター上のつぶやきデータから，出現回数の多い他の単語ほど大きいフォントでビジュアライゼーションします．ユーザーは自らクエリに単語を入力することで，その単語に関するトレンドクラウドを生成することもできます．このトレンドクラウドを見れば，ひと目で関連性の高いキーワードや話題を容易に見つけることができます．\rまた生成したワードクラウドの画像は，ボタンひとつで保存したり，ツイッターでシェアすることができます．" .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://xmlns.com/foaf/0.1/homepage> <http://trendipity.net/cloud/> .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v010> .
+<http://purl.org/net/mdlab/data/lodc/2012/v010> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-nd/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://purl.org/dc/terms/creator> "吉賀夏子" .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://purl.org/dc/terms/creator> "渡辺健次" .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://purl.org/dc/terms/creator> "只木進一" .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://purl.org/dc/terms/title> "Web NDLA Authorities（国立国会図書館典拠データ）を利用した名寄せと書誌情報の検索およびタイムラインを使った可視化" .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://purl.org/dc/terms/description> "Web上では近年様々な電子図書館が設けられており、様々な作品の画像や書誌情報を簡単に閲覧できるようになりました。しかし年々蓄積される情報が膨大になるにつれて、わずかなキーワードやシステムに備え付けの機能で検索をして、必要な情報を見つけ出す事自体にも、膨大な労力を費やすようになりました。特に、歴史・人文科学的資料の調査では、ある作品の著者の名前（号、幼名、旧姓、別名等）を調べること、すなわち「名寄せ」は重要かつ困難な作業のひとつです。\rそこで、電子図書館の利用者がある作品の著者を検索する際に、名寄せや年代の確認等を行いながら、目的の資料に関するデータを効率的に探す方法を考えました。本作では、Linked DataとなっているWeb NDLA Authorities（国立国会図書館典拠データ）が活用できるように、佐賀大学所蔵の「市場直次郎コレクション」（http://www.dl.saga-u.ac.jp/OgiNabesima/）書誌データもLinked Dataに変換して各属性を一致させることで、同じタイムラインに表示させたり、ファセット検索できるようにしました。個々の小さなデータベースでも、そのデータをLinked Open Dataにすることで、別のデータベースと機械的に属性を合わせ、かつ適切な可視化を施せば、そのデータの価値をもっと引き出すことができると思います。\rなお、利用許諾等の関係で、ウェブアプリの紹介と説明はビデオでのプレゼンテーションとなっています。補足説明はウェブサイト（http://www.ai.is.saga-u.ac.jp/~yoshiga/ichiba/）に載せていますので、併せてご覧ください。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://xmlns.com/foaf/0.1/homepage> <http://www.ai.is.saga-u.ac.jp/~yoshiga/ichiba/> .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v012> .
+<http://purl.org/net/mdlab/data/lodc/2012/v012> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v013> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v013> <http://purl.org/dc/terms/creator> "library labs" .
+<http://purl.org/net/mdlab/data/lodc/2012/v013> <http://purl.org/dc/terms/title> "作家の歩み" .
+<http://purl.org/net/mdlab/data/lodc/2012/v013> <http://purl.org/dc/terms/description> "「作家の歩み」は作家の生前に出版された図書をタイムラインで表現したウェブサイトです。\r作家の生没年はWeb NDL Authorities、図書の情報はCiNii Books APIからを取得しています。\r何歳の時にどの作品を書いたのか、どの時期に多くの作品が生まれているのかなど、作家の執筆活動の歩みが視覚的に表現されています。\r同姓同名の問題などがあるため、現在は検索機能は付けていません。\r*** 今後の展開 ***\r文学史や社会的な事件も同じタイムライン上で表現できると作品と社会の関係を視覚化することができるのではないかと思います。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v013> <http://xmlns.com/foaf/0.1/homepage> <http://kyoto-city.net/ayumi/index.php> .
+<http://purl.org/net/mdlab/data/lodc/2012/v013> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v013> .
+<http://purl.org/net/mdlab/data/lodc/2012/v013> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v014> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v014> <http://purl.org/dc/terms/creator> "原田真喜子" .
+<http://purl.org/net/mdlab/data/lodc/2012/v014> <http://purl.org/dc/terms/title> "コトバノキ" .
+<http://purl.org/net/mdlab/data/lodc/2012/v014> <http://purl.org/dc/terms/description> "コトバノキは、Web集合知上の語彙のつながりを視覚化するコンテンツです。コトバノキでは、Googleサーチエンジン、GoogleとYahooの検索予測候補、Twitter、Wikipedia、はてなキーワードの情報をサマライズし、Web上で語彙がどのように使用されているかを一様に閲覧することができます。視覚化の特徴として、１．概念体系モデルを参考に木をモチーフに語彙の用いられ方を体系化した事　２．Twitter集合知からツイートの感情メタデータを取得し、感情を色彩として表現した事　３．主観的な性質の集合知と客観的な性質の集合知に分類し、集合知ごとの語彙の使用環境の比較閲覧が可能　の3つがあります。\rコトバノキでは、「想定外の言葉との出会い」がきっと待っています。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v014> <http://xmlns.com/foaf/0.1/homepage> <http://kokima.sakura.ne.jp/kotobanomori/kotobanoki.htm> .
+<http://purl.org/net/mdlab/data/lodc/2012/v014> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v014> .
+<http://purl.org/net/mdlab/data/lodc/2012/v014> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v015> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v015> <http://purl.org/dc/terms/creator> "榊原一人" .
+<http://purl.org/net/mdlab/data/lodc/2012/v015> <http://purl.org/dc/terms/title> "人口の波" .
+<http://purl.org/net/mdlab/data/lodc/2012/v015> <http://purl.org/dc/terms/description> "・1920年から2030年までの110年間の、日本の「５歳ごとx５年ごと」の人口推移のグラフです。「人口の波」の変形を、ぱらぱらマンガでご覧いただけます。\r・データソースは、1920年（大正９年）の第1回から2010年（平成22年）の第19回までの国勢調査のデータと、国立社会保障・人口問題研究所の将来推計人口のデータを、独自に加工したものです。\r・第二次世界大戦後の1950年から2005年までの12回分のデータには、「働いている人」「結婚している人」「産まれた人」の３つの要素を、他の日本政府の公開データから抽出して追加しました。\r・processing2.0 Beta 7 で開発した実行ファイル形式です。\r＜意図＞\r人類史上かつてない、少子高齢化がすすむ日本。自分も歳をとり、いつか死んで行く。その意味が少しでもわかるかと思い、こうして図解しました。どうあるべきなのか、どうしてこうなったのか、どうすれば未来は変わって行くのかを、多くの人と考えていくベースになれれば嬉しいです。\r＜謝辞＞\rこの表現のためのツール「processing」とその解説書を書いてくれたBen Fryに感謝します。インスピレーションを与えてくれた、gapminderのHans Roslingと、子どもの頃の朝のお楽しみTV番組「カリキュラマシーン」に合わせて感謝します。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v015> <http://xmlns.com/foaf/0.1/homepage> <http://lod.sfc.keio.ac.jp/challenge2012/dat/visualization/v015_20130131000837_wave_of_jp_population_app.zip> .
+<http://purl.org/net/mdlab/data/lodc/2012/v015> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v015> .
+<http://purl.org/net/mdlab/data/lodc/2012/v015> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by-nc-sa/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v016> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v016> <http://purl.org/dc/terms/creator> "福野泰介" .
+<http://purl.org/net/mdlab/data/lodc/2012/v016> <http://purl.org/dc/terms/title> "鯖江バスモニター" .
+<http://purl.org/net/mdlab/data/lodc/2012/v016> <http://purl.org/dc/terms/description> "鯖江市営バス「つつじバス」のWebAPIを使い、リアルタイムの位置情報を模式図化した路線図と共に表示します。スマホのGPSを使い、現在位置付近の情報を見ることもできます。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v016> <http://xmlns.com/foaf/0.1/homepage> <http://fukuno.jig.jp/2012/busmonitor> .
+<http://purl.org/net/mdlab/data/lodc/2012/v016> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v016> .
+<http://purl.org/net/mdlab/data/lodc/2012/v016> <http://purl.org/dc/terms/relation> <http://purl.org/net/mdlab/data/lodc/2012/d033> .
+<http://purl.org/net/mdlab/data/lodc/2012/v016> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v017> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v017> <http://purl.org/dc/terms/creator> "加藤 文彦" .
+<http://purl.org/net/mdlab/data/lodc/2012/v017> <http://purl.org/dc/terms/title> "国立情報学研究所 平成24年度オープンハウス つながりマップ" .
+<http://purl.org/net/mdlab/data/lodc/2012/v017> <http://purl.org/dc/terms/description> "つながりマップは 2012年6月に開催された国立情報学研究所 平成24年度オープンハウス の展示ブースについて，あるブースに関係があると推測されるブースを紹介するシステムです． 国立情報学研究所のサービスである CiNii と KAKEN から国立情報学研究所に所属する研究者に関するRDFを収集し，またオープンハウス関連のデータもRDFにすることで，論文の共著者関係や科研費の申請関係等，各ブースの研究者の関係をグラフで可視化します．\rデータはhttp://lod.ac/oh-uramap/sparqlからアクセス可能です．現在CiNiiのArticle RDFに含まれているAuthor URIが間違っている (#meが抜けている) ため，その点のみ改変して利用しています．" .
+<http://purl.org/net/mdlab/data/lodc/2012/v017> <http://xmlns.com/foaf/0.1/homepage> <http://lod.ac/oh-uramap/> .
+<http://purl.org/net/mdlab/data/lodc/2012/v017> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v017> .
+<http://purl.org/net/mdlab/data/lodc/2012/v017> <http://purl.org/dc/terms/license> <http://creativecommons.org/licenses/by/3.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://purl.org/dc/terms/creator> "生島高裕" .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://purl.org/dc/terms/creator> "小副川健" .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://purl.org/dc/terms/creator> "寺澤　憲人" .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://purl.org/dc/terms/creator> "中野 圭" .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://purl.org/dc/terms/creator> "羽鳥健太郎" .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://purl.org/dc/terms/title> "Data Visualizationの今後について" .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://purl.org/dc/terms/description> "Visualizationとは、ひと目では要点を理解できないData、Information、Knowledge、Wisdomという階層構造を持つ要素の集合を、ひと目で理解できるようにストーリーをつけ、魅せたい部分を際立たせる方法である。\r現在はKnowledge（物理学の理論など）までを可視化することに成功しているように見える。今後はWisdom（適用性のあるノウハウ等）を可視化する方法を見出していく必要がある。残念ながら、この方法は未知である。\rこのようなWisdomを可視化する方法論をどのように確立していくかを議論することが大きな課題であるものの、構成的に構築せざるを得ない状況である。" .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://xmlns.com/foaf/0.1/homepage> <http://lod.sfc.keio.ac.jp/challenge2012/dat/visualization/v018_20130131155837_Data Visualization.pdf> .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v018> .
+<http://purl.org/net/mdlab/data/lodc/2012/v018> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/net/mdlab/ns/lodc/Visualization> .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/available> "2012" .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/creator> "田村賢哉" .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/creator> "西林直哉" .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/creator> "坂野尚吾" .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/creator> "長田昌貴" .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/creator> "野口健人" .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/creator> "松山寛" .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/title> "OpenTextMap（先生のため地理歴史教材地図）" .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/description> "OpenTextMapは初等・中等教育を対象とした教材地図データベースです。\r地球上で起きた事柄は、それぞれ「位置」をもってつながりを持っております。\r歴史の中や自然界で起きた事柄をGoogle Earthを用いることで、教材地図は、物事の地理的関係性や時系列関係性のビジュライゼーションは学習理解の促進につながると考えます。\rOpenTextMapの教材地図には位置や時間関係だけでなく、写真・映像・図表等の文献等の関係性も含まれています。ここには、公的機関が提供する統計データやflickr等の画像コンテンツとの連携が可能であり、学習者の想像力を膨らませることに一役できます\r。\rOpenTextMapではテーマごとに用意されたを教材地図をweb上で確認し、ダウンロードすることができるようになっています。\rまた、それらをジャンルごとに分類し、キーワードや学習単元によって他の教材地図ともリンクされているため、目的にあった教材地図を見つけることもできます。\r※実際にOpenTextMapの教材地図を使って授業が行われた例もございます" .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://xmlns.com/foaf/0.1/homepage> <http://opentextmap.org/library/> .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v019> .
+<http://purl.org/net/mdlab/data/lodc/2012/v019> <http://purl.org/dc/terms/license> <http://creativecommons.org/publicdomain/mark/1.0> .
