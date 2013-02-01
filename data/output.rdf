@@ -290,7 +290,7 @@
   </ns249:Application>
   <ns259:Application xmlns:ns259="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/a016">
     <ns260:available xmlns:ns260="http://purl.org/dc/terms/">2012</ns260:available>
-    <ns261:creator xmlns:ns261="http://purl.org/dc/terms/">library labs</ns261:creator>
+    <ns261:creator xmlns:ns261="http://purl.org/dc/terms/">snowy</ns261:creator>
     <ns262:description xmlns:ns262="http://purl.org/dc/terms/">「ANii」は日本語論文検索サイトです。論文情報は「CiNii API」から取得しています。&#xD;*****  基本的な機能  *****&#xD;* 結果一覧ページ &#xD;　・検索キーワードに関連した言葉を「Web NDL Authoritie」と「Google suggestions」から取得して表示させています。&#xD;　・Yahoo! JAPANの校正支援APIを使って文字の入力ミスをチェックする機能を付けました。&#xD;　・詳細ページに行かずに、論文情報を文献管理ツールにエクスポートしたり、SNSで情報を共有したりできます。&#xD;* 論文詳細ページ&#xD;　・同じ巻号の論文リスト、その著者が同雑誌に執筆した他の論文が表示されます。&#xD;　・論文を収録している雑誌の所蔵図書館リストをページ遷移することなく見ることができます。&#xD;　・論文に付けられたコメント（はてなブックマーク）を読むことができます。</ns262:description>
     <ns263:license xmlns:ns263="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
     <ns264:title xmlns:ns264="http://purl.org/dc/terms/">ANii</ns264:title>
@@ -1096,336 +1096,406 @@
     <ns983:seeAlso xmlns:ns983="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d067"/>
     <ns984:homepage xmlns:ns984="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/user/%E4%BC%9A%E6%B4%A5%E8%8B%A5%E6%9D%BE%E5%B8%82%E6%83%85%E5%A0%B1%E6%94%BF%E7%AD%96%E8%AA%B2"/>
   </ns977:Dataset>
-  <ns985:Dataset xmlns:ns985="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d068">
+  <ns985:Dataset xmlns:ns985="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d069">
     <ns986:available xmlns:ns986="http://purl.org/dc/terms/">2012</ns986:available>
-    <ns987:creator xmlns:ns987="http://purl.org/dc/terms/">Ayami Dobuchi</ns987:creator>
-    <ns988:creator xmlns:ns988="http://purl.org/dc/terms/">Kyoko NAKAO</ns988:creator>
-    <ns989:description xmlns:ns989="http://purl.org/dc/terms/">Girls Fashion</ns989:description>
-    <ns990:license xmlns:ns990="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns991:title xmlns:ns991="http://purl.org/dc/terms/">Girls Fashion</ns991:title>
-    <ns992:seeAlso xmlns:ns992="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d068"/>
-    <ns993:homepage xmlns:ns993="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s575i"/>
+    <ns987:creator xmlns:ns987="http://purl.org/dc/terms/">鯖江市役所情報統計課</ns987:creator>
+    <ns988:description xmlns:ns988="http://purl.org/dc/terms/">西山動物園の動物一覧です。鯖江市生まれのレッサーパンダは全国の動物園にいます。これらの動物の戸籍につながるような個体情報を目指しています。</ns988:description>
+    <ns989:license xmlns:ns989="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns990:title xmlns:ns990="http://purl.org/dc/terms/">西山動物園の動物情報</ns990:title>
+    <ns991:seeAlso xmlns:ns991="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d069"/>
+    <ns992:homepage xmlns:ns992="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s273i?key=#work_information"/>
   </ns985:Dataset>
-  <ns994:Dataset xmlns:ns994="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d069">
-    <ns995:available xmlns:ns995="http://purl.org/dc/terms/">2012</ns995:available>
-    <ns996:creator xmlns:ns996="http://purl.org/dc/terms/">鯖江市役所情報統計課</ns996:creator>
-    <ns997:description xmlns:ns997="http://purl.org/dc/terms/">西山動物園の動物一覧です。鯖江市生まれのレッサーパンダは全国の動物園にいます。これらの動物の戸籍につながるような個体情報を目指しています。</ns997:description>
-    <ns998:license xmlns:ns998="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns999:title xmlns:ns999="http://purl.org/dc/terms/">西山動物園の動物情報</ns999:title>
-    <ns1000:seeAlso xmlns:ns1000="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d069"/>
-    <ns1001:homepage xmlns:ns1001="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s273i?key=#work_information"/>
-  </ns994:Dataset>
-  <ns1002:Dataset xmlns:ns1002="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d070">
-    <ns1003:available xmlns:ns1003="http://purl.org/dc/terms/">2012</ns1003:available>
-    <ns1004:creator xmlns:ns1004="http://purl.org/dc/terms/">鯖江市役所情報統計課</ns1004:creator>
-    <ns1005:description xmlns:ns1005="http://purl.org/dc/terms/">鯖江市内の文化財の写真、説明などの情報です。</ns1005:description>
-    <ns1006:license xmlns:ns1006="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns1007:title xmlns:ns1007="http://purl.org/dc/terms/">鯖江市文化財情報</ns1007:title>
-    <ns1008:seeAlso xmlns:ns1008="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d070"/>
-    <ns1009:homepage xmlns:ns1009="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s294i?key=#work_information"/>
-  </ns1002:Dataset>
-  <ns1010:Dataset xmlns:ns1010="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d071">
-    <ns1011:available xmlns:ns1011="http://purl.org/dc/terms/">2012</ns1011:available>
-    <ns1012:creator xmlns:ns1012="http://purl.org/dc/terms/">山本泰智</ns1012:creator>
-    <ns1013:creator xmlns:ns1013="http://purl.org/dc/terms/">王悦</ns1013:creator>
-    <ns1014:creator xmlns:ns1014="http://purl.org/dc/terms/">金進東</ns1014:creator>
-    <ns1015:description xmlns:ns1015="http://purl.org/dc/terms/">本データセットはアプリケーション部門に応募しているPubAnnotationシステムを使って開発された論文アノテーションのデータセットである。下記の背景は、アプリケーション部門に応募している a037、PubAnnotationについての記述と同じ内容である。&#xD;【背景】 &#xD;・論文に書かれた膨大な生命科学知識 &#xD;生命科学分野では、研究の成果は主に自然言語で書かれた論文という形で出版されるが、そこに記述されている様々な知識の量は膨大で、特定の分野の専門家ですら関連する全ての論文を読み、把握することは非常に困難な状況である。そこで、機械的な処理により、論文中から、生命科学において重要な概念である遺伝子やたんぱく質に関する記述を自動的に抽出する技術が開発されている。 &#xD;・機械を用いた解決策 &#xD;より良い精度を得るために、まず最初に領域の専門家が、それらの概念を表す語(領域固有語)を特定し、機械はそれを手本として同じ結果を出すべく動作するようプログラムされる、という手法が取られている。この、領域固有語を特定する作業をここではアノテーションと呼ぶが、これは、航空写真に写る駅やレストランなどの建物にラベル付けしていく作業と似ている。現在、世界各地の様々な研究機関がアノテーションを行い、独自の形式で公開しているため、複数のアノテーションデータを集めて統合し、利用することが困難であるという問題点がある。また、アノテーションおよびそれに必要な準備の双方ともに非常に手間ひまのかかる作業である。 &#xD;・アノテーションデータの構築&#xD;人間の免疫機能に深く関係するたんぱく質であるNFkBの制御に関する最新の論文を集め、領域の専門家が、論文中に書かれているたんぱく質名とその他の物質名を特定し、それらの物質間で起こる様々な生物的現象(たんぱく質の相互作用や遺伝子発現の制御等)を細かく構造化した形式で記述した。&#xD;本データセットはそれ自体でLODセットとして公開されており、また、同様のアノテーションを自動化するシステム開発の国際チャレンジ会議であるBioNLP Shared Taskの一つのべンチマークデータとしても使われている。今後は、上記の分野以外の論文に対しても同様のアノテーションデータが様々な組織で構築され、公開されることを期待している。&#xD;・統計&#xD;論文数：20本&#xD;アノテーションされたデータの量：128,776 triples</ns1015:description>
+  <ns993:Dataset xmlns:ns993="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d070">
+    <ns994:available xmlns:ns994="http://purl.org/dc/terms/">2012</ns994:available>
+    <ns995:creator xmlns:ns995="http://purl.org/dc/terms/">鯖江市役所情報統計課</ns995:creator>
+    <ns996:description xmlns:ns996="http://purl.org/dc/terms/">鯖江市内の文化財の写真、説明などの情報です。</ns996:description>
+    <ns997:license xmlns:ns997="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns998:title xmlns:ns998="http://purl.org/dc/terms/">鯖江市文化財情報</ns998:title>
+    <ns999:seeAlso xmlns:ns999="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d070"/>
+    <ns1000:homepage xmlns:ns1000="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s294i?key=#work_information"/>
+  </ns993:Dataset>
+  <ns1001:Dataset xmlns:ns1001="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d071">
+    <ns1002:available xmlns:ns1002="http://purl.org/dc/terms/">2012</ns1002:available>
+    <ns1003:creator xmlns:ns1003="http://purl.org/dc/terms/">山本泰智</ns1003:creator>
+    <ns1004:creator xmlns:ns1004="http://purl.org/dc/terms/">王悦</ns1004:creator>
+    <ns1005:creator xmlns:ns1005="http://purl.org/dc/terms/">金進東</ns1005:creator>
+    <ns1006:description xmlns:ns1006="http://purl.org/dc/terms/">本データセットはアプリケーション部門に応募しているPubAnnotationシステムを使って開発された論文アノテーションのデータセットである。下記の背景は、アプリケーション部門に応募している a037、PubAnnotationについての記述と同じ内容である。&#xD;【背景】 &#xD;・論文に書かれた膨大な生命科学知識 &#xD;生命科学分野では、研究の成果は主に自然言語で書かれた論文という形で出版されるが、そこに記述されている様々な知識の量は膨大で、特定の分野の専門家ですら関連する全ての論文を読み、把握することは非常に困難な状況である。そこで、機械的な処理により、論文中から、生命科学において重要な概念である遺伝子やたんぱく質に関する記述を自動的に抽出する技術が開発されている。 &#xD;・機械を用いた解決策 &#xD;より良い精度を得るために、まず最初に領域の専門家が、それらの概念を表す語(領域固有語)を特定し、機械はそれを手本として同じ結果を出すべく動作するようプログラムされる、という手法が取られている。この、領域固有語を特定する作業をここではアノテーションと呼ぶが、これは、航空写真に写る駅やレストランなどの建物にラベル付けしていく作業と似ている。現在、世界各地の様々な研究機関がアノテーションを行い、独自の形式で公開しているため、複数のアノテーションデータを集めて統合し、利用することが困難であるという問題点がある。また、アノテーションおよびそれに必要な準備の双方ともに非常に手間ひまのかかる作業である。 &#xD;・アノテーションデータの構築&#xD;人間の免疫機能に深く関係するたんぱく質であるNFkBの制御に関する最新の論文を集め、領域の専門家が、論文中に書かれているたんぱく質名とその他の物質名を特定し、それらの物質間で起こる様々な生物的現象(たんぱく質の相互作用や遺伝子発現の制御等)を細かく構造化した形式で記述した。&#xD;本データセットはそれ自体でLODセットとして公開されており、また、同様のアノテーションを自動化するシステム開発の国際チャレンジ会議であるBioNLP Shared Taskの一つのべンチマークデータとしても使われている。今後は、上記の分野以外の論文に対しても同様のアノテーションデータが様々な組織で構築され、公開されることを期待している。&#xD;・統計&#xD;論文数：20本&#xD;アノテーションされたデータの量：128,776 triples</ns1006:description>
+    <ns1007:license xmlns:ns1007="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns1008:relation xmlns:ns1008="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/v024"/>
+    <ns1009:title xmlns:ns1009="http://purl.org/dc/terms/">Genia Event Extraction Task Set 2013</ns1009:title>
+    <ns1010:seeAlso xmlns:ns1010="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d071"/>
+    <ns1011:homepage xmlns:ns1011="http://xmlns.com/foaf/0.1/" rdf:resource="http://pubannotation.org/annsets/bionlp-st-ge-2013"/>
+  </ns1001:Dataset>
+  <ns1012:Dataset xmlns:ns1012="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d072">
+    <ns1013:available xmlns:ns1013="http://purl.org/dc/terms/">2012</ns1013:available>
+    <ns1014:creator xmlns:ns1014="http://purl.org/dc/terms/">菊地 映輝</ns1014:creator>
+    <ns1015:description xmlns:ns1015="http://purl.org/dc/terms/">国際大学GLOCOM地域SNS研究会として、庄司昌彦、菊地映輝が作成した２０１1年１2月末時点での地域SNS参考文献リストです。</ns1015:description>
     <ns1016:license xmlns:ns1016="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns1017:title xmlns:ns1017="http://purl.org/dc/terms/">Genia Event Extraction Task Set 2013</ns1017:title>
-    <ns1018:seeAlso xmlns:ns1018="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d071"/>
-    <ns1019:homepage xmlns:ns1019="http://xmlns.com/foaf/0.1/" rdf:resource="http://pubannotation.org/annsets/bionlp-st-ge-2013"/>
-  </ns1010:Dataset>
-  <ns1020:Dataset xmlns:ns1020="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d072">
+    <ns1017:title xmlns:ns1017="http://purl.org/dc/terms/">地域SNS参考文献リスト</ns1017:title>
+    <ns1018:seeAlso xmlns:ns1018="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d072"/>
+    <ns1019:homepage xmlns:ns1019="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s578i"/>
+  </ns1012:Dataset>
+  <ns1020:Dataset xmlns:ns1020="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d074">
     <ns1021:available xmlns:ns1021="http://purl.org/dc/terms/">2012</ns1021:available>
-    <ns1022:creator xmlns:ns1022="http://purl.org/dc/terms/">菊地 映輝</ns1022:creator>
-    <ns1023:description xmlns:ns1023="http://purl.org/dc/terms/">国際大学GLOCOM地域SNS研究会として、庄司昌彦、菊地映輝が作成した２０１1年１2月末時点での地域SNS参考文献リストです。</ns1023:description>
-    <ns1024:license xmlns:ns1024="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns1025:title xmlns:ns1025="http://purl.org/dc/terms/">地域SNS参考文献リスト</ns1025:title>
-    <ns1026:seeAlso xmlns:ns1026="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d072"/>
-    <ns1027:homepage xmlns:ns1027="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s578i"/>
+    <ns1022:creator xmlns:ns1022="http://purl.org/dc/terms/">鯖江市役所情報統計課</ns1022:creator>
+    <ns1023:description xmlns:ns1023="http://purl.org/dc/terms/">市内の農産物直売所</ns1023:description>
+    <ns1024:license xmlns:ns1024="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-sa/3.0"/>
+    <ns1025:title xmlns:ns1025="http://purl.org/dc/terms/">鯖江市農産物直売所</ns1025:title>
+    <ns1026:seeAlso xmlns:ns1026="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d074"/>
+    <ns1027:homepage xmlns:ns1027="http://xmlns.com/foaf/0.1/" rdf:resource="http://www.city.sabae.fukui.jp/pageview.html?id=1608"/>
   </ns1020:Dataset>
-  <ns1028:Dataset xmlns:ns1028="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d074">
+  <ns1028:Dataset xmlns:ns1028="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d075">
     <ns1029:available xmlns:ns1029="http://purl.org/dc/terms/">2012</ns1029:available>
     <ns1030:creator xmlns:ns1030="http://purl.org/dc/terms/">鯖江市役所情報統計課</ns1030:creator>
-    <ns1031:description xmlns:ns1031="http://purl.org/dc/terms/">市内の農産物直売所</ns1031:description>
+    <ns1031:description xmlns:ns1031="http://purl.org/dc/terms/">鯖江市議会議員の情報</ns1031:description>
     <ns1032:license xmlns:ns1032="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-sa/3.0"/>
-    <ns1033:title xmlns:ns1033="http://purl.org/dc/terms/">鯖江市農産物直売所</ns1033:title>
-    <ns1034:seeAlso xmlns:ns1034="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d074"/>
-    <ns1035:homepage xmlns:ns1035="http://xmlns.com/foaf/0.1/" rdf:resource="http://www.city.sabae.fukui.jp/pageview.html?id=1608"/>
+    <ns1033:title xmlns:ns1033="http://purl.org/dc/terms/">鯖江市議会議員情報</ns1033:title>
+    <ns1034:seeAlso xmlns:ns1034="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d075"/>
+    <ns1035:homepage xmlns:ns1035="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s280i?key=#work_information"/>
   </ns1028:Dataset>
-  <ns1036:Dataset xmlns:ns1036="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d075">
+  <ns1036:Dataset xmlns:ns1036="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d076">
     <ns1037:available xmlns:ns1037="http://purl.org/dc/terms/">2012</ns1037:available>
-    <ns1038:creator xmlns:ns1038="http://purl.org/dc/terms/">鯖江市役所情報統計課</ns1038:creator>
-    <ns1039:description xmlns:ns1039="http://purl.org/dc/terms/">鯖江市議会議員の情報</ns1039:description>
-    <ns1040:license xmlns:ns1040="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-sa/3.0"/>
-    <ns1041:title xmlns:ns1041="http://purl.org/dc/terms/">鯖江市議会議員情報</ns1041:title>
-    <ns1042:seeAlso xmlns:ns1042="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d075"/>
-    <ns1043:homepage xmlns:ns1043="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s280i?key=#work_information"/>
+    <ns1038:creator xmlns:ns1038="http://purl.org/dc/terms/">日高 雄介</ns1038:creator>
+    <ns1039:description xmlns:ns1039="http://purl.org/dc/terms/">九州にある温泉地の一覧です。それぞれの温泉地の効能や泉質、最寄り駅などの情報を含んでいます。</ns1039:description>
+    <ns1040:license xmlns:ns1040="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns1041:title xmlns:ns1041="http://purl.org/dc/terms/">九州の温泉地一覧</ns1041:title>
+    <ns1042:seeAlso xmlns:ns1042="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d076"/>
+    <ns1043:homepage xmlns:ns1043="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s451i"/>
   </ns1036:Dataset>
-  <ns1044:Dataset xmlns:ns1044="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d076">
+  <ns1044:Dataset xmlns:ns1044="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d077">
     <ns1045:available xmlns:ns1045="http://purl.org/dc/terms/">2012</ns1045:available>
     <ns1046:creator xmlns:ns1046="http://purl.org/dc/terms/">日高 雄介</ns1046:creator>
-    <ns1047:description xmlns:ns1047="http://purl.org/dc/terms/">九州にある温泉地の一覧です。それぞれの温泉地の効能や泉質、最寄り駅などの情報を含んでいます。</ns1047:description>
+    <ns1047:description xmlns:ns1047="http://purl.org/dc/terms/">温泉の泉質別効能の一覧です。</ns1047:description>
     <ns1048:license xmlns:ns1048="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns1049:title xmlns:ns1049="http://purl.org/dc/terms/">九州の温泉地一覧</ns1049:title>
-    <ns1050:seeAlso xmlns:ns1050="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d076"/>
-    <ns1051:homepage xmlns:ns1051="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s451i"/>
+    <ns1049:relation xmlns:ns1049="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/d076"/>
+    <ns1050:title xmlns:ns1050="http://purl.org/dc/terms/">温泉の効能一覧</ns1050:title>
+    <ns1051:seeAlso xmlns:ns1051="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d077"/>
+    <ns1052:homepage xmlns:ns1052="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s471i"/>
   </ns1044:Dataset>
-  <ns1052:Dataset xmlns:ns1052="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d077">
-    <ns1053:available xmlns:ns1053="http://purl.org/dc/terms/">2012</ns1053:available>
-    <ns1054:creator xmlns:ns1054="http://purl.org/dc/terms/">日高 雄介</ns1054:creator>
-    <ns1055:description xmlns:ns1055="http://purl.org/dc/terms/">温泉の泉質別効能の一覧です。</ns1055:description>
-    <ns1056:license xmlns:ns1056="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns1057:relation xmlns:ns1057="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/d076"/>
-    <ns1058:title xmlns:ns1058="http://purl.org/dc/terms/">温泉の効能一覧</ns1058:title>
-    <ns1059:seeAlso xmlns:ns1059="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d077"/>
-    <ns1060:homepage xmlns:ns1060="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s471i"/>
-  </ns1052:Dataset>
-  <ns1061:Dataset xmlns:ns1061="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d078">
+  <ns1053:Dataset xmlns:ns1053="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d078">
+    <ns1054:available xmlns:ns1054="http://purl.org/dc/terms/">2012</ns1054:available>
+    <ns1055:creator xmlns:ns1055="http://purl.org/dc/terms/">経済産業省</ns1055:creator>
+    <ns1056:description xmlns:ns1056="http://purl.org/dc/terms/">経済産業省自身（所管の独立行政法人等を含む）の保有データを対象にデータ公開の環境整備を図り、実際に公開を進めるとともに、公開データを利活用したビジネスが展開する社会基盤を整えていくことで、オープンデータによる経済活性化の促進を図る目的で推進されるDATA METI構想。その取り組みの一環でデータカタログサイト「Open DATA METI」を公開しました。現在は統計データと白書データを登録しています。&#xD;本サイトはオープンソースであるCKANを応用し構築しており、データセットに関するメタ情報はLODとして取得できる他、APIを利用することでもデータにアクセスすることが可能です。&#xD;登録されているデータはクリエイティブ・コモンズ・ライセンスを採用しており、自由に利用していただけます。&#xD;詳しくはOpen DATA METIのウェブサイトをご覧ください。</ns1056:description>
+    <ns1057:license xmlns:ns1057="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns1058:title xmlns:ns1058="http://purl.org/dc/terms/">Open DATA METI</ns1058:title>
+    <ns1059:seeAlso xmlns:ns1059="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d078"/>
+    <ns1060:homepage xmlns:ns1060="http://xmlns.com/foaf/0.1/" rdf:resource="http://datameti.go.jp"/>
+  </ns1053:Dataset>
+  <ns1061:Dataset xmlns:ns1061="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d079">
     <ns1062:available xmlns:ns1062="http://purl.org/dc/terms/">2012</ns1062:available>
-    <ns1063:creator xmlns:ns1063="http://purl.org/dc/terms/">経済産業省</ns1063:creator>
-    <ns1064:description xmlns:ns1064="http://purl.org/dc/terms/">経済産業省自身（所管の独立行政法人等を含む）の保有データを対象にデータ公開の環境整備を図り、実際に公開を進めるとともに、公開データを利活用したビジネスが展開する社会基盤を整えていくことで、オープンデータによる経済活性化の促進を図る目的で推進されるDATA METI構想。その取り組みの一環でデータカタログサイト「Open DATA METI」を公開しました。現在は統計データと白書データを登録しています。&#xD;本サイトはオープンソースであるCKANを応用し構築しており、データセットに関するメタ情報はLODとして取得できる他、APIを利用することでもデータにアクセスすることが可能です。&#xD;登録されているデータはクリエイティブ・コモンズ・ライセンスを採用しており、自由に利用していただけます。&#xD;詳しくはOpen DATA METIのウェブサイトをご覧ください。</ns1064:description>
+    <ns1063:creator xmlns:ns1063="http://purl.org/dc/terms/">佐藤 貴未</ns1063:creator>
+    <ns1064:description xmlns:ns1064="http://purl.org/dc/terms/">　従来のLODデータにはない「地名に関連するダジャレ」のデータ化という新たな分野にチャレンジしました。&#xD;　本データは、1,066種のダジャレを有しています。うち約750件は「地名ダジャレ chakuwiki」を参考にさせていただいており、その他のものはオリジナルもしくは、様々なホームページ上から引用しました。&#xD;　また、データの中には、地名の緯度・経度の情報が含まれています。これにより、Google Mapと関連づけることで、地図上にその地に関連したダジャレを表示させることが可能となりました。また、緯度・経度は、その土地の中央値だけではなく、その地名の範囲を示すべく領域の左上の座標の緯度・経度、そして右下の座標の緯度・経度も入力しました。本データの応用には、地理空間情報が含まれるゲームや、GPS機能を有した端末を所持した者に対して、その地に関連するダジャレを再生する音声アプリケーションなどが考えられます。&#xD;　多くの人々に、ダジャレを通じてユーモアを寄与できる作品だと考えています。</ns1064:description>
     <ns1065:license xmlns:ns1065="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns1066:title xmlns:ns1066="http://purl.org/dc/terms/">Open DATA METI</ns1066:title>
-    <ns1067:seeAlso xmlns:ns1067="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d078"/>
-    <ns1068:homepage xmlns:ns1068="http://xmlns.com/foaf/0.1/" rdf:resource="http://datameti.go.jp"/>
+    <ns1066:title xmlns:ns1066="http://purl.org/dc/terms/">ダジャレで世界旅行♡</ns1066:title>
+    <ns1067:seeAlso xmlns:ns1067="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d079"/>
+    <ns1068:homepage xmlns:ns1068="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s580i"/>
   </ns1061:Dataset>
-  <ns1069:Dataset xmlns:ns1069="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d079">
+  <ns1069:Dataset xmlns:ns1069="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d080">
     <ns1070:available xmlns:ns1070="http://purl.org/dc/terms/">2012</ns1070:available>
-    <ns1071:creator xmlns:ns1071="http://purl.org/dc/terms/">佐藤 貴未</ns1071:creator>
-    <ns1072:description xmlns:ns1072="http://purl.org/dc/terms/">　従来のLODデータにはない「地名に関連するダジャレ」のデータ化という新たな分野にチャレンジしました。&#xD;　本データは、1,066種のダジャレを有しています。うち約750件は「地名ダジャレ chakuwiki」を参考にさせていただいており、その他のものはオリジナルもしくは、様々なホームページ上から引用しました。&#xD;　また、データの中には、地名の緯度・経度の情報が含まれています。これにより、Google Mapと関連づけることで、地図上にその地に関連したダジャレを表示させることが可能となりました。また、緯度・経度は、その土地の中央値だけではなく、その地名の範囲を示すべく領域の左上の座標の緯度・経度、そして右下の座標の緯度・経度も入力しました。本データの応用には、地理空間情報が含まれるゲームや、GPS機能を有した端末を所持した者に対して、その地に関連するダジャレを再生する音声アプリケーションなどが考えられます。&#xD;　多くの人々に、ダジャレを通じてユーモアを寄与できる作品だと考えています。</ns1072:description>
-    <ns1073:license xmlns:ns1073="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns1074:title xmlns:ns1074="http://purl.org/dc/terms/">ダジャレで世界旅行♡</ns1074:title>
-    <ns1075:seeAlso xmlns:ns1075="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d079"/>
-    <ns1076:homepage xmlns:ns1076="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s580i"/>
+    <ns1071:creator xmlns:ns1071="http://purl.org/dc/terms/">s3works</ns1071:creator>
+    <ns1072:description xmlns:ns1072="http://purl.org/dc/terms/">セマンテックWeb委員会が開催した「セマンティックWebコンファレンス」での講演情報をLinked Open Data化したものです．SPARQLによる検索も可能です．講演者の所属は，開催当時のものです．現在，2012年の講演情報のみです．</ns1072:description>
+    <ns1073:license xmlns:ns1073="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1074:title xmlns:ns1074="http://purl.org/dc/terms/">セマンティックWebコンファレンス講演情報</ns1074:title>
+    <ns1075:seeAlso xmlns:ns1075="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d080"/>
+    <ns1076:homepage xmlns:ns1076="http://xmlns.com/foaf/0.1/" rdf:resource="https://sites.google.com/site/odatafooding/home/data/semanticwebconference"/>
   </ns1069:Dataset>
-  <ns1077:Dataset xmlns:ns1077="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d080">
+  <ns1077:Dataset xmlns:ns1077="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d082">
     <ns1078:available xmlns:ns1078="http://purl.org/dc/terms/">2012</ns1078:available>
     <ns1079:creator xmlns:ns1079="http://purl.org/dc/terms/">s3works</ns1079:creator>
-    <ns1080:description xmlns:ns1080="http://purl.org/dc/terms/">セマンテックWeb委員会が開催した「セマンティックWebコンファレンス」での講演情報をLinked Open Data化したものです．SPARQLによる検索も可能です．講演者の所属は，開催当時のものです．現在，2012年の講演情報のみです．</ns1080:description>
+    <ns1080:description xmlns:ns1080="http://purl.org/dc/terms/">DBpedia Japanese に登録されていないトレンドワードを収集したデータセットです．ScraperWiki を利用して Google Trends 日本語版を毎日1回スクレイピングして，トレンドワード上位20件を取得．各ワードを DBpedia Japanese に完全一致で問い合わせし，登録語にはIRIを付与しています．</ns1080:description>
     <ns1081:license xmlns:ns1081="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1082:title xmlns:ns1082="http://purl.org/dc/terms/">セマンティックWebコンファレンス講演情報</ns1082:title>
-    <ns1083:seeAlso xmlns:ns1083="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d080"/>
-    <ns1084:homepage xmlns:ns1084="http://xmlns.com/foaf/0.1/" rdf:resource="https://sites.google.com/site/odatafooding/home/data/semanticwebconference"/>
+    <ns1082:title xmlns:ns1082="http://purl.org/dc/terms/">Google Trends meets DBpedia Japanese</ns1082:title>
+    <ns1083:seeAlso xmlns:ns1083="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d082"/>
+    <ns1084:homepage xmlns:ns1084="http://xmlns.com/foaf/0.1/" rdf:resource="https://sites.google.com/site/odatafooding/home/data/googletrends_dbpedia"/>
   </ns1077:Dataset>
-  <ns1085:Dataset xmlns:ns1085="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d082">
+  <ns1085:Dataset xmlns:ns1085="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d083">
     <ns1086:available xmlns:ns1086="http://purl.org/dc/terms/">2012</ns1086:available>
-    <ns1087:creator xmlns:ns1087="http://purl.org/dc/terms/">s3works</ns1087:creator>
-    <ns1088:description xmlns:ns1088="http://purl.org/dc/terms/">DBpedia Japanese に登録されていないトレンドワードを収集したデータセットです．ScraperWiki を利用して Google Trends 日本語版を毎日1回スクレイピングして，トレンドワード上位20件を取得．各ワードを DBpedia Japanese に完全一致で問い合わせし，登録語にはIRIを付与しています．</ns1088:description>
-    <ns1089:license xmlns:ns1089="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1090:title xmlns:ns1090="http://purl.org/dc/terms/">Google Trends meets DBpedia Japanese</ns1090:title>
-    <ns1091:seeAlso xmlns:ns1091="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d082"/>
-    <ns1092:homepage xmlns:ns1092="http://xmlns.com/foaf/0.1/" rdf:resource="https://sites.google.com/site/odatafooding/home/data/googletrends_dbpedia"/>
+    <ns1087:creator xmlns:ns1087="http://purl.org/dc/terms/">今井健</ns1087:creator>
+    <ns1088:creator xmlns:ns1088="http://purl.org/dc/terms/">加藤敦丈</ns1088:creator>
+    <ns1089:creator xmlns:ns1089="http://purl.org/dc/terms/">古崎晃司</ns1089:creator>
+    <ns1090:creator xmlns:ns1090="http://purl.org/dc/terms/">大江和彦</ns1090:creator>
+    <ns1091:creator xmlns:ns1091="http://purl.org/dc/terms/">溝口理一郎</ns1091:creator>
+    <ns1092:description xmlns:ns1092="http://purl.org/dc/terms/">「異常状態の因果連鎖」に基づいた疾患定義と，その患者に典型的に見られる異常状態（原因や症状）の因果連鎖に関するデータセットです．6つの診療科の代表的な約1,800の疾患に含まれる，約15,000の異常状態について，臨床医によって記述された因果関係がデータ化されており，&#xD;・各疾患がどのような原因で発症し，どのような症状を引き起こすか？&#xD;・ある異常がどのような因果連鎖を経て，どのような状態を引き起こし，どのような疾患となるか？　…&#xD;といった情報を得ることが出来ます．&#xD;　データセットの公開方法としては，下記の２つのWebサービスを提供しています．（共にiOS，Android端末にも対応）．&#xD;・疾患連鎖LOD Viewer&#xD;疾患連鎖（疾患定義に含まれる因果連鎖）の可視化システムです．&#xD;-「疾患の分類（is-a）階層」から表示する疾患を選択&#xD;-「疾患名」，「その疾患に含まれる異常状態名」から疾患定義を検索&#xD;の何れかで選択した疾患連鎖を可視化して表示します．&#xD;・SPARQL Endpoint&#xD;簡易クエリ入力支援機能付きのSPARQL Endpointです．&#xD;通常のSPARQLクエリによる検索に加え，&#xD;- 検索結果から選択したリソースの可視化&#xD;- 検索結果が疾患の場合は，上述の「疾患連鎖LOD Viewer」と連携して疾患連鎖を可視化&#xD;ができます．&#xD;　　&#xD;※なお，本データセットは「厚生労働省医療知識基盤研究開発事業」の助成を受けて開発中の成果である「疾患オントロジー」の一部を公開しているものです．&#xD;今後，データセットの更新，利用方法の詳細などにつきましては，公開サイトにて随時，ご案内する予定です．</ns1092:description>
+    <ns1093:license xmlns:ns1093="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0"/>
+    <ns1094:title xmlns:ns1094="http://purl.org/dc/terms/">疾患連鎖LOD</ns1094:title>
+    <ns1095:seeAlso xmlns:ns1095="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d083"/>
+    <ns1096:homepage xmlns:ns1096="http://xmlns.com/foaf/0.1/" rdf:resource="http://lodc.med-ontology.jp/"/>
   </ns1085:Dataset>
-  <ns1093:Dataset xmlns:ns1093="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d083">
-    <ns1094:available xmlns:ns1094="http://purl.org/dc/terms/">2012</ns1094:available>
-    <ns1095:creator xmlns:ns1095="http://purl.org/dc/terms/">今井健</ns1095:creator>
-    <ns1096:creator xmlns:ns1096="http://purl.org/dc/terms/">加藤敦丈</ns1096:creator>
-    <ns1097:creator xmlns:ns1097="http://purl.org/dc/terms/">古崎晃司</ns1097:creator>
-    <ns1098:creator xmlns:ns1098="http://purl.org/dc/terms/">大江和彦</ns1098:creator>
-    <ns1099:creator xmlns:ns1099="http://purl.org/dc/terms/">溝口理一郎</ns1099:creator>
-    <ns1100:description xmlns:ns1100="http://purl.org/dc/terms/">「異常状態の因果連鎖」に基づいた疾患定義と，その患者に典型的に見られる異常状態（原因や症状）の因果連鎖に関するデータセットです．6つの診療科の代表的な約1,800の疾患に含まれる，約15,000の異常状態について，臨床医によって記述された因果関係がデータ化されており，&#xD;・各疾患がどのような原因で発症し，どのような症状を引き起こすか？&#xD;・ある異常がどのような因果連鎖を経て，どのような状態を引き起こし，どのような疾患となるか？　…&#xD;といった情報を得ることが出来ます．&#xD;　データセットの公開方法としては，下記の２つのWebサービスを提供しています．（共にiOS，Android端末にも対応）．&#xD;・疾患連鎖LOD Viewer&#xD;疾患連鎖（疾患定義に含まれる因果連鎖）の可視化システムです．&#xD;-「疾患の分類（is-a）階層」から表示する疾患を選択&#xD;-「疾患名」，「その疾患に含まれる異常状態名」から疾患定義を検索&#xD;の何れかで選択した疾患連鎖を可視化して表示します．&#xD;・SPARQL Endpoint&#xD;簡易クエリ入力支援機能付きのSPARQL Endpointです．&#xD;通常のSPARQLクエリによる検索に加え，&#xD;- 検索結果から選択したリソースの可視化&#xD;- 検索結果が疾患の場合は，上述の「疾患連鎖LOD Viewer」と連携して疾患連鎖を可視化&#xD;ができます．&#xD;　　&#xD;※なお，本データセットは「厚生労働省医療知識基盤研究開発事業」の助成を受けて開発中の成果である「疾患オントロジー」の一部を公開しているものです．&#xD;今後，データセットの更新，利用方法の詳細などにつきましては，公開サイトにて随時，ご案内する予定です．</ns1100:description>
-    <ns1101:license xmlns:ns1101="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0"/>
-    <ns1102:title xmlns:ns1102="http://purl.org/dc/terms/">疾患連鎖LOD</ns1102:title>
-    <ns1103:seeAlso xmlns:ns1103="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d083"/>
-    <ns1104:homepage xmlns:ns1104="http://xmlns.com/foaf/0.1/" rdf:resource="http://lodc.med-ontology.jp/"/>
-  </ns1093:Dataset>
-  <ns1105:Dataset xmlns:ns1105="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d084">
+  <ns1097:Dataset xmlns:ns1097="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d084">
+    <ns1098:available xmlns:ns1098="http://purl.org/dc/terms/">2012</ns1098:available>
+    <ns1099:creator xmlns:ns1099="http://purl.org/dc/terms/">本間維</ns1099:creator>
+    <ns1100:description xmlns:ns1100="http://purl.org/dc/terms/">落語家の名跡の変化や，落語家間での名跡の継承などを表現したデータセット．</ns1100:description>
+    <ns1101:license xmlns:ns1101="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
+    <ns1102:title xmlns:ns1102="http://purl.org/dc/terms/">落語家LOD</ns1102:title>
+    <ns1103:seeAlso xmlns:ns1103="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d084"/>
+    <ns1104:homepage xmlns:ns1104="http://xmlns.com/foaf/0.1/" rdf:resource="http://mdlab.slis.tsukuba.ac.jp/lodc2012/rakugo/"/>
+  </ns1097:Dataset>
+  <ns1105:Dataset xmlns:ns1105="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d085">
     <ns1106:available xmlns:ns1106="http://purl.org/dc/terms/">2012</ns1106:available>
     <ns1107:creator xmlns:ns1107="http://purl.org/dc/terms/">本間維</ns1107:creator>
-    <ns1108:description xmlns:ns1108="http://purl.org/dc/terms/">落語家の名跡の変化や，落語家間での名跡の継承などを表現したデータセット．</ns1108:description>
-    <ns1109:license xmlns:ns1109="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
-    <ns1110:title xmlns:ns1110="http://purl.org/dc/terms/">落語家LOD</ns1110:title>
-    <ns1111:seeAlso xmlns:ns1111="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d084"/>
-    <ns1112:homepage xmlns:ns1112="http://xmlns.com/foaf/0.1/" rdf:resource="http://mdlab.slis.tsukuba.ac.jp/lodc2012/rakugo/"/>
+    <ns1108:description xmlns:ns1108="http://purl.org/dc/terms/">LOD作品のLOD．&#xD;LODチャレンジ2011と2012で公開された作品の情報をRDF化したデータセットです．&#xD;各作品のエントリーシートに記述された内容を元にデータを作成しています．&#xD;「関連するデータセット」などの項目も利用して，年度や部門を超えた作品の参照関係を記述できました．&#xD;エントリー〆切後に再度データの更新を行う予定です．</ns1108:description>
+    <ns1109:license xmlns:ns1109="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1110:title xmlns:ns1110="http://purl.org/dc/terms/">LODC Works</ns1110:title>
+    <ns1111:seeAlso xmlns:ns1111="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d085"/>
+    <ns1112:homepage xmlns:ns1112="http://xmlns.com/foaf/0.1/" rdf:resource="http://mdlab.slis.tsukuba.ac.jp/lodc2012/lodcworks/"/>
   </ns1105:Dataset>
-  <ns1113:Visualization xmlns:ns1113="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v001">
+  <ns1113:Dataset xmlns:ns1113="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d086">
     <ns1114:available xmlns:ns1114="http://purl.org/dc/terms/">2012</ns1114:available>
-    <ns1115:creator xmlns:ns1115="http://purl.org/dc/terms/">渡邉英徳</ns1115:creator>
-    <ns1116:description xmlns:ns1116="http://purl.org/dc/terms/">「東日本大震災アーカイブ」は，震災の被害状況を可視化し，災害の実相を世界につたえる多元的デジタルアーカイブズです．個別に存在していた，被災地の写真，パノラマ画像，被災者の証言，TV報道映像，ジオタグ付きツイート等のデータを一元化し，デジタル地球儀Google Earthの三次元地形に重ね，俯瞰的に閲覧することができます．さらにタイムスライダー機能を備えており，震災発生後の時間経過に沿って，資料を閲覧することも可能です．また，データをiPhoneのARビューで閲覧できるアプリもリリースしています．</ns1116:description>
-    <ns1117:license xmlns:ns1117="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1118:title xmlns:ns1118="http://purl.org/dc/terms/">東日本大震災アーカイブ</ns1118:title>
-    <ns1119:seeAlso xmlns:ns1119="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v001"/>
-    <ns1120:homepage xmlns:ns1120="http://xmlns.com/foaf/0.1/" rdf:resource="http://nagasaki.mapping.jp/p/japan-earthquake.html"/>
-  </ns1113:Visualization>
-  <ns1121:Visualization xmlns:ns1121="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v002">
-    <ns1122:available xmlns:ns1122="http://purl.org/dc/terms/">2012</ns1122:available>
-    <ns1123:creator xmlns:ns1123="http://purl.org/dc/terms/">渡邉英徳</ns1123:creator>
-    <ns1124:description xmlns:ns1124="http://purl.org/dc/terms/">「ヒロシマ・アーカイブ」は、広島平和記念資料館、広島女学院同窓会、八王子被爆者の会をはじめとする提供元から得られたすべての資料を、デジタル地球儀「Google Earth」上に重層表示した「多元的デジタル・アーカイブズ」です。1945年当時の体験談、写真、地図、その他の資料を、2010年の航空写真、立体地形、そして建物モデルと重ねあわせ、時空を越えて俯瞰的に閲覧することができます。このことにより、被爆の実相に対する多面的・総合的な理解を促すことを企図しています。</ns1124:description>
-    <ns1125:license xmlns:ns1125="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1126:title xmlns:ns1126="http://purl.org/dc/terms/">ヒロシマ・アーカイブ</ns1126:title>
-    <ns1127:seeAlso xmlns:ns1127="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v002"/>
-    <ns1128:homepage xmlns:ns1128="http://xmlns.com/foaf/0.1/" rdf:resource="http://hiroshima.mapping.jp/"/>
-  </ns1121:Visualization>
-  <ns1129:Visualization xmlns:ns1129="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v003">
-    <ns1130:available xmlns:ns1130="http://purl.org/dc/terms/">2012</ns1130:available>
-    <ns1131:creator xmlns:ns1131="http://purl.org/dc/terms/">渡邉英徳</ns1131:creator>
-    <ns1132:description xmlns:ns1132="http://purl.org/dc/terms/">Nagasaki Archiveでは、デジタル地球儀Google Earthを用いて、長崎の地形を立体的に俯瞰しながら、被爆者の写真と体験談を、1945年8月9日に実際に被爆した場所と関連付けて閲覧できます。また、被爆直後に撮影された写真と2010年現在の写真を重層表示し、被害のようす、その後復興を遂げた長崎のようすを時空を越えて体感することができます。</ns1132:description>
-    <ns1133:license xmlns:ns1133="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1134:title xmlns:ns1134="http://purl.org/dc/terms/">ナガサキ・アーカイブ</ns1134:title>
-    <ns1135:seeAlso xmlns:ns1135="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v003"/>
-    <ns1136:homepage xmlns:ns1136="http://xmlns.com/foaf/0.1/" rdf:resource="http://nagasaki.mapping.jp"/>
-  </ns1129:Visualization>
-  <ns1137:Visualization xmlns:ns1137="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v004">
-    <ns1138:available xmlns:ns1138="http://purl.org/dc/terms/">2012</ns1138:available>
-    <ns1139:creator xmlns:ns1139="http://purl.org/dc/terms/">渡邉英徳</ns1139:creator>
-    <ns1140:description xmlns:ns1140="http://purl.org/dc/terms/">本コンテンツは「東日本大震災ビッグデータワークショップ」にて行われた「Project Hayano」（リーダー：早野龍五（東京大学））で収集された，放射性ヨウ素拡散シミュレーションとその他のデータとの関連性をわかりやすく伝えるために，デジタル地球儀Google Earthを応用したマッシュアップとして公開したものです．現在，国立環境研究所，JAMSTEC，SPEEDIによる放射性ヨウ素拡散シミュレーションデータと，ゼンリンデータコムの混雑情報等が重層され，タイムスライダーをもちいて，2011年3月15日〜3月16日の状況の推移を閲覧することが可能です．</ns1140:description>
-    <ns1141:license xmlns:ns1141="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
-    <ns1142:title xmlns:ns1142="http://purl.org/dc/terms/">Project Hayano:放射性ヨウ素拡散シミュレーションのマッシュアップ</ns1142:title>
-    <ns1143:seeAlso xmlns:ns1143="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v004"/>
-    <ns1144:homepage xmlns:ns1144="http://xmlns.com/foaf/0.1/" rdf:resource="http://speedi.mapping.jp/"/>
-  </ns1137:Visualization>
-  <ns1145:Visualization xmlns:ns1145="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v006">
-    <ns1146:available xmlns:ns1146="http://purl.org/dc/terms/">2012</ns1146:available>
-    <ns1147:creator xmlns:ns1147="http://purl.org/dc/terms/">河原　翔</ns1147:creator>
-    <ns1148:description xmlns:ns1148="http://purl.org/dc/terms/">データ提供パートナー様が公開されている「オープンストリートマップ」と「ヨコハマ・アート・LOD」を組み合わせました。&#xD;ジャンルと開催期間を組み合わせた検索が可能です。&#xD;データさえご提供いただければ極めて短期間でシステムを構築可能であることの一例となればと考えております。</ns1148:description>
-    <ns1149:license xmlns:ns1149="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-sa/3.0"/>
-    <ns1150:title xmlns:ns1150="http://purl.org/dc/terms/">ヨコハマ・アート・オープンストリートマップ</ns1150:title>
-    <ns1151:seeAlso xmlns:ns1151="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v006"/>
-    <ns1152:homepage xmlns:ns1152="http://xmlns.com/foaf/0.1/" rdf:resource="http://yokohama-art-osm.digiweb.jp"/>
-  </ns1145:Visualization>
-  <ns1153:Visualization xmlns:ns1153="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v007">
-    <ns1154:available xmlns:ns1154="http://purl.org/dc/terms/">2012</ns1154:available>
-    <ns1155:creator xmlns:ns1155="http://purl.org/dc/terms/">秋山梓</ns1155:creator>
-    <ns1156:description xmlns:ns1156="http://purl.org/dc/terms/">複数の本から引用される本、芸術作品、時代、地名がある。相関を視覚化することで、本同士の関連や、複数の本から参照されているものの発見、つながりを把握することができる。&#xD;・●上に、マウスを重ねることでタイトルが表示されます。&#xD;・マウスホイールで拡大、縮小ができます。</ns1156:description>
-    <ns1157:license xmlns:ns1157="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1158:relation xmlns:ns1158="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/i011"/>
-    <ns1159:title xmlns:ns1159="http://purl.org/dc/terms/">BOOK NETWORK</ns1159:title>
-    <ns1160:seeAlso xmlns:ns1160="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v007"/>
-    <ns1161:homepage xmlns:ns1161="http://xmlns.com/foaf/0.1/" rdf:resource="http://gloria.ciao.jp/book/sample_sigma_grey3.html"/>
-  </ns1153:Visualization>
-  <ns1162:Visualization xmlns:ns1162="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v008">
-    <ns1163:available xmlns:ns1163="http://purl.org/dc/terms/">2012</ns1163:available>
-    <ns1164:creator xmlns:ns1164="http://purl.org/dc/terms/">大友翔一</ns1164:creator>
-    <ns1165:description xmlns:ns1165="http://purl.org/dc/terms/">JAXA/ISAS,JSpecで公開されている月のデータを加工してGoogleMoon上に貼り付けられるようにした。&#xD;KMLを選択することで一般の方でも立体的に月、及び観測衛星SELENE(かぐや)の軌道や、ある時点における位置情報、撮影した写真、写真が撮影されたエリアが閲覧できる。</ns1165:description>
-    <ns1166:license xmlns:ns1166="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-sa/3.0"/>
-    <ns1167:relation xmlns:ns1167="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/i014"/>
-    <ns1168:title xmlns:ns1168="http://purl.org/dc/terms/">LINKAGE</ns1168:title>
-    <ns1169:seeAlso xmlns:ns1169="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v008"/>
-    <ns1170:homepage xmlns:ns1170="http://xmlns.com/foaf/0.1/" rdf:resource="http://geojackass.org/linkage/"/>
-  </ns1162:Visualization>
-  <ns1171:Visualization xmlns:ns1171="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v009">
+    <ns1115:creator xmlns:ns1115="http://purl.org/dc/terms/">越川兼地（学生）</ns1115:creator>
+    <ns1116:description xmlns:ns1116="http://purl.org/dc/terms/">メディア情報から事象情報を抽出し，Linked Dataで事象情報を表現する手法を用いて，2012年12月に行われた衆院選に関するマスメディア(大手ニュースサイト)及びソーシャルメディア(Twitter)の情報をLinked Dataにしたものです。&#xD;詳しくは&#xD;http://benzaiten.ohsuga.is.uec.ac.jp/k-koshikawa/MediaLinkedData/media_lod.pdf &#xD;を参照して下さい。</ns1116:description>
+    <ns1117:license xmlns:ns1117="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns1118:relation xmlns:ns1118="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/i040"/>
+    <ns1119:title xmlns:ns1119="http://purl.org/dc/terms/">2012年の衆院選に関するメディア情報LOD</ns1119:title>
+    <ns1120:seeAlso xmlns:ns1120="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d086"/>
+    <ns1121:homepage xmlns:ns1121="http://xmlns.com/foaf/0.1/" rdf:resource="http://benzaiten.ohsuga.is.uec.ac.jp/k-koshikawa/MediaLinkedData/"/>
+  </ns1113:Dataset>
+  <ns1122:Dataset xmlns:ns1122="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d087">
+    <ns1123:available xmlns:ns1123="http://purl.org/dc/terms/">2012</ns1123:available>
+    <ns1124:creator xmlns:ns1124="http://purl.org/dc/terms/">岡本忍</ns1124:creator>
+    <ns1125:creator xmlns:ns1125="http://purl.org/dc/terms/">川島秀一</ns1125:creator>
+    <ns1126:description xmlns:ns1126="http://purl.org/dc/terms/">本データセットは、微生物のいくつかの表現型に関する情報をLOD化したものである。&#xD;表現型とは、外部から観察可能な生物の示す形態や生理等の形質を意味し、遺伝情報とともに、生命現象を研究する上で重要なデータである。しかし、遺伝情報が、ゲノム配列情報として急速に蓄積されている一方で、表現型の情報は主として文献に記載されていることから、網羅的な電子化は遅れている。DBCLSでは、ゲノム配列のRDF化を進めており、表現型の情報が同じくRDF化されれば、これまで困難であった遺伝情報および表現型情報を統合したデータ検索が可能になる。幸い、微生物に関しては、ゲノムプロジェクトのメタデータを整理したGOLDデータベースにGOLDデータベースに表現型情報が蓄積されつつある。今回我々は、微生物表現型情報を記載するのに必要なオントロジー、MPO: Microbial Phenotype Ontology を開発し、さらにMPOを利用して、GOLDデータベースに記載された表現型情報のうち、細胞の形態、酸素要求性と生育温度による分類に関してRDF化を行った。</ns1126:description>
+    <ns1127:license xmlns:ns1127="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns1128:title xmlns:ns1128="http://purl.org/dc/terms/">MPLOD &amp; MPO</ns1128:title>
+    <ns1129:seeAlso xmlns:ns1129="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d087"/>
+    <ns1130:homepage xmlns:ns1130="http://xmlns.com/foaf/0.1/" rdf:resource="http://lod.dbcls.jp/mpo/"/>
+  </ns1122:Dataset>
+  <ns1131:Dataset xmlns:ns1131="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d088">
+    <ns1132:available xmlns:ns1132="http://purl.org/dc/terms/">2012</ns1132:available>
+    <ns1133:creator xmlns:ns1133="http://purl.org/dc/terms/">鯖江観光LODチーム</ns1133:creator>
+    <ns1134:description xmlns:ns1134="http://purl.org/dc/terms/">第3回LODチャレンジデー「オープンデータハッカソンin鯖江」の成果をまとめたものです． &#xD;公開されている鯖江の観光関係のLODに相互リンクを追加することで，観光LODとしての価値を高めることを狙いました． &#xD;作業内容は， http://goo.gl/cA5xO をご覧ください．</ns1134:description>
+    <ns1135:license xmlns:ns1135="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1136:title xmlns:ns1136="http://purl.org/dc/terms/">鯖江観光LOD</ns1136:title>
+    <ns1137:seeAlso xmlns:ns1137="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d088"/>
+    <ns1138:homepage xmlns:ns1138="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s581i"/>
+  </ns1131:Dataset>
+  <ns1139:Dataset xmlns:ns1139="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/d089">
+    <ns1140:available xmlns:ns1140="http://purl.org/dc/terms/">2012</ns1140:available>
+    <ns1141:creator xmlns:ns1141="http://purl.org/dc/terms/">Aya_Igarashi</ns1141:creator>
+    <ns1142:description xmlns:ns1142="http://purl.org/dc/terms/">複雑なギリシャ神話の相関図を示した。 foaf:knowsは自身の子供に対して関係となっている。 同じ子を持つ親は夫婦であり、子は親を2柱持つ。 また、子の親が1柱であった場合1柱の神から生まれてきていることが分かる。</ns1142:description>
+    <ns1143:license xmlns:ns1143="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1144:title xmlns:ns1144="http://purl.org/dc/terms/">ギリシャ神話の相関図</ns1144:title>
+    <ns1145:seeAlso xmlns:ns1145="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=d089"/>
+    <ns1146:homepage xmlns:ns1146="http://xmlns.com/foaf/0.1/" rdf:resource="http://linkdata.org/work/rdf1s528i"/>
+  </ns1139:Dataset>
+  <ns1147:Visualization xmlns:ns1147="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v001">
+    <ns1148:available xmlns:ns1148="http://purl.org/dc/terms/">2012</ns1148:available>
+    <ns1149:creator xmlns:ns1149="http://purl.org/dc/terms/">渡邉英徳</ns1149:creator>
+    <ns1150:description xmlns:ns1150="http://purl.org/dc/terms/">「東日本大震災アーカイブ」は，震災の被害状況を可視化し，災害の実相を世界につたえる多元的デジタルアーカイブズです．個別に存在していた，被災地の写真，パノラマ画像，被災者の証言，TV報道映像，ジオタグ付きツイート等のデータを一元化し，デジタル地球儀Google Earthの三次元地形に重ね，俯瞰的に閲覧することができます．さらにタイムスライダー機能を備えており，震災発生後の時間経過に沿って，資料を閲覧することも可能です．また，データをiPhoneのARビューで閲覧できるアプリもリリースしています．</ns1150:description>
+    <ns1151:license xmlns:ns1151="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1152:title xmlns:ns1152="http://purl.org/dc/terms/">東日本大震災アーカイブ</ns1152:title>
+    <ns1153:seeAlso xmlns:ns1153="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v001"/>
+    <ns1154:homepage xmlns:ns1154="http://xmlns.com/foaf/0.1/" rdf:resource="http://nagasaki.mapping.jp/p/japan-earthquake.html"/>
+  </ns1147:Visualization>
+  <ns1155:Visualization xmlns:ns1155="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v002">
+    <ns1156:available xmlns:ns1156="http://purl.org/dc/terms/">2012</ns1156:available>
+    <ns1157:creator xmlns:ns1157="http://purl.org/dc/terms/">渡邉英徳</ns1157:creator>
+    <ns1158:description xmlns:ns1158="http://purl.org/dc/terms/">「ヒロシマ・アーカイブ」は、広島平和記念資料館、広島女学院同窓会、八王子被爆者の会をはじめとする提供元から得られたすべての資料を、デジタル地球儀「Google Earth」上に重層表示した「多元的デジタル・アーカイブズ」です。1945年当時の体験談、写真、地図、その他の資料を、2010年の航空写真、立体地形、そして建物モデルと重ねあわせ、時空を越えて俯瞰的に閲覧することができます。このことにより、被爆の実相に対する多面的・総合的な理解を促すことを企図しています。</ns1158:description>
+    <ns1159:license xmlns:ns1159="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1160:title xmlns:ns1160="http://purl.org/dc/terms/">ヒロシマ・アーカイブ</ns1160:title>
+    <ns1161:seeAlso xmlns:ns1161="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v002"/>
+    <ns1162:homepage xmlns:ns1162="http://xmlns.com/foaf/0.1/" rdf:resource="http://hiroshima.mapping.jp/"/>
+  </ns1155:Visualization>
+  <ns1163:Visualization xmlns:ns1163="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v003">
+    <ns1164:available xmlns:ns1164="http://purl.org/dc/terms/">2012</ns1164:available>
+    <ns1165:creator xmlns:ns1165="http://purl.org/dc/terms/">渡邉英徳</ns1165:creator>
+    <ns1166:description xmlns:ns1166="http://purl.org/dc/terms/">Nagasaki Archiveでは、デジタル地球儀Google Earthを用いて、長崎の地形を立体的に俯瞰しながら、被爆者の写真と体験談を、1945年8月9日に実際に被爆した場所と関連付けて閲覧できます。また、被爆直後に撮影された写真と2010年現在の写真を重層表示し、被害のようす、その後復興を遂げた長崎のようすを時空を越えて体感することができます。</ns1166:description>
+    <ns1167:license xmlns:ns1167="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1168:title xmlns:ns1168="http://purl.org/dc/terms/">ナガサキ・アーカイブ</ns1168:title>
+    <ns1169:seeAlso xmlns:ns1169="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v003"/>
+    <ns1170:homepage xmlns:ns1170="http://xmlns.com/foaf/0.1/" rdf:resource="http://nagasaki.mapping.jp"/>
+  </ns1163:Visualization>
+  <ns1171:Visualization xmlns:ns1171="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v004">
     <ns1172:available xmlns:ns1172="http://purl.org/dc/terms/">2012</ns1172:available>
-    <ns1173:creator xmlns:ns1173="http://purl.org/dc/terms/">Mito Memel</ns1173:creator>
-    <ns1174:description xmlns:ns1174="http://purl.org/dc/terms/">過去約10年分の国会会議録の中から議員の発言をランダムでツイートします。普段国会中継などを見ない人が国政に興味を持つきっかけになればと思い作成しました。</ns1174:description>
-    <ns1175:license xmlns:ns1175="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1176:relation xmlns:ns1176="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/d036"/>
-    <ns1177:title xmlns:ns1177="http://purl.org/dc/terms/">国会ちゃん</ns1177:title>
-    <ns1178:seeAlso xmlns:ns1178="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v009"/>
-    <ns1179:homepage xmlns:ns1179="http://xmlns.com/foaf/0.1/" rdf:resource="http://twitter.com/kokkaichan"/>
+    <ns1173:creator xmlns:ns1173="http://purl.org/dc/terms/">渡邉英徳</ns1173:creator>
+    <ns1174:description xmlns:ns1174="http://purl.org/dc/terms/">本コンテンツは「東日本大震災ビッグデータワークショップ」にて行われた「Project Hayano」（リーダー：早野龍五（東京大学））で収集された，放射性ヨウ素拡散シミュレーションとその他のデータとの関連性をわかりやすく伝えるために，デジタル地球儀Google Earthを応用したマッシュアップとして公開したものです．現在，国立環境研究所，JAMSTEC，SPEEDIによる放射性ヨウ素拡散シミュレーションデータと，ゼンリンデータコムの混雑情報等が重層され，タイムスライダーをもちいて，2011年3月15日〜3月16日の状況の推移を閲覧することが可能です．</ns1174:description>
+    <ns1175:license xmlns:ns1175="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
+    <ns1176:title xmlns:ns1176="http://purl.org/dc/terms/">Project Hayano:放射性ヨウ素拡散シミュレーションのマッシュアップ</ns1176:title>
+    <ns1177:seeAlso xmlns:ns1177="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v004"/>
+    <ns1178:homepage xmlns:ns1178="http://xmlns.com/foaf/0.1/" rdf:resource="http://speedi.mapping.jp/"/>
   </ns1171:Visualization>
-  <ns1180:Visualization xmlns:ns1180="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v010">
-    <ns1181:available xmlns:ns1181="http://purl.org/dc/terms/">2012</ns1181:available>
-    <ns1182:creator xmlns:ns1182="http://purl.org/dc/terms/">下垣 祐貴</ns1182:creator>
-    <ns1183:creator xmlns:ns1183="http://purl.org/dc/terms/">尾崎 康次郎</ns1183:creator>
-    <ns1184:creator xmlns:ns1184="http://purl.org/dc/terms/">田中 恵子</ns1184:creator>
-    <ns1185:description xmlns:ns1185="http://purl.org/dc/terms/">Trendipity (トレンディピティ)は，ツイッターのつぶやきデータからトレンドを俯瞰し，偶然の発見(セレンディピティ)を見える化するビジュアライゼーションツールです．&#xD;たこつぼ化しやすいと言われるソーシャルメディア上のデータを，ユーザの誰もが主体的に，視覚的に解析できるようにするためにつくりました．&#xD;サービスページにアクセスすると，自動的に今話題のキーワードを取得し，その単語を含むツイッター上のつぶやきデータから，出現回数の多い他の単語ほど大きいフォントでビジュアライゼーションします．ユーザーは自らクエリに単語を入力することで，その単語に関するトレンドクラウドを生成することもできます．このトレンドクラウドを見れば，ひと目で関連性の高いキーワードや話題を容易に見つけることができます．&#xD;また生成したワードクラウドの画像は，ボタンひとつで保存したり，ツイッターでシェアすることができます．</ns1185:description>
-    <ns1186:license xmlns:ns1186="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0"/>
-    <ns1187:title xmlns:ns1187="http://purl.org/dc/terms/">Trendipity (トレンディピティ)</ns1187:title>
-    <ns1188:seeAlso xmlns:ns1188="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v010"/>
-    <ns1189:homepage xmlns:ns1189="http://xmlns.com/foaf/0.1/" rdf:resource="http://trendipity.net/cloud/"/>
-  </ns1180:Visualization>
-  <ns1190:Visualization xmlns:ns1190="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v012">
-    <ns1191:available xmlns:ns1191="http://purl.org/dc/terms/">2012</ns1191:available>
-    <ns1192:creator xmlns:ns1192="http://purl.org/dc/terms/">只木進一</ns1192:creator>
-    <ns1193:creator xmlns:ns1193="http://purl.org/dc/terms/">吉賀夏子</ns1193:creator>
-    <ns1194:creator xmlns:ns1194="http://purl.org/dc/terms/">渡辺健次</ns1194:creator>
-    <ns1195:description xmlns:ns1195="http://purl.org/dc/terms/">Web上では近年様々な電子図書館が設けられており、様々な作品の画像や書誌情報を簡単に閲覧できるようになりました。しかし年々蓄積される情報が膨大になるにつれて、わずかなキーワードやシステムに備え付けの機能で検索をして、必要な情報を見つけ出す事自体にも、膨大な労力を費やすようになりました。特に、歴史・人文科学的資料の調査では、ある作品の著者の名前（号、幼名、旧姓、別名等）を調べること、すなわち「名寄せ」は重要かつ困難な作業のひとつです。&#xD;そこで、電子図書館の利用者がある作品の著者を検索する際に、名寄せや年代の確認等を行いながら、目的の資料に関するデータを効率的に探す方法を考えました。本作では、Linked DataとなっているWeb NDLA Authorities（国立国会図書館典拠データ）が活用できるように、佐賀大学所蔵の「市場直次郎コレクション」（http://www.dl.saga-u.ac.jp/OgiNabesima/）書誌データもLinked Dataに変換して各属性を一致させることで、同じタイムラインに表示させたり、ファセット検索できるようにしました。個々の小さなデータベースでも、そのデータをLinked Open Dataにすることで、別のデータベースと機械的に属性を合わせ、かつ適切な可視化を施せば、そのデータの価値をもっと引き出すことができると思います。&#xD;なお、利用許諾等の関係で、ウェブアプリの紹介と説明はビデオでのプレゼンテーションとなっています。補足説明はウェブサイト（http://www.ai.is.saga-u.ac.jp/~yoshiga/ichiba/）に載せていますので、併せてご覧ください。</ns1195:description>
-    <ns1196:license xmlns:ns1196="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1197:title xmlns:ns1197="http://purl.org/dc/terms/">Web NDLA Authorities（国立国会図書館典拠データ）を利用した名寄せと書誌情報の検索およびタイムラインを使った可視化</ns1197:title>
-    <ns1198:seeAlso xmlns:ns1198="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v012"/>
-    <ns1199:homepage xmlns:ns1199="http://xmlns.com/foaf/0.1/" rdf:resource="http://www.ai.is.saga-u.ac.jp/~yoshiga/ichiba/"/>
-  </ns1190:Visualization>
-  <ns1200:Visualization xmlns:ns1200="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v013">
-    <ns1201:available xmlns:ns1201="http://purl.org/dc/terms/">2012</ns1201:available>
-    <ns1202:creator xmlns:ns1202="http://purl.org/dc/terms/">library labs</ns1202:creator>
-    <ns1203:description xmlns:ns1203="http://purl.org/dc/terms/">「作家の歩み」は作家の生前に出版された図書をタイムラインで表現したウェブサイトです。&#xD;作家の生没年はWeb NDL Authorities、図書の情報はCiNii Books APIからを取得しています。&#xD;何歳の時にどの作品を書いたのか、どの時期に多くの作品が生まれているのかなど、作家の執筆活動の歩みが視覚的に表現されています。&#xD;同姓同名の問題などがあるため、現在は検索機能は付けていません。&#xD;*** 今後の展開 ***&#xD;文学史や社会的な事件も同じタイムライン上で表現できると作品と社会の関係を視覚化することができるのではないかと思います。</ns1203:description>
-    <ns1204:license xmlns:ns1204="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
-    <ns1205:title xmlns:ns1205="http://purl.org/dc/terms/">作家の歩み</ns1205:title>
-    <ns1206:seeAlso xmlns:ns1206="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v013"/>
-    <ns1207:homepage xmlns:ns1207="http://xmlns.com/foaf/0.1/" rdf:resource="http://kyoto-city.net/ayumi/index.php"/>
-  </ns1200:Visualization>
-  <ns1208:Visualization xmlns:ns1208="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v014">
-    <ns1209:available xmlns:ns1209="http://purl.org/dc/terms/">2012</ns1209:available>
-    <ns1210:creator xmlns:ns1210="http://purl.org/dc/terms/">原田真喜子</ns1210:creator>
-    <ns1211:description xmlns:ns1211="http://purl.org/dc/terms/">コトバノキは、Web集合知上の語彙のつながりを視覚化するコンテンツです。コトバノキでは、Googleサーチエンジン、GoogleとYahooの検索予測候補、Twitter、Wikipedia、はてなキーワードの情報をサマライズし、Web上で語彙がどのように使用されているかを一様に閲覧することができます。視覚化の特徴として、１．概念体系モデルを参考に木をモチーフに語彙の用いられ方を体系化した事　２．Twitter集合知からツイートの感情メタデータを取得し、感情を色彩として表現した事　３．主観的な性質の集合知と客観的な性質の集合知に分類し、集合知ごとの語彙の使用環境の比較閲覧が可能　の3つがあります。&#xD;コトバノキでは、「想定外の言葉との出会い」がきっと待っています。</ns1211:description>
-    <ns1212:license xmlns:ns1212="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
-    <ns1213:title xmlns:ns1213="http://purl.org/dc/terms/">コトバノキ</ns1213:title>
-    <ns1214:seeAlso xmlns:ns1214="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v014"/>
-    <ns1215:homepage xmlns:ns1215="http://xmlns.com/foaf/0.1/" rdf:resource="http://kokima.sakura.ne.jp/kotobanomori/kotobanoki.htm"/>
-  </ns1208:Visualization>
-  <ns1216:Visualization xmlns:ns1216="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v015">
-    <ns1217:available xmlns:ns1217="http://purl.org/dc/terms/">2012</ns1217:available>
-    <ns1218:creator xmlns:ns1218="http://purl.org/dc/terms/">榊原一人</ns1218:creator>
-    <ns1219:description xmlns:ns1219="http://purl.org/dc/terms/">・1920年から2030年までの110年間の、日本の「５歳ごとx５年ごと」の人口推移のグラフです。「人口の波」の変形を、ぱらぱらマンガでご覧いただけます。&#xD;・データソースは、1920年（大正９年）の第1回から2010年（平成22年）の第19回までの国勢調査のデータと、国立社会保障・人口問題研究所の将来推計人口のデータを、独自に加工したものです。&#xD;・第二次世界大戦後の1950年から2005年までの12回分のデータには、「働いている人」「結婚している人」「産まれた人」の３つの要素を、他の日本政府の公開データから抽出して追加しました。&#xD;・processing2.0 Beta 7 で開発した実行ファイル形式です。&#xD;＜意図＞&#xD;人類史上かつてない、少子高齢化がすすむ日本。自分も歳をとり、いつか死んで行く。その意味が少しでもわかるかと思い、こうして図解しました。どうあるべきなのか、どうしてこうなったのか、どうすれば未来は変わって行くのかを、多くの人と考えていくベースになれれば嬉しいです。&#xD;＜謝辞＞&#xD;この表現のためのツール「processing」とその解説書を書いてくれたBen Fryに感謝します。インスピレーションを与えてくれた、gapminderのHans Roslingと、子どもの頃の朝のお楽しみTV番組「カリキュラマシーン」に合わせて感謝します。</ns1219:description>
-    <ns1220:license xmlns:ns1220="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
-    <ns1221:title xmlns:ns1221="http://purl.org/dc/terms/">人口の波</ns1221:title>
-    <ns1222:seeAlso xmlns:ns1222="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v015"/>
-    <ns1223:homepage xmlns:ns1223="http://xmlns.com/foaf/0.1/" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/dat/visualization/v015_20130131000837_wave_of_jp_population_app.zip"/>
-  </ns1216:Visualization>
-  <ns1224:Visualization xmlns:ns1224="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v016">
+  <ns1179:Visualization xmlns:ns1179="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v006">
+    <ns1180:available xmlns:ns1180="http://purl.org/dc/terms/">2012</ns1180:available>
+    <ns1181:creator xmlns:ns1181="http://purl.org/dc/terms/">河原　翔</ns1181:creator>
+    <ns1182:description xmlns:ns1182="http://purl.org/dc/terms/">データ提供パートナー様が公開されている「オープンストリートマップ」と「ヨコハマ・アート・LOD」を組み合わせました。&#xD;ジャンルと開催期間を組み合わせた検索が可能です。&#xD;データさえご提供いただければ極めて短期間でシステムを構築可能であることの一例となればと考えております。</ns1182:description>
+    <ns1183:license xmlns:ns1183="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-sa/3.0"/>
+    <ns1184:title xmlns:ns1184="http://purl.org/dc/terms/">ヨコハマ・アート・オープンストリートマップ</ns1184:title>
+    <ns1185:seeAlso xmlns:ns1185="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v006"/>
+    <ns1186:homepage xmlns:ns1186="http://xmlns.com/foaf/0.1/" rdf:resource="http://yokohama-art-osm.digiweb.jp"/>
+  </ns1179:Visualization>
+  <ns1187:Visualization xmlns:ns1187="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v007">
+    <ns1188:available xmlns:ns1188="http://purl.org/dc/terms/">2012</ns1188:available>
+    <ns1189:creator xmlns:ns1189="http://purl.org/dc/terms/">秋山梓</ns1189:creator>
+    <ns1190:description xmlns:ns1190="http://purl.org/dc/terms/">複数の本から引用される本、芸術作品、時代、地名がある。相関を視覚化することで、本同士の関連や、複数の本から参照されているものの発見、つながりを把握することができる。&#xD;・●上に、マウスを重ねることでタイトルが表示されます。&#xD;・マウスホイールで拡大、縮小ができます。</ns1190:description>
+    <ns1191:license xmlns:ns1191="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1192:relation xmlns:ns1192="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/i011"/>
+    <ns1193:title xmlns:ns1193="http://purl.org/dc/terms/">BOOK NETWORK</ns1193:title>
+    <ns1194:seeAlso xmlns:ns1194="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v007"/>
+    <ns1195:homepage xmlns:ns1195="http://xmlns.com/foaf/0.1/" rdf:resource="http://gloria.ciao.jp/book/sample_sigma_grey3.html"/>
+  </ns1187:Visualization>
+  <ns1196:Visualization xmlns:ns1196="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v008">
+    <ns1197:available xmlns:ns1197="http://purl.org/dc/terms/">2012</ns1197:available>
+    <ns1198:creator xmlns:ns1198="http://purl.org/dc/terms/">大友翔一</ns1198:creator>
+    <ns1199:description xmlns:ns1199="http://purl.org/dc/terms/">JAXA/ISAS,JSpecで公開されている月のデータを加工してGoogleMoon上に貼り付けられるようにした。&#xD;KMLを選択することで一般の方でも立体的に月、及び観測衛星SELENE(かぐや)の軌道や、ある時点における位置情報、撮影した写真、写真が撮影されたエリアが閲覧できる。</ns1199:description>
+    <ns1200:license xmlns:ns1200="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-sa/3.0"/>
+    <ns1201:relation xmlns:ns1201="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/i014"/>
+    <ns1202:title xmlns:ns1202="http://purl.org/dc/terms/">LINKAGE</ns1202:title>
+    <ns1203:seeAlso xmlns:ns1203="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v008"/>
+    <ns1204:homepage xmlns:ns1204="http://xmlns.com/foaf/0.1/" rdf:resource="http://geojackass.org/linkage/"/>
+  </ns1196:Visualization>
+  <ns1205:Visualization xmlns:ns1205="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v009">
+    <ns1206:available xmlns:ns1206="http://purl.org/dc/terms/">2012</ns1206:available>
+    <ns1207:creator xmlns:ns1207="http://purl.org/dc/terms/">Mito Memel</ns1207:creator>
+    <ns1208:description xmlns:ns1208="http://purl.org/dc/terms/">過去約10年分の国会会議録の中から議員の発言をランダムでツイートします。普段国会中継などを見ない人が国政に興味を持つきっかけになればと思い作成しました。</ns1208:description>
+    <ns1209:license xmlns:ns1209="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1210:relation xmlns:ns1210="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/d036"/>
+    <ns1211:title xmlns:ns1211="http://purl.org/dc/terms/">国会ちゃん</ns1211:title>
+    <ns1212:seeAlso xmlns:ns1212="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v009"/>
+    <ns1213:homepage xmlns:ns1213="http://xmlns.com/foaf/0.1/" rdf:resource="http://twitter.com/kokkaichan"/>
+  </ns1205:Visualization>
+  <ns1214:Visualization xmlns:ns1214="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v010">
+    <ns1215:available xmlns:ns1215="http://purl.org/dc/terms/">2012</ns1215:available>
+    <ns1216:creator xmlns:ns1216="http://purl.org/dc/terms/">下垣 祐貴</ns1216:creator>
+    <ns1217:creator xmlns:ns1217="http://purl.org/dc/terms/">尾崎 康次郎</ns1217:creator>
+    <ns1218:creator xmlns:ns1218="http://purl.org/dc/terms/">田中 恵子</ns1218:creator>
+    <ns1219:description xmlns:ns1219="http://purl.org/dc/terms/">Trendipity (トレンディピティ)は，ツイッターのつぶやきデータからトレンドを俯瞰し，偶然の発見(セレンディピティ)を見える化するビジュアライゼーションツールです．&#xD;たこつぼ化しやすいと言われるソーシャルメディア上のデータを，ユーザの誰もが主体的に，視覚的に解析できるようにするためにつくりました．&#xD;サービスページにアクセスすると，自動的に今話題のキーワードを取得し，その単語を含むツイッター上のつぶやきデータから，出現回数の多い他の単語ほど大きいフォントでビジュアライゼーションします．ユーザーは自らクエリに単語を入力することで，その単語に関するトレンドクラウドを生成することもできます．このトレンドクラウドを見れば，ひと目で関連性の高いキーワードや話題を容易に見つけることができます．&#xD;また生成したワードクラウドの画像は，ボタンひとつで保存したり，ツイッターでシェアすることができます．</ns1219:description>
+    <ns1220:license xmlns:ns1220="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0"/>
+    <ns1221:title xmlns:ns1221="http://purl.org/dc/terms/">Trendipity (トレンディピティ)</ns1221:title>
+    <ns1222:seeAlso xmlns:ns1222="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v010"/>
+    <ns1223:homepage xmlns:ns1223="http://xmlns.com/foaf/0.1/" rdf:resource="http://trendipity.net/cloud/"/>
+  </ns1214:Visualization>
+  <ns1224:Visualization xmlns:ns1224="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v012">
     <ns1225:available xmlns:ns1225="http://purl.org/dc/terms/">2012</ns1225:available>
-    <ns1226:creator xmlns:ns1226="http://purl.org/dc/terms/">福野泰介</ns1226:creator>
-    <ns1227:description xmlns:ns1227="http://purl.org/dc/terms/">鯖江市営バス「つつじバス」のWebAPIを使い、リアルタイムの位置情報を模式図化した路線図と共に表示します。スマホのGPSを使い、現在位置付近の情報を見ることもできます。</ns1227:description>
-    <ns1228:license xmlns:ns1228="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns1229:relation xmlns:ns1229="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/d033"/>
-    <ns1230:title xmlns:ns1230="http://purl.org/dc/terms/">鯖江バスモニター</ns1230:title>
-    <ns1231:seeAlso xmlns:ns1231="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v016"/>
-    <ns1232:homepage xmlns:ns1232="http://xmlns.com/foaf/0.1/" rdf:resource="http://fukuno.jig.jp/2012/busmonitor"/>
+    <ns1226:creator xmlns:ns1226="http://purl.org/dc/terms/">只木進一</ns1226:creator>
+    <ns1227:creator xmlns:ns1227="http://purl.org/dc/terms/">吉賀夏子</ns1227:creator>
+    <ns1228:creator xmlns:ns1228="http://purl.org/dc/terms/">渡辺健次</ns1228:creator>
+    <ns1229:description xmlns:ns1229="http://purl.org/dc/terms/">Web上では近年様々な電子図書館が設けられており、様々な作品の画像や書誌情報を簡単に閲覧できるようになりました。しかし年々蓄積される情報が膨大になるにつれて、わずかなキーワードやシステムに備え付けの機能で検索をして、必要な情報を見つけ出す事自体にも、膨大な労力を費やすようになりました。特に、歴史・人文科学的資料の調査では、ある作品の著者の名前（号、幼名、旧姓、別名等）を調べること、すなわち「名寄せ」は重要かつ困難な作業のひとつです。&#xD;そこで、電子図書館の利用者がある作品の著者を検索する際に、名寄せや年代の確認等を行いながら、目的の資料に関するデータを効率的に探す方法を考えました。本作では、Linked DataとなっているWeb NDLA Authorities（国立国会図書館典拠データ）が活用できるように、佐賀大学所蔵の「市場直次郎コレクション」（http://www.dl.saga-u.ac.jp/OgiNabesima/）書誌データもLinked Dataに変換して各属性を一致させることで、同じタイムラインに表示させたり、ファセット検索できるようにしました。個々の小さなデータベースでも、そのデータをLinked Open Dataにすることで、別のデータベースと機械的に属性を合わせ、かつ適切な可視化を施せば、そのデータの価値をもっと引き出すことができると思います。&#xD;なお、利用許諾等の関係で、ウェブアプリの紹介と説明はビデオでのプレゼンテーションとなっています。補足説明はウェブサイト（http://www.ai.is.saga-u.ac.jp/~yoshiga/ichiba/）に載せていますので、併せてご覧ください。</ns1229:description>
+    <ns1230:license xmlns:ns1230="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1231:title xmlns:ns1231="http://purl.org/dc/terms/">Web NDLA Authorities（国立国会図書館典拠データ）を利用した名寄せと書誌情報の検索およびタイムラインを使った可視化</ns1231:title>
+    <ns1232:seeAlso xmlns:ns1232="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v012"/>
+    <ns1233:homepage xmlns:ns1233="http://xmlns.com/foaf/0.1/" rdf:resource="http://www.ai.is.saga-u.ac.jp/~yoshiga/ichiba/"/>
   </ns1224:Visualization>
-  <ns1233:Visualization xmlns:ns1233="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v017">
-    <ns1234:available xmlns:ns1234="http://purl.org/dc/terms/">2012</ns1234:available>
-    <ns1235:creator xmlns:ns1235="http://purl.org/dc/terms/">加藤 文彦</ns1235:creator>
-    <ns1236:description xmlns:ns1236="http://purl.org/dc/terms/">つながりマップは 2012年6月に開催された国立情報学研究所 平成24年度オープンハウス の展示ブースについて，あるブースに関係があると推測されるブースを紹介するシステムです． 国立情報学研究所のサービスである CiNii と KAKEN から国立情報学研究所に所属する研究者に関するRDFを収集し，またオープンハウス関連のデータもRDFにすることで，論文の共著者関係や科研費の申請関係等，各ブースの研究者の関係をグラフで可視化します．&#xD;データはhttp://lod.ac/oh-uramap/sparqlからアクセス可能です．現在CiNiiのArticle RDFに含まれているAuthor URIが間違っている (#meが抜けている) ため，その点のみ改変して利用しています．</ns1236:description>
-    <ns1237:license xmlns:ns1237="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
-    <ns1238:title xmlns:ns1238="http://purl.org/dc/terms/">国立情報学研究所 平成24年度オープンハウス つながりマップ</ns1238:title>
-    <ns1239:seeAlso xmlns:ns1239="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v017"/>
-    <ns1240:homepage xmlns:ns1240="http://xmlns.com/foaf/0.1/" rdf:resource="http://lod.ac/oh-uramap/"/>
-  </ns1233:Visualization>
-  <ns1241:Visualization xmlns:ns1241="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v018">
-    <ns1242:available xmlns:ns1242="http://purl.org/dc/terms/">2012</ns1242:available>
-    <ns1243:creator xmlns:ns1243="http://purl.org/dc/terms/">中野 圭</ns1243:creator>
-    <ns1244:creator xmlns:ns1244="http://purl.org/dc/terms/">寺澤　憲人</ns1244:creator>
-    <ns1245:creator xmlns:ns1245="http://purl.org/dc/terms/">小副川健</ns1245:creator>
-    <ns1246:creator xmlns:ns1246="http://purl.org/dc/terms/">生島高裕</ns1246:creator>
-    <ns1247:creator xmlns:ns1247="http://purl.org/dc/terms/">羽鳥健太郎</ns1247:creator>
-    <ns1248:description xmlns:ns1248="http://purl.org/dc/terms/">Visualizationとは、ひと目では要点を理解できないData、Information、Knowledge、Wisdomという階層構造を持つ要素の集合を、ひと目で理解できるようにストーリーをつけ、魅せたい部分を際立たせる方法である。&#xD;現在はKnowledge（物理学の理論など）までを可視化することに成功しているように見える。今後はWisdom（適用性のあるノウハウ等）を可視化する方法を見出していく必要がある。残念ながら、この方法は未知である。&#xD;このようなWisdomを可視化する方法論をどのように確立していくかを議論することが大きな課題であるものの、構成的に構築せざるを得ない状況である。</ns1248:description>
-    <ns1249:license xmlns:ns1249="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1250:title xmlns:ns1250="http://purl.org/dc/terms/">Data Visualizationの今後について</ns1250:title>
-    <ns1251:seeAlso xmlns:ns1251="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v018"/>
-    <ns1252:homepage xmlns:ns1252="http://xmlns.com/foaf/0.1/" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/dat/visualization/v018_20130131155837_Data Visualization.pdf"/>
-  </ns1241:Visualization>
-  <ns1253:Visualization xmlns:ns1253="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v019">
-    <ns1254:available xmlns:ns1254="http://purl.org/dc/terms/">2012</ns1254:available>
-    <ns1255:creator xmlns:ns1255="http://purl.org/dc/terms/">坂野尚吾</ns1255:creator>
-    <ns1256:creator xmlns:ns1256="http://purl.org/dc/terms/">松山寛</ns1256:creator>
-    <ns1257:creator xmlns:ns1257="http://purl.org/dc/terms/">田村賢哉</ns1257:creator>
-    <ns1258:creator xmlns:ns1258="http://purl.org/dc/terms/">西林直哉</ns1258:creator>
-    <ns1259:creator xmlns:ns1259="http://purl.org/dc/terms/">野口健人</ns1259:creator>
-    <ns1260:creator xmlns:ns1260="http://purl.org/dc/terms/">長田昌貴</ns1260:creator>
-    <ns1261:description xmlns:ns1261="http://purl.org/dc/terms/">OpenTextMapは初等・中等教育を対象とした教材地図データベースです。&#xD;地球上で起きた事柄は、それぞれ「位置」をもってつながりを持っております。&#xD;歴史の中や自然界で起きた事柄をGoogle Earthを用いることで、教材地図は、物事の地理的関係性や時系列関係性のビジュライゼーションは学習理解の促進につながると考えます。&#xD;OpenTextMapの教材地図には位置や時間関係だけでなく、写真・映像・図表等の文献等の関係性も含まれています。ここには、公的機関が提供する統計データやflickr等の画像コンテンツとの連携が可能であり、学習者の想像力を膨らませることに一役できます&#xD;。&#xD;OpenTextMapではテーマごとに用意されたを教材地図をweb上で確認し、ダウンロードすることができるようになっています。&#xD;また、それらをジャンルごとに分類し、キーワードや学習単元によって他の教材地図ともリンクされているため、目的にあった教材地図を見つけることもできます。&#xD;※実際にOpenTextMapの教材地図を使って授業が行われた例もございます</ns1261:description>
-    <ns1262:license xmlns:ns1262="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1263:title xmlns:ns1263="http://purl.org/dc/terms/">OpenTextMap（先生のため地理歴史教材地図）</ns1263:title>
-    <ns1264:seeAlso xmlns:ns1264="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v019"/>
-    <ns1265:homepage xmlns:ns1265="http://xmlns.com/foaf/0.1/" rdf:resource="http://opentextmap.org/library/"/>
-  </ns1253:Visualization>
-  <ns1266:Visualization xmlns:ns1266="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v020">
-    <ns1267:available xmlns:ns1267="http://purl.org/dc/terms/">2012</ns1267:available>
-    <ns1268:creator xmlns:ns1268="http://purl.org/dc/terms/">s3works</ns1268:creator>
-    <ns1269:description xmlns:ns1269="http://purl.org/dc/terms/">LODチャレンジ Japan 2012 作品募集期間中(2012/10/01～2013/01/31)の応募数を部門ごとに集計したものです．1/31は午前9時現在の件数です．Google Spreadsheetを利用して，インタラクティブな時系列グラフを作成しました．</ns1269:description>
-    <ns1270:license xmlns:ns1270="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1271:title xmlns:ns1271="http://purl.org/dc/terms/">LODチャレンジ Japan 2012 応募数推移</ns1271:title>
-    <ns1272:seeAlso xmlns:ns1272="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v020"/>
-    <ns1273:homepage xmlns:ns1273="http://xmlns.com/foaf/0.1/" rdf:resource="https://sites.google.com/site/odatafooding/home/visualize/lodchallege2012submissions"/>
-  </ns1266:Visualization>
-  <ns1274:Visualization xmlns:ns1274="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v021">
-    <ns1275:available xmlns:ns1275="http://purl.org/dc/terms/">2012</ns1275:available>
-    <ns1276:creator xmlns:ns1276="http://purl.org/dc/terms/">三原鉄也</ns1276:creator>
-    <ns1277:creator xmlns:ns1277="http://purl.org/dc/terms/">木野陽</ns1277:creator>
-    <ns1278:description xmlns:ns1278="http://purl.org/dc/terms/">”広大なWebの世界にそびえる大きな樹ーLODの世界樹　そこには妖精たちが暮らしていて…”&#xD;LODの世界ををより多くの人に伝えるために、キャラクターイラストで絵本風に「ビジュアライゼーション」しました。&#xD;日本語の他、英語をはじめ各言語版も順次追加予定です。&#xD;*****制作スタッフ*****&#xD;絵と文：木野 陽（マンガ家）&#xD;制作：三原 鉄也（筑波大学図書館情報メディア研究科）&#xD;監修：筑波大学図書館情報メディア研究科　杉本研究室</ns1278:description>
-    <ns1279:license xmlns:ns1279="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
-    <ns1280:title xmlns:ns1280="http://purl.org/dc/terms/">A Little and Big World - Tales of LOD</ns1280:title>
-    <ns1281:seeAlso xmlns:ns1281="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v021"/>
-    <ns1282:homepage xmlns:ns1282="http://xmlns.com/foaf/0.1/" rdf:resource="http://mdlab.slis.tsukuba.ac.jp/lodc2012/talesoflod"/>
-  </ns1274:Visualization>
+  <ns1234:Visualization xmlns:ns1234="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v013">
+    <ns1235:available xmlns:ns1235="http://purl.org/dc/terms/">2012</ns1235:available>
+    <ns1236:creator xmlns:ns1236="http://purl.org/dc/terms/">snowy</ns1236:creator>
+    <ns1237:description xmlns:ns1237="http://purl.org/dc/terms/">「作家の歩み」は作家の生前に出版された図書をタイムラインで表現したウェブサイトです。&#xD;作家の生没年はWeb NDL Authorities、図書の情報はCiNii Books APIからを取得しています。&#xD;何歳の時にどの作品を書いたのか、どの時期に多くの作品が生まれているのかなど、作家の執筆活動の歩みが視覚的に表現されています。&#xD;同姓同名の問題などがあるため、現在は検索機能は付けていません。&#xD;*** 今後の展開 ***&#xD;文学史や社会的な事件も同じタイムライン上で表現できると作品と社会の関係を視覚化することができるのではないかと思います。</ns1237:description>
+    <ns1238:license xmlns:ns1238="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1239:title xmlns:ns1239="http://purl.org/dc/terms/">作家の歩み</ns1239:title>
+    <ns1240:seeAlso xmlns:ns1240="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v013"/>
+    <ns1241:homepage xmlns:ns1241="http://xmlns.com/foaf/0.1/" rdf:resource="http://kyoto-city.net/ayumi/index.php"/>
+  </ns1234:Visualization>
+  <ns1242:Visualization xmlns:ns1242="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v014">
+    <ns1243:available xmlns:ns1243="http://purl.org/dc/terms/">2012</ns1243:available>
+    <ns1244:creator xmlns:ns1244="http://purl.org/dc/terms/">原田真喜子</ns1244:creator>
+    <ns1245:description xmlns:ns1245="http://purl.org/dc/terms/">コトバノキは、Web集合知上の語彙のつながりを視覚化するコンテンツです。コトバノキでは、Googleサーチエンジン、GoogleとYahooの検索予測候補、Twitter、Wikipedia、はてなキーワードの情報をサマライズし、Web上で語彙がどのように使用されているかを一様に閲覧することができます。視覚化の特徴として、１．概念体系モデルを参考に木をモチーフに語彙の用いられ方を体系化した事　２．Twitter集合知からツイートの感情メタデータを取得し、感情を色彩として表現した事　３．主観的な性質の集合知と客観的な性質の集合知に分類し、集合知ごとの語彙の使用環境の比較閲覧が可能　の3つがあります。&#xD;コトバノキでは、「想定外の言葉との出会い」がきっと待っています。</ns1245:description>
+    <ns1246:license xmlns:ns1246="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
+    <ns1247:title xmlns:ns1247="http://purl.org/dc/terms/">コトバノキ</ns1247:title>
+    <ns1248:seeAlso xmlns:ns1248="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v014"/>
+    <ns1249:homepage xmlns:ns1249="http://xmlns.com/foaf/0.1/" rdf:resource="http://kokima.sakura.ne.jp/kotobanomori/kotobanoki.htm"/>
+  </ns1242:Visualization>
+  <ns1250:Visualization xmlns:ns1250="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v015">
+    <ns1251:available xmlns:ns1251="http://purl.org/dc/terms/">2012</ns1251:available>
+    <ns1252:creator xmlns:ns1252="http://purl.org/dc/terms/">榊原一人</ns1252:creator>
+    <ns1253:description xmlns:ns1253="http://purl.org/dc/terms/">・1920年から2030年までの110年間の、日本の「５歳ごとx５年ごと」の人口推移のグラフです。「人口の波」の変形を、ぱらぱらマンガでご覧いただけます。&#xD;・データソースは、1920年（大正９年）の第1回から2010年（平成22年）の第19回までの国勢調査のデータと、国立社会保障・人口問題研究所の将来推計人口のデータを、独自に加工したものです。&#xD;・第二次世界大戦後の1950年から2005年までの12回分のデータには、「働いている人」「結婚している人」「産まれた人」の３つの要素を、他の日本政府の公開データから抽出して追加しました。&#xD;・processing2.0 Beta 7 で開発した実行ファイル形式です。&#xD;＜意図＞&#xD;人類史上かつてない、少子高齢化がすすむ日本。自分も歳をとり、いつか死んで行く。その意味が少しでもわかるかと思い、こうして図解しました。どうあるべきなのか、どうしてこうなったのか、どうすれば未来は変わって行くのかを、多くの人と考えていくベースになれれば嬉しいです。&#xD;＜謝辞＞&#xD;この表現のためのツール「processing」とその解説書を書いてくれたBen Fryに感謝します。インスピレーションを与えてくれた、gapminderのHans Roslingと、子どもの頃の朝のお楽しみTV番組「カリキュラマシーン」に合わせて感謝します。</ns1253:description>
+    <ns1254:license xmlns:ns1254="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0"/>
+    <ns1255:title xmlns:ns1255="http://purl.org/dc/terms/">人口の波</ns1255:title>
+    <ns1256:seeAlso xmlns:ns1256="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v015"/>
+    <ns1257:homepage xmlns:ns1257="http://xmlns.com/foaf/0.1/" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/dat/visualization/v015_20130131000837_wave_of_jp_population_app.zip"/>
+  </ns1250:Visualization>
+  <ns1258:Visualization xmlns:ns1258="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v016">
+    <ns1259:available xmlns:ns1259="http://purl.org/dc/terms/">2012</ns1259:available>
+    <ns1260:creator xmlns:ns1260="http://purl.org/dc/terms/">福野泰介</ns1260:creator>
+    <ns1261:description xmlns:ns1261="http://purl.org/dc/terms/">鯖江市営バス「つつじバス」のWebAPIを使い、リアルタイムの位置情報を模式図化した路線図と共に表示します。スマホのGPSを使い、現在位置付近の情報を見ることもできます。</ns1261:description>
+    <ns1262:license xmlns:ns1262="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns1263:relation xmlns:ns1263="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/d033"/>
+    <ns1264:title xmlns:ns1264="http://purl.org/dc/terms/">鯖江バスモニター</ns1264:title>
+    <ns1265:seeAlso xmlns:ns1265="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v016"/>
+    <ns1266:homepage xmlns:ns1266="http://xmlns.com/foaf/0.1/" rdf:resource="http://fukuno.jig.jp/2012/busmonitor"/>
+  </ns1258:Visualization>
+  <ns1267:Visualization xmlns:ns1267="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v017">
+    <ns1268:available xmlns:ns1268="http://purl.org/dc/terms/">2012</ns1268:available>
+    <ns1269:creator xmlns:ns1269="http://purl.org/dc/terms/">加藤 文彦</ns1269:creator>
+    <ns1270:description xmlns:ns1270="http://purl.org/dc/terms/">つながりマップは 2012年6月に開催された国立情報学研究所 平成24年度オープンハウス の展示ブースについて，あるブースに関係があると推測されるブースを紹介するシステムです． 国立情報学研究所のサービスである CiNii と KAKEN から国立情報学研究所に所属する研究者に関するRDFを収集し，またオープンハウス関連のデータもRDFにすることで，論文の共著者関係や科研費の申請関係等，各ブースの研究者の関係をグラフで可視化します．&#xD;データはhttp://lod.ac/oh-uramap/sparqlからアクセス可能です．現在CiNiiのArticle RDFに含まれているAuthor URIが間違っている (#meが抜けている) ため，その点のみ改変して利用しています．</ns1270:description>
+    <ns1271:license xmlns:ns1271="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns1272:title xmlns:ns1272="http://purl.org/dc/terms/">国立情報学研究所 平成24年度オープンハウス つながりマップ</ns1272:title>
+    <ns1273:seeAlso xmlns:ns1273="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v017"/>
+    <ns1274:homepage xmlns:ns1274="http://xmlns.com/foaf/0.1/" rdf:resource="http://lod.ac/oh-uramap/"/>
+  </ns1267:Visualization>
+  <ns1275:Visualization xmlns:ns1275="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v018">
+    <ns1276:available xmlns:ns1276="http://purl.org/dc/terms/">2012</ns1276:available>
+    <ns1277:creator xmlns:ns1277="http://purl.org/dc/terms/">中野 圭</ns1277:creator>
+    <ns1278:creator xmlns:ns1278="http://purl.org/dc/terms/">寺澤　憲人</ns1278:creator>
+    <ns1279:creator xmlns:ns1279="http://purl.org/dc/terms/">小副川健</ns1279:creator>
+    <ns1280:creator xmlns:ns1280="http://purl.org/dc/terms/">生島高裕</ns1280:creator>
+    <ns1281:creator xmlns:ns1281="http://purl.org/dc/terms/">羽鳥健太郎</ns1281:creator>
+    <ns1282:description xmlns:ns1282="http://purl.org/dc/terms/">Visualizationとは、ひと目では要点を理解できないData、Information、Knowledge、Wisdomという階層構造を持つ要素の集合を、ひと目で理解できるようにストーリーをつけ、魅せたい部分を際立たせる方法である。&#xD;現在はKnowledge（物理学の理論など）までを可視化することに成功しているように見える。今後はWisdom（適用性のあるノウハウ等）を可視化する方法を見出していく必要がある。残念ながら、この方法は未知である。&#xD;このようなWisdomを可視化する方法論をどのように確立していくかを議論することが大きな課題であるものの、構成的に構築せざるを得ない状況である。</ns1282:description>
+    <ns1283:license xmlns:ns1283="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1284:title xmlns:ns1284="http://purl.org/dc/terms/">Data Visualizationの今後について</ns1284:title>
+    <ns1285:seeAlso xmlns:ns1285="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v018"/>
+    <ns1286:homepage xmlns:ns1286="http://xmlns.com/foaf/0.1/" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/dat/visualization/v018_20130131155837_Data Visualization.pdf"/>
+  </ns1275:Visualization>
+  <ns1287:Visualization xmlns:ns1287="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v019">
+    <ns1288:available xmlns:ns1288="http://purl.org/dc/terms/">2012</ns1288:available>
+    <ns1289:creator xmlns:ns1289="http://purl.org/dc/terms/">坂野尚吾</ns1289:creator>
+    <ns1290:creator xmlns:ns1290="http://purl.org/dc/terms/">松山寛</ns1290:creator>
+    <ns1291:creator xmlns:ns1291="http://purl.org/dc/terms/">田村賢哉</ns1291:creator>
+    <ns1292:creator xmlns:ns1292="http://purl.org/dc/terms/">西林直哉</ns1292:creator>
+    <ns1293:creator xmlns:ns1293="http://purl.org/dc/terms/">野口健人</ns1293:creator>
+    <ns1294:creator xmlns:ns1294="http://purl.org/dc/terms/">長田昌貴</ns1294:creator>
+    <ns1295:description xmlns:ns1295="http://purl.org/dc/terms/">OpenTextMapは初等・中等教育を対象とした教材地図データベースです。&#xD;地球上で起きた事柄は、それぞれ「位置」をもってつながりを持っております。&#xD;歴史の中や自然界で起きた事柄をGoogle Earthを用いることで、教材地図は、物事の地理的関係性や時系列関係性のビジュライゼーションは学習理解の促進につながると考えます。&#xD;OpenTextMapの教材地図には位置や時間関係だけでなく、写真・映像・図表等の文献等の関係性も含まれています。ここには、公的機関が提供する統計データやflickr等の画像コンテンツとの連携が可能であり、学習者の想像力を膨らませることに一役できます&#xD;。&#xD;OpenTextMapではテーマごとに用意されたを教材地図をweb上で確認し、ダウンロードすることができるようになっています。&#xD;また、それらをジャンルごとに分類し、キーワードや学習単元によって他の教材地図ともリンクされているため、目的にあった教材地図を見つけることもできます。&#xD;※実際にOpenTextMapの教材地図を使って授業が行われた例もございます</ns1295:description>
+    <ns1296:license xmlns:ns1296="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1297:title xmlns:ns1297="http://purl.org/dc/terms/">OpenTextMap（先生のため地理歴史教材地図）</ns1297:title>
+    <ns1298:seeAlso xmlns:ns1298="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v019"/>
+    <ns1299:homepage xmlns:ns1299="http://xmlns.com/foaf/0.1/" rdf:resource="http://opentextmap.org/library/"/>
+  </ns1287:Visualization>
+  <ns1300:Visualization xmlns:ns1300="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v020">
+    <ns1301:available xmlns:ns1301="http://purl.org/dc/terms/">2012</ns1301:available>
+    <ns1302:creator xmlns:ns1302="http://purl.org/dc/terms/">s3works</ns1302:creator>
+    <ns1303:description xmlns:ns1303="http://purl.org/dc/terms/">LODチャレンジ Japan 2012 作品募集期間中(2012/10/01～2013/01/31)の応募数を部門ごとに集計したものです．1/31は午前9時現在の件数です．Google Spreadsheetを利用して，インタラクティブな時系列グラフを作成しました．</ns1303:description>
+    <ns1304:license xmlns:ns1304="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1305:title xmlns:ns1305="http://purl.org/dc/terms/">LODチャレンジ Japan 2012 応募数推移</ns1305:title>
+    <ns1306:seeAlso xmlns:ns1306="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v020"/>
+    <ns1307:homepage xmlns:ns1307="http://xmlns.com/foaf/0.1/" rdf:resource="https://sites.google.com/site/odatafooding/home/visualize/lodchallege2012submissions"/>
+  </ns1300:Visualization>
+  <ns1308:Visualization xmlns:ns1308="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v021">
+    <ns1309:available xmlns:ns1309="http://purl.org/dc/terms/">2012</ns1309:available>
+    <ns1310:creator xmlns:ns1310="http://purl.org/dc/terms/">三原鉄也</ns1310:creator>
+    <ns1311:creator xmlns:ns1311="http://purl.org/dc/terms/">木野陽</ns1311:creator>
+    <ns1312:description xmlns:ns1312="http://purl.org/dc/terms/">”広大なWebの世界にそびえる大きな樹ーLODの世界樹　そこには妖精たちが暮らしていて…”&#xD;LODの世界ををより多くの人に伝えるために、キャラクターイラストで絵本風に「ビジュアライゼーション」しました。&#xD;日本語の他、英語をはじめ各言語版も順次追加予定です。&#xD;*****制作スタッフ*****&#xD;絵と文：木野 陽（マンガ家）&#xD;制作：三原 鉄也（筑波大学図書館情報メディア研究科）&#xD;監修：筑波大学図書館情報メディア研究科　杉本研究室</ns1312:description>
+    <ns1313:license xmlns:ns1313="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1314:title xmlns:ns1314="http://purl.org/dc/terms/">A Little and Big World - Tales of LOD</ns1314:title>
+    <ns1315:seeAlso xmlns:ns1315="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v021"/>
+    <ns1316:homepage xmlns:ns1316="http://xmlns.com/foaf/0.1/" rdf:resource="http://mdlab.slis.tsukuba.ac.jp/lodc2012/talesoflod"/>
+  </ns1308:Visualization>
+  <ns1317:Visualization xmlns:ns1317="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v022">
+    <ns1318:available xmlns:ns1318="http://purl.org/dc/terms/">2012</ns1318:available>
+    <ns1319:creator xmlns:ns1319="http://purl.org/dc/terms/">谷杉 歩音</ns1319:creator>
+    <ns1320:description xmlns:ns1320="http://purl.org/dc/terms/">横浜市 関内・馬車道エリアに関して個別に存在しているアート情報、飲食店情報、気になる場所情報を「ヨコハマ・アート・LOD」,「くるくる関内×図書館総合展 飲食店案内」,「tab」から組み合わせてARブラウジングアプリ junaio 向けにまとめたチャンネル作成しました。&#xD;関内のアートイベントに訪れた人がイベント後も周辺で楽しめるよう目指しています。</ns1320:description>
+    <ns1321:license xmlns:ns1321="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1322:relation xmlns:ns1322="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/i018"/>
+    <ns1323:title xmlns:ns1323="http://purl.org/dc/terms/">関内・馬車道アートイベント AR</ns1323:title>
+    <ns1324:seeAlso xmlns:ns1324="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v022"/>
+    <ns1325:homepage xmlns:ns1325="http://xmlns.com/foaf/0.1/" rdf:resource="http://ichi2410.dip.jp/yan/index.html"/>
+  </ns1317:Visualization>
+  <ns1326:Visualization xmlns:ns1326="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v023">
+    <ns1327:available xmlns:ns1327="http://purl.org/dc/terms/">2012</ns1327:available>
+    <ns1328:creator xmlns:ns1328="http://purl.org/dc/terms/">snowy</ns1328:creator>
+    <ns1329:description xmlns:ns1329="http://purl.org/dc/terms/">今回のデータセット部門で応募された会津若松市のデータセット「毎月大字別人口」をヒートマップでビジュアライゼーションしました。もとのデータセットは町・字名で緯度・経度が無かったため、こちらで追加したデータを使用しています。&#xD;地図の描写は、「Leaflet」（オープンソースのJavaScriptのライブラリー）を使用し、 地図データはOpenStreetMapを読み込んでいます。&#xD;ヒートマップはheatcanvas( MITライセンス)というJavaScriptを使って、HTML5のcanvasで描写しています。&#xD;* 今回使用した他にビジュアライゼーションに使えるJavascriptにRaphaël、Processing.js、D3.jsなどがあります。</ns1329:description>
+    <ns1330:license xmlns:ns1330="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/publicdomain/mark/1.0"/>
+    <ns1331:relation xmlns:ns1331="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/d067"/>
+    <ns1332:title xmlns:ns1332="http://purl.org/dc/terms/">ヒートマップ　会津若松市の毎月大字別人口（2012年）</ns1332:title>
+    <ns1333:seeAlso xmlns:ns1333="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v023"/>
+    <ns1334:homepage xmlns:ns1334="http://xmlns.com/foaf/0.1/" rdf:resource="http://kyoto-city.net/lod/aizuwakamatsu/heatmap.html"/>
+  </ns1326:Visualization>
+  <ns1335:Visualization xmlns:ns1335="http://purl.org/net/mdlab/ns/lodc/" rdf:about="http://purl.org/net/mdlab/data/lodc/2012/v024">
+    <ns1336:available xmlns:ns1336="http://purl.org/dc/terms/">2012</ns1336:available>
+    <ns1337:creator xmlns:ns1337="http://purl.org/dc/terms/">山本泰智</ns1337:creator>
+    <ns1338:creator xmlns:ns1338="http://purl.org/dc/terms/">王悦</ns1338:creator>
+    <ns1339:creator xmlns:ns1339="http://purl.org/dc/terms/">金進東</ns1339:creator>
+    <ns1340:description xmlns:ns1340="http://purl.org/dc/terms/">TextAE(Text Annotation Editor)は名前の通り、テキストに対するアノテーション情報を編集するためのウェブアプリケーションであり、編集作業を効率化するためにアノテーション情報を可視化する。テキストアノテーションは一次元データ(文字列)中の専門用語等の出現位置を特定し、その用語間の関係を表現する必要があるが、TextAEはSVGを使ってそのアノテーションを表現し、ウェブブラウザを用いた編集を可能にする。アプリケーション部門に応募しているPubAnnotation(a037)の可視化ツールとして開発された。現在,FireFoxとChromeの最新バージョンで問題なく動くのを確認済み。</ns1340:description>
+    <ns1341:license xmlns:ns1341="http://purl.org/dc/terms/" rdf:resource="http://creativecommons.org/licenses/by/3.0"/>
+    <ns1342:relation xmlns:ns1342="http://purl.org/dc/terms/" rdf:resource="http://purl.org/net/mdlab/data/lodc/2012/d071"/>
+    <ns1343:title xmlns:ns1343="http://purl.org/dc/terms/">TextAE</ns1343:title>
+    <ns1344:seeAlso xmlns:ns1344="http://www.w3.org/2000/01/rdf-schema#" rdf:resource="http://lod.sfc.keio.ac.jp/challenge2012/show_status.php?id=v024"/>
+    <ns1345:homepage xmlns:ns1345="http://xmlns.com/foaf/0.1/" rdf:resource="http://bionlp.dbcls.jp/textae/textae.html?target=http://pubannotation.dbcls.jp/annsets/bionlp-st-ge-2013/pmcdocs/2626671/divs/5/annotations.json"/>
+  </ns1335:Visualization>
 </rdf:RDF>
