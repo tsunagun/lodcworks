@@ -1,54 +1,37 @@
-# coding: UTF-8
-
-require './lib/lodc/work/application'
-require './lib/lodc/work/dataset'
-require './lib/lodc/work/idea'
-require './lib/lodc/work/visualization'
-
-module LODChallenge
+module LODC
   class Work
-    def self.extract(work_page_uri)
-      case work_page_uri.split("").pop(4).join
-      when /^a[0-9]{3}/
-        LODChallenge::Work::Application.new(work_page_uri)
-      when /^d[0-9]{3}/
-        LODChallenge::Work::Dataset.new(work_page_uri)
-      when /^i[0-9]{3}/
-        LODChallenge::Work::Idea.new(work_page_uri)
-      when /^v[0-9]{3}/
-        LODChallenge::Work::Visualization.new(work_page_uri)
+    attr_accessor :type, :uri, :lodc_entry_page, :year, :title, :homepage, :description, :license # String
+    attr_accessor :creators, :related_works # Array
+    def initialize
+      @creators = Array.new
+      @related_works = Array.new
+    end
+
+    def serialize(format=:ntriples)
+      self.to_rdf.dump(format)
+    end
+
+    def to_rdf(type = RDF::LODC.Work)
+      graph = RDF::Graph.new
+      work_uri = RDF::URI.new(@uri)
+      graph << [work_uri, RDF.type, type]
+      graph << RDF::Statement.new(work_uri, RDF::DC.available, RDF::Literal.new(@year)) unless @year.nil?
+      @creators.each do |creator|
+        graph << RDF::Statement.new(work_uri, RDF::DC.creator, RDF::Literal.new(creator)) unless creator.nil?
       end
-    end
-
-    def license_to_uri(string)
-      licenses = {
-        "パブリックドメイン" => "http://creativecommons.org/publicdomain/mark/1.0",
-        "表示" => "http://creativecommons.org/licenses/by/3.0",
-        "表示—継承" => "http://creativecommons.org/licenses/by-sa/3.0",
-        "表示—改変禁止" => "http://creativecommons.org/licenses/by-nd/3.0",
-        "表示—非営利" => "http://creativecommons.org/licenses/by-nc/3.0",
-        "表示—非営利—継承" => "http://creativecommons.org/licenses/by-nc-sa/3.0",
-        "表示—非営利—改変禁止" => "http://creativecommons.org/licenses/by-nc-nd/3.0"
-      }
-      licenses[string] || string
-    end
-
-    # 作品の作者を取得する
-    def extract_creators(parser)
-      parser.at_xpath("//tr[th/text()='ご氏名']/td").text.strip.split(/，|、|,　|, |\. /) rescue Array.new
-    end
-
-    # 関連作品を取得する
-    def extract_related_works(parser)
-      related_works = Array.new
-      parser.xpath("//tr[th[starts-with(., '関連する')]]//a[text()]/@href").each do |tr|
-        work_page_uri = tr.text.strip rescue nil
-        year = work_page_uri.slice(/(?!challenge)[0-9]{4}/)
-        work_id = work_page_uri.split("=").last
-        work_uri = "http://purl.org/net/mdlab/data/lodc/#{@year}/#{work_id}"
-        related_works << work_uri
+      graph << RDF::Statement.new(work_uri, RDF::DC.title, RDF::Literal.new(@title)) unless @title.nil?
+      graph << RDF::Statement.new(work_uri, RDF::DC.description, RDF::Literal.new(@description)) unless @description.nil?
+      graph << RDF::Statement.new(work_uri, RDF::FOAF.homepage, RDF::URI.new(@homepage)) unless @homepage.nil?
+      graph << RDF::Statement.new(work_uri, RDF::RDFS.seeAlso, RDF::URI.new(@lodc_entry_page)) unless @lodc_entry_page.nil?
+      @related_works.each do |related_work|
+        graph << RDF::Statement.new(work_uri, RDF::DC.relation, RDF::URI.new(related_work)) unless related_work.nil?
       end
-      return related_works
+      if @license =~ /^http/
+        graph << RDF::Statement.new(work_uri, RDF::DC.license, RDF::URI.new(@license)) unless @license.nil?
+      else
+        graph << RDF::Statement.new(work_uri, RDF::DC.license, RDF::Literal.new(@license)) unless @license.nil?
+      end
+      graph
     end
   end
 end
